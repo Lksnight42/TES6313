@@ -56,7 +56,7 @@
     (slot end-location)
     (slot preference); fastest / cheapest 
     (slot budget-limit); optional
-    (slot avoid); traffic / transfer / night
+    (multislot avoid); traffic / transfer / night
     (slot flexibility); low / medium / high
 )
 
