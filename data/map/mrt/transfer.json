@@ -1,0 +1,20 @@
+{
+  "transfers": [
+    {
+      "location": "8",
+      "from-mode": "mrt",
+      "from-service": "mrt-line-1",
+      "to-mode": "mrt",
+      "to-service": "mrt-line-2",
+      "time": 5
+    },
+    {
+      "location": "44",
+      "from-mode": "mrt",
+      "from-service": "mrt-line-2",
+      "to-mode": "mrt",
+      "to-service": "mrt-line-5",
+      "time": 5
+    }
+  ]
+}

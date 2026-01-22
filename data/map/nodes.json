@@ -1,0 +1,555 @@
+{
+  "locations": [
+    {
+      "id": "1",
+      "name": "Batu Caves MRT",
+      "level": "node",
+      "parent": "Batu Caves"
+    },
+    {
+      "id": "2",
+      "name": "Taman Wahyu",
+      "level": "node",
+      "parent": "Batu Caves"
+    },
+    {
+      "id": "3",
+      "name": "Kampung Batu",
+      "level": "node",
+      "parent": "Batu Caves"
+    },
+    {
+      "id": "4",
+      "name": "Batu Kentonmen",
+      "level": "node",
+      "parent": "Batu Caves"
+    },
+    { "id": "5", "name": "Sentul", "level": "node", "parent": "Batu Caves" },
+    { "id": "6", "name": "Putra", "level": "node", "parent": "Batu Caves" },
+    {
+      "id": "7",
+      "name": "Bank Negara",
+      "level": "node",
+      "parent": "Batu Caves"
+    },
+    {
+      "id": "8",
+      "name": "Kuala Lumpur MRT",
+      "level": "node",
+      "parent": "Batu Caves"
+    },
+    {
+      "id": "9",
+      "name": "Kl Sentral",
+      "level": "node",
+      "parent": "Batu Caves"
+    },
+
+    {
+      "id": "10",
+      "name": "Mid Valley",
+      "level": "node",
+      "parent": "Batu Caves"
+    },
+    { "id": "11", "name": "Seputeh", "level": "node", "parent": "Batu Caves" },
+    {
+      "id": "12",
+      "name": "Salak Selatan",
+      "level": "node",
+      "parent": "Batu Caves"
+    },
+    {
+      "id": "13",
+      "name": "Kajang MRT",
+      "level": "node",
+      "parent": "Batu Caves"
+    },
+    {
+      "id": "14",
+      "name": "Kajang MRT 2",
+      "level": "node",
+      "parent": "Batu Caves"
+    },
+    { "id": "15", "name": "UKM", "level": "node", "parent": "Batu Caves" },
+    { "id": "16", "name": "Bangi", "level": "node", "parent": "Batu Caves" },
+    {
+      "id": "17",
+      "name": "Batang Benar",
+      "level": "node",
+      "parent": "Batu Caves"
+    },
+    { "id": "18", "name": "Nilai", "level": "node", "parent": "Batu Caves" },
+    { "id": "19", "name": "Labu", "level": "node", "parent": "Batu Caves" },
+    { "id": "20", "name": "Tiroi", "level": "node", "parent": "Batu Caves" },
+    { "id": "21", "name": "Seremban", "level": "node", "parent": "Batu Caves" },
+    {
+      "id": "22",
+      "name": "Sungai Gadut",
+      "level": "node",
+      "parent": "Batu Caves"
+    },
+    { "id": "23", "name": "Rembau", "level": "node", "parent": "Batu Caves" },
+    { "id": "24", "name": "Pulau Sebang", "level": "node", "parent": "Tampin" },
+    {
+      "__comment__": "mrt-line-2",
+      "id": "25",
+      "name": "Tanjung Malim MRT",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "26",
+      "name": "Kuala Kubu Bharu",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    { "id": "27", "name": "Rasa", "level": "node", "parent": "Tanjung Malim" },
+    {
+      "id": "28",
+      "name": "Batang Kali",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "29",
+      "name": "Serendah",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "30",
+      "name": "Rawang",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    { "id": "31", "name": "Kuang", "level": "node", "parent": "Tanjung Malim" },
+    {
+      "id": "32",
+      "name": "Sungai Buloh",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "33",
+      "name": "Kepong Sentral",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "34",
+      "name": "Kepong",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "35",
+      "name": "Segambut",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "36",
+      "name": "Abdullah Hukum",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "37",
+      "name": "Angkasapuri",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "38",
+      "name": "Pantai Dalam",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "39",
+      "name": "Petaling",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "40",
+      "name": "Jalan Templer",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "41",
+      "name": "Kampung Dato Harun",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "42",
+      "name": "Seri Setia",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "43",
+      "name": "Setia Jaya",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "44",
+      "name": "Subang Jaya",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "45",
+      "name": "Batu Tiga",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "46",
+      "name": "Shah Alam",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "47",
+      "name": "Padang Jawa",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "48",
+      "name": "Bukit Badak",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    { "id": "49", "name": "Klang", "level": "node", "parent": "Tanjung Malim" },
+    {
+      "id": "50",
+      "name": "Teluk Pulai",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "51",
+      "name": "Teluk Gadong",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "52",
+      "name": "Kampung Raja Uda",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "53",
+      "name": "Jalan Kastam",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "54",
+      "name": "Pelabuhan Klang",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "__comment__": "mrt-line-5",
+      "id": "55",
+      "name": "Gombak MRT",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "56",
+      "name": "Taman Melati",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "57",
+      "name": "Wangsa Maju",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "58",
+      "name": "Sri Rampai",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "59",
+      "name": "Setiawangsa",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "60",
+      "name": "Jelatek",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "61",
+      "name": "Dato' Keramat",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    { "id": "62", "name": "Damai", "level": "node", "parent": "Tanjung Malim" },
+    {
+      "id": "63",
+      "name": "Ampang Part",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    { "id": "64", "name": "KLCC", "level": "node", "parent": "Tanjung Malim" },
+    {
+      "id": "65",
+      "name": "Kampung Baru",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "66",
+      "name": "Dang Wangi",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "67",
+      "name": "Masjid Jamek",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "68",
+      "name": "Pasar Seni",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "69",
+      "name": "Bangsar",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "70",
+      "name": "Kerinchi",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "71",
+      "name": "Universiti",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "72",
+      "name": "Taman Jaya",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "73",
+      "name": "Asia Jaya",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "74",
+      "name": "Taman Paramount",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "75",
+      "name": "Taman Bahagia",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "76",
+      "name": "Kelana Jaya",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "77",
+      "name": "Lemhah Subang",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "78",
+      "name": "Ara Damansara",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "79",
+      "name": "Glenmarie",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    { "id": "80", "name": "SS 15", "level": "node", "parent": "Tanjung Malim" },
+    { "id": "81", "name": "SS 18", "level": "node", "parent": "Tanjung Malim" },
+    { "id": "82", "name": "USJ 7", "level": "node", "parent": "Tanjung Malim" },
+    {
+      "id": "83",
+      "name": "Taipan",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "84",
+      "name": "Wawasan",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "85",
+      "name": "USJ 21",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "86",
+      "name": "Alam Megah",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "87",
+      "name": "Subang Alam",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "88",
+      "name": "Putra Heights",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "__comment__": "mrt-line-3",
+      "id": "90",
+      "name": "Sentul Timur MRT",
+      "level": "node",
+      "parent": "Sentul Timur"
+    },
+    {
+      "id": "91",
+      "name": "Sentul",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "92",
+      "name": "Titiwangsa",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "93",
+      "name": "PWTC",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "94",
+      "name": "Sultan Ismail",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "95",
+      "name": "Bandaraya",
+      "level": "node",
+      "parent": "Tanjung Malim"
+    },
+    {
+      "id": "96",
+      "name": "Masjid Jamek",
+      "level": "node",
+      "parent": "Sentul Timur"
+    },
+    {
+      "id": "97",
+      "name": "Plaza Rakyat",
+      "level": "node",
+      "parent": "Sentul Timur"
+    },
+    {
+      "id": "98",
+      "name": "Hang Tuah",
+      "level": "node",
+      "parent": "Sentul Timur"
+    },
+    {
+      "id": "99",
+      "name": "Pudu",
+      "level": "node",
+      "parent": "Sentul Timur"
+    },
+    {
+      "id": "100",
+      "name": "Chan Sow Lin",
+      "level": "node",
+      "parent": "Sentul Timur"
+    },
+    {
+      "id": "101",
+      "name": "Miharja",
+      "level": "node",
+      "parent": "Sentul Timur"
+    },
+    {
+      "id": "102",
+      "name": "Maluri",
+      "level": "node",
+      "parent": "Sentul Timur"
+    },
+    {
+      "id": "103",
+      "name": "Pandan Jaya",
+      "level": "node",
+      "parent": "Sentul Timur"
+    },
+    {
+      "id": "104",
+      "name": "Pandan Indah",
+      "level": "node",
+      "parent": "Sentul Timur"
+    },
+    {
+      "id": "105",
+      "name": "Cempaka",
+      "level": "node",
+      "parent": "Sentul Timur"
+    },
+    {
+      "id": "106",
+      "name": "Cahaya",
+      "level": "node",
+      "parent": "Sentul Timur"
+    },
+    {
+      "id": "107",
+      "name": "Ampang MRT",
+      "level": "node",
+      "parent": "Ampang"
+    },
+    {
+      "id": "108",
+      "name": "Cheras",
+      "level": "node",
+      "parent": "Sentul Timur"
+    }
+  ]
+}

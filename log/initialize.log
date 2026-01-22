@@ -1,0 +1,1836 @@
+[TRACE] 2026-01-20 22:23:47,191 [TRANSFER][DEFINE] at 44: mrt/mrt-line-2 <-> mrt/mrt-line-5 time=5 :: 44
+[TRACE] 2026-01-20 22:23:47,191 [TRANSFER][DEFINE] at 8: mrt/mrt-line-1 <-> mrt/mrt-line-2 time=5 :: 8
+[INFO] 2026-01-20 22:23:47,191 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 55
+[INFO] 2026-01-20 22:23:47,191 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 56
+[INFO] 2026-01-20 22:23:47,191 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 57
+[INFO] 2026-01-20 22:23:47,192 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 58
+[INFO] 2026-01-20 22:23:47,192 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 59
+[INFO] 2026-01-20 22:23:47,192 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 60
+[INFO] 2026-01-20 22:23:47,192 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 61
+[INFO] 2026-01-20 22:23:47,192 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 62
+[INFO] 2026-01-20 22:23:47,192 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 63
+[INFO] 2026-01-20 22:23:47,192 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 64
+[INFO] 2026-01-20 22:23:47,192 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 65
+[INFO] 2026-01-20 22:23:47,192 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 66
+[INFO] 2026-01-20 22:23:47,192 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 67
+[INFO] 2026-01-20 22:23:47,192 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 68
+[INFO] 2026-01-20 22:23:47,192 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 69
+[INFO] 2026-01-20 22:23:47,192 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 36
+[INFO] 2026-01-20 22:23:47,192 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 70
+[INFO] 2026-01-20 22:23:47,192 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 71
+[INFO] 2026-01-20 22:23:47,192 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 72
+[INFO] 2026-01-20 22:23:47,192 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 73
+[INFO] 2026-01-20 22:23:47,192 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 74
+[INFO] 2026-01-20 22:23:47,192 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 75
+[INFO] 2026-01-20 22:23:47,192 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 76
+[INFO] 2026-01-20 22:23:47,192 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 77
+[INFO] 2026-01-20 22:23:47,192 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 78
+[INFO] 2026-01-20 22:23:47,192 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 79
+[INFO] 2026-01-20 22:23:47,192 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 44
+[INFO] 2026-01-20 22:23:47,193 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 80
+[INFO] 2026-01-20 22:23:47,193 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 81
+[INFO] 2026-01-20 22:23:47,193 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 82
+[INFO] 2026-01-20 22:23:47,193 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 83
+[INFO] 2026-01-20 22:23:47,193 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 84
+[INFO] 2026-01-20 22:23:47,193 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 85
+[INFO] 2026-01-20 22:23:47,193 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 86
+[INFO] 2026-01-20 22:23:47,193 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 87
+[INFO] 2026-01-20 22:23:47,193 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 88
+[INFO] 2026-01-20 22:23:47,193 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 90
+[INFO] 2026-01-20 22:23:47,193 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 91
+[INFO] 2026-01-20 22:23:47,193 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 92
+[INFO] 2026-01-20 22:23:47,193 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 93
+[INFO] 2026-01-20 22:23:47,193 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 94
+[INFO] 2026-01-20 22:23:47,193 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 95
+[INFO] 2026-01-20 22:23:47,193 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 96
+[INFO] 2026-01-20 22:23:47,193 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 97
+[INFO] 2026-01-20 22:23:47,193 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 98
+[INFO] 2026-01-20 22:23:47,194 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 99
+[INFO] 2026-01-20 22:23:47,194 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 100
+[INFO] 2026-01-20 22:23:47,194 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 101
+[INFO] 2026-01-20 22:23:47,194 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 102
+[INFO] 2026-01-20 22:23:47,194 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 103
+[INFO] 2026-01-20 22:23:47,194 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 104
+[INFO] 2026-01-20 22:23:47,194 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 105
+[INFO] 2026-01-20 22:23:47,194 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 106
+[INFO] 2026-01-20 22:23:47,194 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 107
+[INFO] 2026-01-20 22:23:47,194 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 28
+[INFO] 2026-01-20 22:23:47,194 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 29
+[INFO] 2026-01-20 22:23:47,194 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 30
+[INFO] 2026-01-20 22:23:47,194 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 31
+[INFO] 2026-01-20 22:23:47,194 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 32
+[INFO] 2026-01-20 22:23:47,194 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 33
+[INFO] 2026-01-20 22:23:47,194 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 34
+[INFO] 2026-01-20 22:23:47,195 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 35
+[INFO] 2026-01-20 22:23:47,195 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 6
+[INFO] 2026-01-20 22:23:47,195 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 8
+[INFO] 2026-01-20 22:23:47,195 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 36
+[INFO] 2026-01-20 22:23:47,195 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 37
+[INFO] 2026-01-20 22:23:47,195 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 38
+[INFO] 2026-01-20 22:23:47,195 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 39
+[INFO] 2026-01-20 22:23:47,195 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 40
+[INFO] 2026-01-20 22:23:47,195 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 41
+[INFO] 2026-01-20 22:23:47,195 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 42
+[INFO] 2026-01-20 22:23:47,195 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 43
+[INFO] 2026-01-20 22:23:47,195 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 44
+[INFO] 2026-01-20 22:23:47,196 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 45
+[INFO] 2026-01-20 22:23:47,197 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 46
+[INFO] 2026-01-20 22:23:47,197 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 47
+[INFO] 2026-01-20 22:23:47,197 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 48
+[INFO] 2026-01-20 22:23:47,197 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 49
+[INFO] 2026-01-20 22:23:47,197 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 50
+[INFO] 2026-01-20 22:23:47,197 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 51
+[INFO] 2026-01-20 22:23:47,197 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 52
+[INFO] 2026-01-20 22:23:47,197 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 53
+[INFO] 2026-01-20 22:23:47,197 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 54
+[INFO] 2026-01-20 22:23:47,197 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 1
+[INFO] 2026-01-20 22:23:47,198 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 2
+[INFO] 2026-01-20 22:23:47,198 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 3
+[INFO] 2026-01-20 22:23:47,198 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 4
+[INFO] 2026-01-20 22:23:47,198 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 5
+[INFO] 2026-01-20 22:23:47,198 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 6
+[INFO] 2026-01-20 22:23:47,198 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 7
+[INFO] 2026-01-20 22:23:47,198 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 8
+[INFO] 2026-01-20 22:23:47,200 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 9
+[INFO] 2026-01-20 22:23:47,200 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 10
+[INFO] 2026-01-20 22:23:47,200 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 11
+[INFO] 2026-01-20 22:23:47,200 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 12
+[INFO] 2026-01-20 22:23:47,200 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 13
+[INFO] 2026-01-20 22:23:47,200 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 14
+[INFO] 2026-01-20 22:23:47,200 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 15
+[INFO] 2026-01-20 22:23:47,200 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 16
+[INFO] 2026-01-20 22:23:47,200 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 17
+[INFO] 2026-01-20 22:23:47,201 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 18
+[INFO] 2026-01-20 22:23:47,201 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 19
+[INFO] 2026-01-20 22:23:47,201 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 20
+[INFO] 2026-01-20 22:23:47,201 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 21
+[INFO] 2026-01-20 22:23:47,201 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 22
+[INFO] 2026-01-20 22:23:47,201 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 23
+[INFO] 2026-01-20 22:23:47,201 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 24
+[INFO] 2026-01-20 22:23:47,201 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 25
+[INFO] 2026-01-20 22:23:47,201 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 26
+[INFO] 2026-01-20 22:23:47,201 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 27
+[TRACE] 2026-01-20 22:23:47,201 Edge loaded :: 79->80
+[TRACE] 2026-01-20 22:23:47,206 Edge loaded :: 90->91
+[TRACE] 2026-01-20 22:23:47,208 Edge loaded :: 87->88
+[TRACE] 2026-01-20 22:23:47,210 Edge loaded :: 86->87
+[TRACE] 2026-01-20 22:23:47,212 Edge loaded :: 85->86
+[TRACE] 2026-01-20 22:23:47,215 Edge loaded :: 84->85
+[TRACE] 2026-01-20 22:23:47,216 Edge loaded :: 83->84
+[TRACE] 2026-01-20 22:23:47,220 Edge loaded :: 82->83
+[TRACE] 2026-01-20 22:23:47,222 Edge loaded :: 81->82
+[TRACE] 2026-01-20 22:23:47,225 Edge loaded :: 80->81
+[TRACE] 2026-01-20 22:23:47,231 Edge loaded :: 78->79
+[TRACE] 2026-01-20 22:23:47,234 Edge loaded :: 77->78
+[TRACE] 2026-01-20 22:23:47,236 Edge loaded :: 76->77
+[TRACE] 2026-01-20 22:23:47,239 Edge loaded :: 75->76
+[TRACE] 2026-01-20 22:23:47,242 Edge loaded :: 74->75
+[TRACE] 2026-01-20 22:23:47,244 Edge loaded :: 73->74
+[TRACE] 2026-01-20 22:23:47,246 Edge loaded :: 72->73
+[TRACE] 2026-01-20 22:23:47,249 Edge loaded :: 71->72
+[TRACE] 2026-01-20 22:23:47,251 Edge loaded :: 70->71
+[TRACE] 2026-01-20 22:23:47,254 Edge loaded :: 36->70
+[TRACE] 2026-01-20 22:23:47,257 Edge loaded :: 69->36
+[TRACE] 2026-01-20 22:23:47,260 Edge loaded :: 68->69
+[TRACE] 2026-01-20 22:23:47,263 Edge loaded :: 67->68
+[TRACE] 2026-01-20 22:23:47,266 Edge loaded :: 66->67
+[TRACE] 2026-01-20 22:23:47,270 Edge loaded :: 65->66
+[TRACE] 2026-01-20 22:23:47,272 Edge loaded :: 64->65
+[TRACE] 2026-01-20 22:23:47,274 Edge loaded :: 63->64
+[TRACE] 2026-01-20 22:23:47,276 Edge loaded :: 62->63
+[TRACE] 2026-01-20 22:23:47,278 Edge loaded :: 61->62
+[TRACE] 2026-01-20 22:23:47,280 Edge loaded :: 60->61
+[TRACE] 2026-01-20 22:23:47,282 Edge loaded :: 59->60
+[TRACE] 2026-01-20 22:23:47,285 Edge loaded :: 58->59
+[TRACE] 2026-01-20 22:23:47,288 Edge loaded :: 57->58
+[TRACE] 2026-01-20 22:23:47,291 Edge loaded :: 56->57
+[TRACE] 2026-01-20 22:23:47,292 Edge loaded :: 55->56
+[TRACE] 2026-01-20 22:23:47,294 Edge loaded :: 53->54
+[TRACE] 2026-01-20 22:23:47,296 Edge loaded :: 52->53
+[TRACE] 2026-01-20 22:23:47,298 Edge loaded :: 51->52
+[TRACE] 2026-01-20 22:23:47,300 Edge loaded :: 50->51
+[TRACE] 2026-01-20 22:23:47,304 Edge loaded :: 49->50
+[TRACE] 2026-01-20 22:23:47,307 Edge loaded :: 48->49
+[TRACE] 2026-01-20 22:23:47,310 Edge loaded :: 47->48
+[TRACE] 2026-01-20 22:23:47,313 Edge loaded :: 46->47
+[TRACE] 2026-01-20 22:23:47,316 Edge loaded :: 45->46
+[TRACE] 2026-01-20 22:23:47,318 Edge loaded :: 44->45
+[TRACE] 2026-01-20 22:23:47,321 Edge loaded :: 43->44
+[TRACE] 2026-01-20 22:23:47,324 Edge loaded :: 42->43
+[TRACE] 2026-01-20 22:23:47,327 Edge loaded :: 41->42
+[TRACE] 2026-01-20 22:23:47,330 Edge loaded :: 40->41
+[TRACE] 2026-01-20 22:23:47,333 Edge loaded :: 39->40
+[TRACE] 2026-01-20 22:23:47,335 Edge loaded :: 38->39
+[TRACE] 2026-01-20 22:23:47,337 Edge loaded :: 37->38
+[TRACE] 2026-01-20 22:23:47,339 Edge loaded :: 36->37
+[TRACE] 2026-01-20 22:23:47,341 Edge loaded :: 35->36
+[TRACE] 2026-01-20 22:23:47,343 Edge loaded :: 30->31
+[TRACE] 2026-01-20 22:23:47,361 Edge loaded :: 34->6
+[TRACE] 2026-01-20 22:23:47,365 Edge loaded :: 33->34
+[TRACE] 2026-01-20 22:23:47,368 Edge loaded :: 32->33
+[TRACE] 2026-01-20 22:23:47,371 Edge loaded :: 31->32
+[TRACE] 2026-01-20 22:23:47,376 Edge loaded :: 29->30
+[TRACE] 2026-01-20 22:23:47,379 Edge loaded :: 28->29
+[TRACE] 2026-01-20 22:23:47,382 Edge loaded :: 27->28
+[TRACE] 2026-01-20 22:23:47,384 Edge loaded :: 26->27
+[TRACE] 2026-01-20 22:23:47,387 Edge loaded :: 25->26
+[TRACE] 2026-01-20 22:23:47,389 Edge loaded :: 23->24
+[TRACE] 2026-01-20 22:23:47,391 Edge loaded :: 22->23
+[TRACE] 2026-01-20 22:23:47,394 Edge loaded :: 21->22
+[TRACE] 2026-01-20 22:23:47,397 Edge loaded :: 20->21
+[TRACE] 2026-01-20 22:23:47,400 Edge loaded :: 19->20
+[TRACE] 2026-01-20 22:23:47,403 Edge loaded :: 18->19
+[TRACE] 2026-01-20 22:23:47,405 Edge loaded :: 17->18
+[TRACE] 2026-01-20 22:23:47,408 Edge loaded :: 16->17
+[TRACE] 2026-01-20 22:23:47,411 Edge loaded :: 15->16
+[TRACE] 2026-01-20 22:23:47,414 Edge loaded :: 14->15
+[TRACE] 2026-01-20 22:23:47,416 Edge loaded :: 13->14
+[TRACE] 2026-01-20 22:23:47,419 Edge loaded :: 12->13
+[TRACE] 2026-01-20 22:23:47,423 Edge loaded :: 11->12
+[TRACE] 2026-01-20 22:23:47,425 Edge loaded :: 10->11
+[TRACE] 2026-01-20 22:23:47,428 Edge loaded :: 9->10
+[TRACE] 2026-01-20 22:23:47,431 Edge loaded :: 8->35
+[TRACE] 2026-01-20 22:23:47,434 Edge loaded :: 8->9
+[TRACE] 2026-01-20 22:23:47,437 Edge loaded :: 7->8
+[TRACE] 2026-01-20 22:23:47,439 Edge loaded :: 6->7
+[TRACE] 2026-01-20 22:23:47,443 Edge loaded :: 5->6
+[TRACE] 2026-01-20 22:23:47,446 Edge loaded :: 4->5
+[TRACE] 2026-01-20 22:23:47,448 Edge loaded :: 2->3
+[TRACE] 2026-01-20 22:23:47,451 Edge loaded :: 1->2
+[TRACE] 2026-01-20 22:23:47,454 Location loaded :: 108
+[TRACE] 2026-01-20 22:23:47,454 Location loaded :: 107
+[TRACE] 2026-01-20 22:23:47,454 Location loaded :: 106
+[TRACE] 2026-01-20 22:23:47,454 Location loaded :: 105
+[TRACE] 2026-01-20 22:23:47,454 Location loaded :: 104
+[TRACE] 2026-01-20 22:23:47,454 Location loaded :: 103
+[TRACE] 2026-01-20 22:23:47,454 Location loaded :: 102
+[TRACE] 2026-01-20 22:23:47,454 Location loaded :: 101
+[TRACE] 2026-01-20 22:23:47,454 Location loaded :: 100
+[TRACE] 2026-01-20 22:23:47,454 Location loaded :: 99
+[TRACE] 2026-01-20 22:23:47,455 Location loaded :: 98
+[TRACE] 2026-01-20 22:23:47,455 Location loaded :: 97
+[TRACE] 2026-01-20 22:23:47,455 Location loaded :: 96
+[TRACE] 2026-01-20 22:23:47,455 Location loaded :: 95
+[TRACE] 2026-01-20 22:23:47,455 Location loaded :: 94
+[TRACE] 2026-01-20 22:23:47,455 Location loaded :: 93
+[TRACE] 2026-01-20 22:23:47,455 Location loaded :: 92
+[TRACE] 2026-01-20 22:23:47,455 Location loaded :: 91
+[TRACE] 2026-01-20 22:23:47,455 Location loaded :: 90
+[TRACE] 2026-01-20 22:23:47,455 Location loaded :: 88
+[TRACE] 2026-01-20 22:23:47,455 Location loaded :: 87
+[TRACE] 2026-01-20 22:23:47,455 Location loaded :: 86
+[TRACE] 2026-01-20 22:23:47,455 Location loaded :: 85
+[TRACE] 2026-01-20 22:23:47,455 Location loaded :: 84
+[TRACE] 2026-01-20 22:23:47,455 Location loaded :: 83
+[TRACE] 2026-01-20 22:23:47,456 Location loaded :: 82
+[TRACE] 2026-01-20 22:23:47,456 Location loaded :: 81
+[TRACE] 2026-01-20 22:23:47,456 Location loaded :: 80
+[TRACE] 2026-01-20 22:23:47,456 Location loaded :: 79
+[TRACE] 2026-01-20 22:23:47,456 Location loaded :: 78
+[TRACE] 2026-01-20 22:23:47,456 Location loaded :: 77
+[TRACE] 2026-01-20 22:23:47,456 Location loaded :: 76
+[TRACE] 2026-01-20 22:23:47,456 Location loaded :: 75
+[TRACE] 2026-01-20 22:23:47,456 Location loaded :: 74
+[TRACE] 2026-01-20 22:23:47,456 Location loaded :: 73
+[TRACE] 2026-01-20 22:23:47,456 Location loaded :: 72
+[TRACE] 2026-01-20 22:23:47,456 Location loaded :: 71
+[TRACE] 2026-01-20 22:23:47,456 Location loaded :: 70
+[TRACE] 2026-01-20 22:23:47,456 Location loaded :: 69
+[TRACE] 2026-01-20 22:23:47,456 Location loaded :: 68
+[TRACE] 2026-01-20 22:23:47,456 Location loaded :: 67
+[TRACE] 2026-01-20 22:23:47,457 Location loaded :: 66
+[TRACE] 2026-01-20 22:23:47,457 Location loaded :: 65
+[TRACE] 2026-01-20 22:23:47,457 Location loaded :: 64
+[TRACE] 2026-01-20 22:23:47,457 Location loaded :: 63
+[TRACE] 2026-01-20 22:23:47,457 Location loaded :: 62
+[TRACE] 2026-01-20 22:23:47,457 Location loaded :: 61
+[TRACE] 2026-01-20 22:23:47,457 Location loaded :: 60
+[TRACE] 2026-01-20 22:23:47,457 Location loaded :: 59
+[TRACE] 2026-01-20 22:23:47,457 Location loaded :: 58
+[TRACE] 2026-01-20 22:23:47,457 Location loaded :: 57
+[TRACE] 2026-01-20 22:23:47,457 Location loaded :: 56
+[TRACE] 2026-01-20 22:23:47,457 Location loaded :: 55
+[TRACE] 2026-01-20 22:23:47,457 Location loaded :: 54
+[TRACE] 2026-01-20 22:23:47,457 Location loaded :: 53
+[TRACE] 2026-01-20 22:23:47,457 Location loaded :: 52
+[TRACE] 2026-01-20 22:23:47,458 Location loaded :: 51
+[TRACE] 2026-01-20 22:23:47,458 Location loaded :: 50
+[TRACE] 2026-01-20 22:23:47,458 Location loaded :: 49
+[TRACE] 2026-01-20 22:23:47,458 Location loaded :: 48
+[TRACE] 2026-01-20 22:23:47,458 Location loaded :: 47
+[TRACE] 2026-01-20 22:23:47,458 Location loaded :: 46
+[TRACE] 2026-01-20 22:23:47,458 Location loaded :: 45
+[TRACE] 2026-01-20 22:23:47,458 Location loaded :: 44
+[TRACE] 2026-01-20 22:23:47,458 Location loaded :: 43
+[TRACE] 2026-01-20 22:23:47,458 Location loaded :: 42
+[TRACE] 2026-01-20 22:23:47,458 Location loaded :: 41
+[TRACE] 2026-01-20 22:23:47,458 Location loaded :: 40
+[TRACE] 2026-01-20 22:23:47,458 Location loaded :: 39
+[TRACE] 2026-01-20 22:23:47,458 Location loaded :: 38
+[TRACE] 2026-01-20 22:23:47,458 Location loaded :: 37
+[TRACE] 2026-01-20 22:23:47,458 Location loaded :: 36
+[TRACE] 2026-01-20 22:23:47,458 Location loaded :: 35
+[TRACE] 2026-01-20 22:23:47,459 Location loaded :: 34
+[TRACE] 2026-01-20 22:23:47,459 Location loaded :: 33
+[TRACE] 2026-01-20 22:23:47,459 Location loaded :: 32
+[TRACE] 2026-01-20 22:23:47,459 Location loaded :: 31
+[TRACE] 2026-01-20 22:23:47,459 Location loaded :: 30
+[TRACE] 2026-01-20 22:23:47,459 Location loaded :: 29
+[TRACE] 2026-01-20 22:23:47,459 Location loaded :: 28
+[TRACE] 2026-01-20 22:23:47,459 Location loaded :: 27
+[TRACE] 2026-01-20 22:23:47,459 Location loaded :: 26
+[TRACE] 2026-01-20 22:23:47,459 Location loaded :: 25
+[TRACE] 2026-01-20 22:23:47,459 Location loaded :: 24
+[TRACE] 2026-01-20 22:23:47,459 Location loaded :: 23
+[TRACE] 2026-01-20 22:23:47,459 Location loaded :: 22
+[TRACE] 2026-01-20 22:23:47,459 Location loaded :: 21
+[TRACE] 2026-01-20 22:23:47,459 Location loaded :: 20
+[TRACE] 2026-01-20 22:23:47,459 Location loaded :: 19
+[TRACE] 2026-01-20 22:23:47,459 Location loaded :: 18
+[TRACE] 2026-01-20 22:23:47,460 Location loaded :: 17
+[TRACE] 2026-01-20 22:23:47,460 Location loaded :: 16
+[TRACE] 2026-01-20 22:23:47,460 Location loaded :: 15
+[TRACE] 2026-01-20 22:23:47,460 Location loaded :: 14
+[TRACE] 2026-01-20 22:23:47,460 Location loaded :: 13
+[TRACE] 2026-01-20 22:23:47,460 Location loaded :: 12
+[TRACE] 2026-01-20 22:23:47,460 Location loaded :: 11
+[TRACE] 2026-01-20 22:23:47,460 Location loaded :: 10
+[TRACE] 2026-01-20 22:23:47,460 Location loaded :: 9
+[TRACE] 2026-01-20 22:23:47,460 Location loaded :: 8
+[TRACE] 2026-01-20 22:23:47,460 Location loaded :: 7
+[TRACE] 2026-01-20 22:23:47,460 Location loaded :: 6
+[TRACE] 2026-01-20 22:23:47,460 Location loaded :: 5
+[TRACE] 2026-01-20 22:23:47,460 Location loaded :: 4
+[TRACE] 2026-01-20 22:23:47,460 Location loaded :: 3
+[TRACE] 2026-01-20 22:23:47,460 Location loaded :: 2
+[TRACE] 2026-01-20 22:23:47,460 Location loaded :: 1
+[TRACE] 2026-01-22 03:11:37,310 [TRANSFER][DEFINE] at 44: mrt/mrt-line-2 <-> mrt/mrt-line-5 time=5 :: 44
+[TRACE] 2026-01-22 03:11:37,311 [TRANSFER][DEFINE] at 8: mrt/mrt-line-1 <-> mrt/mrt-line-2 time=5 :: 8
+[INFO] 2026-01-22 03:11:37,311 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 55
+[INFO] 2026-01-22 03:11:37,312 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 56
+[INFO] 2026-01-22 03:11:37,312 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 57
+[INFO] 2026-01-22 03:11:37,312 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 58
+[INFO] 2026-01-22 03:11:37,313 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 59
+[INFO] 2026-01-22 03:11:37,313 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 60
+[INFO] 2026-01-22 03:11:37,313 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 61
+[INFO] 2026-01-22 03:11:37,313 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 62
+[INFO] 2026-01-22 03:11:37,313 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 63
+[INFO] 2026-01-22 03:11:37,313 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 64
+[INFO] 2026-01-22 03:11:37,313 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 65
+[INFO] 2026-01-22 03:11:37,313 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 66
+[INFO] 2026-01-22 03:11:37,313 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 67
+[INFO] 2026-01-22 03:11:37,313 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 68
+[INFO] 2026-01-22 03:11:37,313 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 69
+[INFO] 2026-01-22 03:11:37,314 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 36
+[INFO] 2026-01-22 03:11:37,314 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 70
+[INFO] 2026-01-22 03:11:37,314 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 71
+[INFO] 2026-01-22 03:11:37,314 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 72
+[INFO] 2026-01-22 03:11:37,314 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 73
+[INFO] 2026-01-22 03:11:37,314 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 74
+[INFO] 2026-01-22 03:11:37,314 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 75
+[INFO] 2026-01-22 03:11:37,314 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 76
+[INFO] 2026-01-22 03:11:37,314 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 77
+[INFO] 2026-01-22 03:11:37,314 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 78
+[INFO] 2026-01-22 03:11:37,314 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 79
+[INFO] 2026-01-22 03:11:37,314 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 44
+[INFO] 2026-01-22 03:11:37,314 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 80
+[INFO] 2026-01-22 03:11:37,315 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 81
+[INFO] 2026-01-22 03:11:37,315 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 82
+[INFO] 2026-01-22 03:11:37,315 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 83
+[INFO] 2026-01-22 03:11:37,315 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 84
+[INFO] 2026-01-22 03:11:37,315 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 85
+[INFO] 2026-01-22 03:11:37,315 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 86
+[INFO] 2026-01-22 03:11:37,315 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 87
+[INFO] 2026-01-22 03:11:37,315 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 88
+[INFO] 2026-01-22 03:11:37,315 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 90
+[INFO] 2026-01-22 03:11:37,315 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 91
+[INFO] 2026-01-22 03:11:37,316 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 92
+[INFO] 2026-01-22 03:11:37,316 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 93
+[INFO] 2026-01-22 03:11:37,316 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 94
+[INFO] 2026-01-22 03:11:37,316 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 95
+[INFO] 2026-01-22 03:11:37,316 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 96
+[INFO] 2026-01-22 03:11:37,316 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 97
+[INFO] 2026-01-22 03:11:37,316 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 98
+[INFO] 2026-01-22 03:11:37,316 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 99
+[INFO] 2026-01-22 03:11:37,316 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 100
+[INFO] 2026-01-22 03:11:37,316 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 101
+[INFO] 2026-01-22 03:11:37,316 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 102
+[INFO] 2026-01-22 03:11:37,316 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 103
+[INFO] 2026-01-22 03:11:37,316 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 104
+[INFO] 2026-01-22 03:11:37,316 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 105
+[INFO] 2026-01-22 03:11:37,316 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 106
+[INFO] 2026-01-22 03:11:37,316 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 107
+[INFO] 2026-01-22 03:11:37,317 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 28
+[INFO] 2026-01-22 03:11:37,317 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 29
+[INFO] 2026-01-22 03:11:37,317 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 30
+[INFO] 2026-01-22 03:11:37,317 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 31
+[INFO] 2026-01-22 03:11:37,317 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 32
+[INFO] 2026-01-22 03:11:37,317 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 33
+[INFO] 2026-01-22 03:11:37,317 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 34
+[INFO] 2026-01-22 03:11:37,317 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 35
+[INFO] 2026-01-22 03:11:37,317 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 6
+[INFO] 2026-01-22 03:11:37,317 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 8
+[INFO] 2026-01-22 03:11:37,317 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 36
+[INFO] 2026-01-22 03:11:37,317 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 37
+[INFO] 2026-01-22 03:11:37,318 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 38
+[INFO] 2026-01-22 03:11:37,318 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 39
+[INFO] 2026-01-22 03:11:37,318 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 40
+[INFO] 2026-01-22 03:11:37,318 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 41
+[INFO] 2026-01-22 03:11:37,318 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 42
+[INFO] 2026-01-22 03:11:37,318 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 43
+[INFO] 2026-01-22 03:11:37,318 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 44
+[INFO] 2026-01-22 03:11:37,319 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 45
+[INFO] 2026-01-22 03:11:37,319 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 46
+[INFO] 2026-01-22 03:11:37,319 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 47
+[INFO] 2026-01-22 03:11:37,319 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 48
+[INFO] 2026-01-22 03:11:37,319 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 49
+[INFO] 2026-01-22 03:11:37,319 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 50
+[INFO] 2026-01-22 03:11:37,319 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 51
+[INFO] 2026-01-22 03:11:37,320 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 52
+[INFO] 2026-01-22 03:11:37,320 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 53
+[INFO] 2026-01-22 03:11:37,320 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 54
+[INFO] 2026-01-22 03:11:37,320 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 1
+[INFO] 2026-01-22 03:11:37,320 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 2
+[INFO] 2026-01-22 03:11:37,320 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 3
+[INFO] 2026-01-22 03:11:37,320 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 4
+[INFO] 2026-01-22 03:11:37,320 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 5
+[INFO] 2026-01-22 03:11:37,320 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 6
+[INFO] 2026-01-22 03:11:37,320 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 7
+[INFO] 2026-01-22 03:11:37,320 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 8
+[INFO] 2026-01-22 03:11:37,321 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 9
+[INFO] 2026-01-22 03:11:37,321 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 10
+[INFO] 2026-01-22 03:11:37,321 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 11
+[INFO] 2026-01-22 03:11:37,321 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 12
+[INFO] 2026-01-22 03:11:37,322 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 13
+[INFO] 2026-01-22 03:11:37,322 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 14
+[INFO] 2026-01-22 03:11:37,322 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 15
+[INFO] 2026-01-22 03:11:37,322 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 16
+[INFO] 2026-01-22 03:11:37,322 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 17
+[INFO] 2026-01-22 03:11:37,322 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 18
+[INFO] 2026-01-22 03:11:37,322 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 19
+[INFO] 2026-01-22 03:11:37,322 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 20
+[INFO] 2026-01-22 03:11:37,322 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 21
+[INFO] 2026-01-22 03:11:37,322 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 22
+[INFO] 2026-01-22 03:11:37,322 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 23
+[INFO] 2026-01-22 03:11:37,322 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 24
+[INFO] 2026-01-22 03:11:37,322 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 25
+[INFO] 2026-01-22 03:11:37,322 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 26
+[INFO] 2026-01-22 03:11:37,322 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 27
+[TRACE] 2026-01-22 03:11:37,323 Edge loaded :: 79->80
+[TRACE] 2026-01-22 03:11:37,327 Edge loaded :: 90->91
+[TRACE] 2026-01-22 03:11:37,329 Edge loaded :: 87->88
+[TRACE] 2026-01-22 03:11:37,331 Edge loaded :: 86->87
+[TRACE] 2026-01-22 03:11:37,337 Edge loaded :: 85->86
+[TRACE] 2026-01-22 03:11:37,339 Edge loaded :: 84->85
+[TRACE] 2026-01-22 03:11:37,341 Edge loaded :: 83->84
+[TRACE] 2026-01-22 03:11:37,343 Edge loaded :: 82->83
+[TRACE] 2026-01-22 03:11:37,347 Edge loaded :: 81->82
+[TRACE] 2026-01-22 03:11:37,350 Edge loaded :: 80->81
+[TRACE] 2026-01-22 03:11:37,355 Edge loaded :: 78->79
+[TRACE] 2026-01-22 03:11:37,357 Edge loaded :: 77->78
+[TRACE] 2026-01-22 03:11:37,358 Edge loaded :: 76->77
+[TRACE] 2026-01-22 03:11:37,360 Edge loaded :: 75->76
+[TRACE] 2026-01-22 03:11:37,362 Edge loaded :: 74->75
+[TRACE] 2026-01-22 03:11:37,364 Edge loaded :: 73->74
+[TRACE] 2026-01-22 03:11:37,368 Edge loaded :: 72->73
+[TRACE] 2026-01-22 03:11:37,370 Edge loaded :: 71->72
+[TRACE] 2026-01-22 03:11:37,372 Edge loaded :: 70->71
+[TRACE] 2026-01-22 03:11:37,375 Edge loaded :: 36->70
+[TRACE] 2026-01-22 03:11:37,377 Edge loaded :: 69->36
+[TRACE] 2026-01-22 03:11:37,379 Edge loaded :: 68->69
+[TRACE] 2026-01-22 03:11:37,381 Edge loaded :: 67->68
+[TRACE] 2026-01-22 03:11:37,383 Edge loaded :: 66->67
+[TRACE] 2026-01-22 03:11:37,385 Edge loaded :: 65->66
+[TRACE] 2026-01-22 03:11:37,388 Edge loaded :: 64->65
+[TRACE] 2026-01-22 03:11:37,391 Edge loaded :: 63->64
+[TRACE] 2026-01-22 03:11:37,393 Edge loaded :: 62->63
+[TRACE] 2026-01-22 03:11:37,395 Edge loaded :: 61->62
+[TRACE] 2026-01-22 03:11:37,398 Edge loaded :: 60->61
+[TRACE] 2026-01-22 03:11:37,399 Edge loaded :: 59->60
+[TRACE] 2026-01-22 03:11:37,402 Edge loaded :: 58->59
+[TRACE] 2026-01-22 03:11:37,404 Edge loaded :: 57->58
+[TRACE] 2026-01-22 03:11:37,406 Edge loaded :: 56->57
+[TRACE] 2026-01-22 03:11:37,408 Edge loaded :: 55->56
+[TRACE] 2026-01-22 03:11:37,412 Edge loaded :: 53->54
+[TRACE] 2026-01-22 03:11:37,414 Edge loaded :: 52->53
+[TRACE] 2026-01-22 03:11:37,417 Edge loaded :: 51->52
+[TRACE] 2026-01-22 03:11:37,419 Edge loaded :: 50->51
+[TRACE] 2026-01-22 03:11:37,421 Edge loaded :: 49->50
+[TRACE] 2026-01-22 03:11:37,424 Edge loaded :: 48->49
+[TRACE] 2026-01-22 03:11:37,426 Edge loaded :: 47->48
+[TRACE] 2026-01-22 03:11:37,428 Edge loaded :: 46->47
+[TRACE] 2026-01-22 03:11:37,432 Edge loaded :: 45->46
+[TRACE] 2026-01-22 03:11:37,433 Edge loaded :: 44->45
+[TRACE] 2026-01-22 03:11:37,435 Edge loaded :: 43->44
+[TRACE] 2026-01-22 03:11:37,437 Edge loaded :: 42->43
+[TRACE] 2026-01-22 03:11:37,439 Edge loaded :: 41->42
+[TRACE] 2026-01-22 03:11:37,441 Edge loaded :: 40->41
+[TRACE] 2026-01-22 03:11:37,443 Edge loaded :: 39->40
+[TRACE] 2026-01-22 03:11:37,446 Edge loaded :: 38->39
+[TRACE] 2026-01-22 03:11:37,448 Edge loaded :: 37->38
+[TRACE] 2026-01-22 03:11:37,449 Edge loaded :: 36->37
+[TRACE] 2026-01-22 03:11:37,451 Edge loaded :: 35->36
+[TRACE] 2026-01-22 03:11:37,453 Edge loaded :: 30->31
+[TRACE] 2026-01-22 03:11:37,469 Edge loaded :: 34->6
+[TRACE] 2026-01-22 03:11:37,472 Edge loaded :: 33->34
+[TRACE] 2026-01-22 03:11:37,475 Edge loaded :: 32->33
+[TRACE] 2026-01-22 03:11:37,478 Edge loaded :: 31->32
+[TRACE] 2026-01-22 03:11:37,482 Edge loaded :: 29->30
+[TRACE] 2026-01-22 03:11:37,484 Edge loaded :: 28->29
+[TRACE] 2026-01-22 03:11:37,487 Edge loaded :: 27->28
+[TRACE] 2026-01-22 03:11:37,489 Edge loaded :: 26->27
+[TRACE] 2026-01-22 03:11:37,491 Edge loaded :: 25->26
+[TRACE] 2026-01-22 03:11:37,494 Edge loaded :: 23->24
+[TRACE] 2026-01-22 03:11:37,497 Edge loaded :: 22->23
+[TRACE] 2026-01-22 03:11:37,501 Edge loaded :: 21->22
+[TRACE] 2026-01-22 03:11:37,503 Edge loaded :: 20->21
+[TRACE] 2026-01-22 03:11:37,505 Edge loaded :: 19->20
+[TRACE] 2026-01-22 03:11:37,507 Edge loaded :: 18->19
+[TRACE] 2026-01-22 03:11:37,509 Edge loaded :: 17->18
+[TRACE] 2026-01-22 03:11:37,511 Edge loaded :: 16->17
+[TRACE] 2026-01-22 03:11:37,513 Edge loaded :: 15->16
+[TRACE] 2026-01-22 03:11:37,515 Edge loaded :: 14->15
+[TRACE] 2026-01-22 03:11:37,517 Edge loaded :: 13->14
+[TRACE] 2026-01-22 03:11:37,518 Edge loaded :: 12->13
+[TRACE] 2026-01-22 03:11:37,521 Edge loaded :: 11->12
+[TRACE] 2026-01-22 03:11:37,524 Edge loaded :: 10->11
+[TRACE] 2026-01-22 03:11:37,526 Edge loaded :: 9->10
+[TRACE] 2026-01-22 03:11:37,530 Edge loaded :: 8->35
+[TRACE] 2026-01-22 03:11:37,532 Edge loaded :: 8->9
+[TRACE] 2026-01-22 03:11:37,535 Edge loaded :: 7->8
+[TRACE] 2026-01-22 03:11:37,538 Edge loaded :: 6->7
+[TRACE] 2026-01-22 03:11:37,539 Edge loaded :: 5->6
+[TRACE] 2026-01-22 03:11:37,542 Edge loaded :: 4->5
+[TRACE] 2026-01-22 03:11:37,544 Edge loaded :: 2->3
+[TRACE] 2026-01-22 03:11:37,546 Edge loaded :: 1->2
+[TRACE] 2026-01-22 03:11:37,548 Location loaded :: 108
+[TRACE] 2026-01-22 03:11:37,548 Location loaded :: 107
+[TRACE] 2026-01-22 03:11:37,548 Location loaded :: 106
+[TRACE] 2026-01-22 03:11:37,548 Location loaded :: 105
+[TRACE] 2026-01-22 03:11:37,548 Location loaded :: 104
+[TRACE] 2026-01-22 03:11:37,548 Location loaded :: 103
+[TRACE] 2026-01-22 03:11:37,548 Location loaded :: 102
+[TRACE] 2026-01-22 03:11:37,548 Location loaded :: 101
+[TRACE] 2026-01-22 03:11:37,548 Location loaded :: 100
+[TRACE] 2026-01-22 03:11:37,548 Location loaded :: 99
+[TRACE] 2026-01-22 03:11:37,548 Location loaded :: 98
+[TRACE] 2026-01-22 03:11:37,548 Location loaded :: 97
+[TRACE] 2026-01-22 03:11:37,548 Location loaded :: 96
+[TRACE] 2026-01-22 03:11:37,549 Location loaded :: 95
+[TRACE] 2026-01-22 03:11:37,549 Location loaded :: 94
+[TRACE] 2026-01-22 03:11:37,549 Location loaded :: 93
+[TRACE] 2026-01-22 03:11:37,549 Location loaded :: 92
+[TRACE] 2026-01-22 03:11:37,549 Location loaded :: 91
+[TRACE] 2026-01-22 03:11:37,549 Location loaded :: 90
+[TRACE] 2026-01-22 03:11:37,549 Location loaded :: 88
+[TRACE] 2026-01-22 03:11:37,549 Location loaded :: 87
+[TRACE] 2026-01-22 03:11:37,549 Location loaded :: 86
+[TRACE] 2026-01-22 03:11:37,549 Location loaded :: 85
+[TRACE] 2026-01-22 03:11:37,549 Location loaded :: 84
+[TRACE] 2026-01-22 03:11:37,549 Location loaded :: 83
+[TRACE] 2026-01-22 03:11:37,549 Location loaded :: 82
+[TRACE] 2026-01-22 03:11:37,549 Location loaded :: 81
+[TRACE] 2026-01-22 03:11:37,549 Location loaded :: 80
+[TRACE] 2026-01-22 03:11:37,549 Location loaded :: 79
+[TRACE] 2026-01-22 03:11:37,549 Location loaded :: 78
+[TRACE] 2026-01-22 03:11:37,549 Location loaded :: 77
+[TRACE] 2026-01-22 03:11:37,549 Location loaded :: 76
+[TRACE] 2026-01-22 03:11:37,549 Location loaded :: 75
+[TRACE] 2026-01-22 03:11:37,550 Location loaded :: 74
+[TRACE] 2026-01-22 03:11:37,550 Location loaded :: 73
+[TRACE] 2026-01-22 03:11:37,550 Location loaded :: 72
+[TRACE] 2026-01-22 03:11:37,550 Location loaded :: 71
+[TRACE] 2026-01-22 03:11:37,550 Location loaded :: 70
+[TRACE] 2026-01-22 03:11:37,550 Location loaded :: 69
+[TRACE] 2026-01-22 03:11:37,550 Location loaded :: 68
+[TRACE] 2026-01-22 03:11:37,550 Location loaded :: 67
+[TRACE] 2026-01-22 03:11:37,550 Location loaded :: 66
+[TRACE] 2026-01-22 03:11:37,550 Location loaded :: 65
+[TRACE] 2026-01-22 03:11:37,550 Location loaded :: 64
+[TRACE] 2026-01-22 03:11:37,550 Location loaded :: 63
+[TRACE] 2026-01-22 03:11:37,550 Location loaded :: 62
+[TRACE] 2026-01-22 03:11:37,550 Location loaded :: 61
+[TRACE] 2026-01-22 03:11:37,550 Location loaded :: 60
+[TRACE] 2026-01-22 03:11:37,550 Location loaded :: 59
+[TRACE] 2026-01-22 03:11:37,550 Location loaded :: 58
+[TRACE] 2026-01-22 03:11:37,551 Location loaded :: 57
+[TRACE] 2026-01-22 03:11:37,551 Location loaded :: 56
+[TRACE] 2026-01-22 03:11:37,551 Location loaded :: 55
+[TRACE] 2026-01-22 03:11:37,551 Location loaded :: 54
+[TRACE] 2026-01-22 03:11:37,551 Location loaded :: 53
+[TRACE] 2026-01-22 03:11:37,551 Location loaded :: 52
+[TRACE] 2026-01-22 03:11:37,551 Location loaded :: 51
+[TRACE] 2026-01-22 03:11:37,551 Location loaded :: 50
+[TRACE] 2026-01-22 03:11:37,551 Location loaded :: 49
+[TRACE] 2026-01-22 03:11:37,551 Location loaded :: 48
+[TRACE] 2026-01-22 03:11:37,551 Location loaded :: 47
+[TRACE] 2026-01-22 03:11:37,551 Location loaded :: 46
+[TRACE] 2026-01-22 03:11:37,551 Location loaded :: 45
+[TRACE] 2026-01-22 03:11:37,551 Location loaded :: 44
+[TRACE] 2026-01-22 03:11:37,551 Location loaded :: 43
+[TRACE] 2026-01-22 03:11:37,551 Location loaded :: 42
+[TRACE] 2026-01-22 03:11:37,551 Location loaded :: 41
+[TRACE] 2026-01-22 03:11:37,551 Location loaded :: 40
+[TRACE] 2026-01-22 03:11:37,551 Location loaded :: 39
+[TRACE] 2026-01-22 03:11:37,551 Location loaded :: 38
+[TRACE] 2026-01-22 03:11:37,551 Location loaded :: 37
+[TRACE] 2026-01-22 03:11:37,552 Location loaded :: 36
+[TRACE] 2026-01-22 03:11:37,552 Location loaded :: 35
+[TRACE] 2026-01-22 03:11:37,552 Location loaded :: 34
+[TRACE] 2026-01-22 03:11:37,552 Location loaded :: 33
+[TRACE] 2026-01-22 03:11:37,552 Location loaded :: 32
+[TRACE] 2026-01-22 03:11:37,552 Location loaded :: 31
+[TRACE] 2026-01-22 03:11:37,552 Location loaded :: 30
+[TRACE] 2026-01-22 03:11:37,552 Location loaded :: 29
+[TRACE] 2026-01-22 03:11:37,552 Location loaded :: 28
+[TRACE] 2026-01-22 03:11:37,552 Location loaded :: 27
+[TRACE] 2026-01-22 03:11:37,552 Location loaded :: 26
+[TRACE] 2026-01-22 03:11:37,552 Location loaded :: 25
+[TRACE] 2026-01-22 03:11:37,552 Location loaded :: 24
+[TRACE] 2026-01-22 03:11:37,552 Location loaded :: 23
+[TRACE] 2026-01-22 03:11:37,552 Location loaded :: 22
+[TRACE] 2026-01-22 03:11:37,552 Location loaded :: 21
+[TRACE] 2026-01-22 03:11:37,552 Location loaded :: 20
+[TRACE] 2026-01-22 03:11:37,552 Location loaded :: 19
+[TRACE] 2026-01-22 03:11:37,552 Location loaded :: 18
+[TRACE] 2026-01-22 03:11:37,552 Location loaded :: 17
+[TRACE] 2026-01-22 03:11:37,552 Location loaded :: 16
+[TRACE] 2026-01-22 03:11:37,552 Location loaded :: 15
+[TRACE] 2026-01-22 03:11:37,552 Location loaded :: 14
+[TRACE] 2026-01-22 03:11:37,552 Location loaded :: 13
+[TRACE] 2026-01-22 03:11:37,553 Location loaded :: 12
+[TRACE] 2026-01-22 03:11:37,553 Location loaded :: 11
+[TRACE] 2026-01-22 03:11:37,553 Location loaded :: 10
+[TRACE] 2026-01-22 03:11:37,553 Location loaded :: 9
+[TRACE] 2026-01-22 03:11:37,553 Location loaded :: 8
+[TRACE] 2026-01-22 03:11:37,553 Location loaded :: 7
+[TRACE] 2026-01-22 03:11:37,553 Location loaded :: 6
+[TRACE] 2026-01-22 03:11:37,553 Location loaded :: 5
+[TRACE] 2026-01-22 03:11:37,553 Location loaded :: 4
+[TRACE] 2026-01-22 03:11:37,553 Location loaded :: 3
+[TRACE] 2026-01-22 03:11:37,553 Location loaded :: 2
+[TRACE] 2026-01-22 03:11:37,553 Location loaded :: 1
+[TRACE] 2026-01-22 03:12:00,898 [TRANSFER][DEFINE] at 44: mrt/mrt-line-2 <-> mrt/mrt-line-5 time=5 :: 44
+[TRACE] 2026-01-22 03:12:00,899 [TRANSFER][DEFINE] at 8: mrt/mrt-line-1 <-> mrt/mrt-line-2 time=5 :: 8
+[INFO] 2026-01-22 03:12:00,899 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 55
+[INFO] 2026-01-22 03:12:00,899 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 56
+[INFO] 2026-01-22 03:12:00,899 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 57
+[INFO] 2026-01-22 03:12:00,899 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 58
+[INFO] 2026-01-22 03:12:00,899 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 59
+[INFO] 2026-01-22 03:12:00,899 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 60
+[INFO] 2026-01-22 03:12:00,899 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 61
+[INFO] 2026-01-22 03:12:00,899 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 62
+[INFO] 2026-01-22 03:12:00,899 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 63
+[INFO] 2026-01-22 03:12:00,899 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 64
+[INFO] 2026-01-22 03:12:00,900 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 65
+[INFO] 2026-01-22 03:12:00,900 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 66
+[INFO] 2026-01-22 03:12:00,900 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 67
+[INFO] 2026-01-22 03:12:00,900 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 68
+[INFO] 2026-01-22 03:12:00,900 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 69
+[INFO] 2026-01-22 03:12:00,900 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 36
+[INFO] 2026-01-22 03:12:00,900 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 70
+[INFO] 2026-01-22 03:12:00,900 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 71
+[INFO] 2026-01-22 03:12:00,900 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 72
+[INFO] 2026-01-22 03:12:00,900 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 73
+[INFO] 2026-01-22 03:12:00,901 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 74
+[INFO] 2026-01-22 03:12:00,901 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 75
+[INFO] 2026-01-22 03:12:00,901 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 76
+[INFO] 2026-01-22 03:12:00,901 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 77
+[INFO] 2026-01-22 03:12:00,901 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 78
+[INFO] 2026-01-22 03:12:00,901 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 79
+[INFO] 2026-01-22 03:12:00,901 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 44
+[INFO] 2026-01-22 03:12:00,901 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 80
+[INFO] 2026-01-22 03:12:00,901 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 81
+[INFO] 2026-01-22 03:12:00,901 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 82
+[INFO] 2026-01-22 03:12:00,901 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 83
+[INFO] 2026-01-22 03:12:00,902 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 84
+[INFO] 2026-01-22 03:12:00,902 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 85
+[INFO] 2026-01-22 03:12:00,902 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 86
+[INFO] 2026-01-22 03:12:00,902 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 87
+[INFO] 2026-01-22 03:12:00,902 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 88
+[INFO] 2026-01-22 03:12:00,902 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 90
+[INFO] 2026-01-22 03:12:00,902 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 91
+[INFO] 2026-01-22 03:12:00,902 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 92
+[INFO] 2026-01-22 03:12:00,902 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 93
+[INFO] 2026-01-22 03:12:00,902 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 94
+[INFO] 2026-01-22 03:12:00,902 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 95
+[INFO] 2026-01-22 03:12:00,903 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 96
+[INFO] 2026-01-22 03:12:00,903 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 97
+[INFO] 2026-01-22 03:12:00,903 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 98
+[INFO] 2026-01-22 03:12:00,903 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 99
+[INFO] 2026-01-22 03:12:00,903 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 100
+[INFO] 2026-01-22 03:12:00,903 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 101
+[INFO] 2026-01-22 03:12:00,903 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 102
+[INFO] 2026-01-22 03:12:00,903 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 103
+[INFO] 2026-01-22 03:12:00,903 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 104
+[INFO] 2026-01-22 03:12:00,903 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 105
+[INFO] 2026-01-22 03:12:00,903 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 106
+[INFO] 2026-01-22 03:12:00,903 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 107
+[INFO] 2026-01-22 03:12:00,903 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 28
+[INFO] 2026-01-22 03:12:00,903 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 29
+[INFO] 2026-01-22 03:12:00,904 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 30
+[INFO] 2026-01-22 03:12:00,904 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 31
+[INFO] 2026-01-22 03:12:00,904 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 32
+[INFO] 2026-01-22 03:12:00,904 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 33
+[INFO] 2026-01-22 03:12:00,904 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 34
+[INFO] 2026-01-22 03:12:00,904 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 35
+[INFO] 2026-01-22 03:12:00,904 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 6
+[INFO] 2026-01-22 03:12:00,904 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 8
+[INFO] 2026-01-22 03:12:00,904 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 36
+[INFO] 2026-01-22 03:12:00,904 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 37
+[INFO] 2026-01-22 03:12:00,904 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 38
+[INFO] 2026-01-22 03:12:00,904 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 39
+[INFO] 2026-01-22 03:12:00,904 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 40
+[INFO] 2026-01-22 03:12:00,904 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 41
+[INFO] 2026-01-22 03:12:00,904 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 42
+[INFO] 2026-01-22 03:12:00,904 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 43
+[INFO] 2026-01-22 03:12:00,904 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 44
+[INFO] 2026-01-22 03:12:00,905 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 45
+[INFO] 2026-01-22 03:12:00,905 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 46
+[INFO] 2026-01-22 03:12:00,905 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 47
+[INFO] 2026-01-22 03:12:00,905 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 48
+[INFO] 2026-01-22 03:12:00,905 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 49
+[INFO] 2026-01-22 03:12:00,906 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 50
+[INFO] 2026-01-22 03:12:00,906 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 51
+[INFO] 2026-01-22 03:12:00,906 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 52
+[INFO] 2026-01-22 03:12:00,906 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 53
+[INFO] 2026-01-22 03:12:00,906 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 54
+[INFO] 2026-01-22 03:12:00,906 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 1
+[INFO] 2026-01-22 03:12:00,906 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 2
+[INFO] 2026-01-22 03:12:00,906 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 3
+[INFO] 2026-01-22 03:12:00,906 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 4
+[INFO] 2026-01-22 03:12:00,906 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 5
+[INFO] 2026-01-22 03:12:00,909 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 6
+[INFO] 2026-01-22 03:12:00,909 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 7
+[INFO] 2026-01-22 03:12:00,909 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 8
+[INFO] 2026-01-22 03:12:00,910 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 9
+[INFO] 2026-01-22 03:12:00,910 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 10
+[INFO] 2026-01-22 03:12:00,910 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 11
+[INFO] 2026-01-22 03:12:00,910 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 12
+[INFO] 2026-01-22 03:12:00,911 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 13
+[INFO] 2026-01-22 03:12:00,911 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 14
+[INFO] 2026-01-22 03:12:00,911 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 15
+[INFO] 2026-01-22 03:12:00,911 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 16
+[INFO] 2026-01-22 03:12:00,911 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 17
+[INFO] 2026-01-22 03:12:00,911 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 18
+[INFO] 2026-01-22 03:12:00,911 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 19
+[INFO] 2026-01-22 03:12:00,911 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 20
+[INFO] 2026-01-22 03:12:00,911 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 21
+[INFO] 2026-01-22 03:12:00,911 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 22
+[INFO] 2026-01-22 03:12:00,911 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 23
+[INFO] 2026-01-22 03:12:00,911 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 24
+[INFO] 2026-01-22 03:12:00,912 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 25
+[INFO] 2026-01-22 03:12:00,912 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 26
+[INFO] 2026-01-22 03:12:00,912 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 27
+[TRACE] 2026-01-22 03:12:00,912 Edge loaded :: 79->80
+[TRACE] 2026-01-22 03:12:00,917 Edge loaded :: 90->91
+[TRACE] 2026-01-22 03:12:00,919 Edge loaded :: 87->88
+[TRACE] 2026-01-22 03:12:00,922 Edge loaded :: 86->87
+[TRACE] 2026-01-22 03:12:00,925 Edge loaded :: 85->86
+[TRACE] 2026-01-22 03:12:00,927 Edge loaded :: 84->85
+[TRACE] 2026-01-22 03:12:00,930 Edge loaded :: 83->84
+[TRACE] 2026-01-22 03:12:00,932 Edge loaded :: 82->83
+[TRACE] 2026-01-22 03:12:00,934 Edge loaded :: 81->82
+[TRACE] 2026-01-22 03:12:00,937 Edge loaded :: 80->81
+[TRACE] 2026-01-22 03:12:00,944 Edge loaded :: 78->79
+[TRACE] 2026-01-22 03:12:00,947 Edge loaded :: 77->78
+[TRACE] 2026-01-22 03:12:00,949 Edge loaded :: 76->77
+[TRACE] 2026-01-22 03:12:00,952 Edge loaded :: 75->76
+[TRACE] 2026-01-22 03:12:00,954 Edge loaded :: 74->75
+[TRACE] 2026-01-22 03:12:00,956 Edge loaded :: 73->74
+[TRACE] 2026-01-22 03:12:00,959 Edge loaded :: 72->73
+[TRACE] 2026-01-22 03:12:00,960 Edge loaded :: 71->72
+[TRACE] 2026-01-22 03:12:00,964 Edge loaded :: 70->71
+[TRACE] 2026-01-22 03:12:00,967 Edge loaded :: 36->70
+[TRACE] 2026-01-22 03:12:00,968 Edge loaded :: 69->36
+[TRACE] 2026-01-22 03:12:00,970 Edge loaded :: 68->69
+[TRACE] 2026-01-22 03:12:00,972 Edge loaded :: 67->68
+[TRACE] 2026-01-22 03:12:00,974 Edge loaded :: 66->67
+[TRACE] 2026-01-22 03:12:00,975 Edge loaded :: 65->66
+[TRACE] 2026-01-22 03:12:00,977 Edge loaded :: 64->65
+[TRACE] 2026-01-22 03:12:00,979 Edge loaded :: 63->64
+[TRACE] 2026-01-22 03:12:00,981 Edge loaded :: 62->63
+[TRACE] 2026-01-22 03:12:00,985 Edge loaded :: 61->62
+[TRACE] 2026-01-22 03:12:00,988 Edge loaded :: 60->61
+[TRACE] 2026-01-22 03:12:00,989 Edge loaded :: 59->60
+[TRACE] 2026-01-22 03:12:00,992 Edge loaded :: 58->59
+[TRACE] 2026-01-22 03:12:00,995 Edge loaded :: 57->58
+[TRACE] 2026-01-22 03:12:00,998 Edge loaded :: 56->57
+[TRACE] 2026-01-22 03:12:01,001 Edge loaded :: 55->56
+[TRACE] 2026-01-22 03:12:01,003 Edge loaded :: 53->54
+[TRACE] 2026-01-22 03:12:01,006 Edge loaded :: 52->53
+[TRACE] 2026-01-22 03:12:01,008 Edge loaded :: 51->52
+[TRACE] 2026-01-22 03:12:01,010 Edge loaded :: 50->51
+[TRACE] 2026-01-22 03:12:01,012 Edge loaded :: 49->50
+[TRACE] 2026-01-22 03:12:01,015 Edge loaded :: 48->49
+[TRACE] 2026-01-22 03:12:01,017 Edge loaded :: 47->48
+[TRACE] 2026-01-22 03:12:01,020 Edge loaded :: 46->47
+[TRACE] 2026-01-22 03:12:01,022 Edge loaded :: 45->46
+[TRACE] 2026-01-22 03:12:01,024 Edge loaded :: 44->45
+[TRACE] 2026-01-22 03:12:01,025 Edge loaded :: 43->44
+[TRACE] 2026-01-22 03:12:01,028 Edge loaded :: 42->43
+[TRACE] 2026-01-22 03:12:01,029 Edge loaded :: 41->42
+[TRACE] 2026-01-22 03:12:01,032 Edge loaded :: 40->41
+[TRACE] 2026-01-22 03:12:01,035 Edge loaded :: 39->40
+[TRACE] 2026-01-22 03:12:01,037 Edge loaded :: 38->39
+[TRACE] 2026-01-22 03:12:01,039 Edge loaded :: 37->38
+[TRACE] 2026-01-22 03:12:01,042 Edge loaded :: 36->37
+[TRACE] 2026-01-22 03:12:01,044 Edge loaded :: 35->36
+[TRACE] 2026-01-22 03:12:01,047 Edge loaded :: 30->31
+[TRACE] 2026-01-22 03:12:01,065 Edge loaded :: 34->6
+[TRACE] 2026-01-22 03:12:01,067 Edge loaded :: 33->34
+[TRACE] 2026-01-22 03:12:01,069 Edge loaded :: 32->33
+[TRACE] 2026-01-22 03:12:01,071 Edge loaded :: 31->32
+[TRACE] 2026-01-22 03:12:01,075 Edge loaded :: 29->30
+[TRACE] 2026-01-22 03:12:01,076 Edge loaded :: 28->29
+[TRACE] 2026-01-22 03:12:01,079 Edge loaded :: 27->28
+[TRACE] 2026-01-22 03:12:01,084 Edge loaded :: 26->27
+[TRACE] 2026-01-22 03:12:01,085 Edge loaded :: 25->26
+[TRACE] 2026-01-22 03:12:01,087 Edge loaded :: 23->24
+[TRACE] 2026-01-22 03:12:01,089 Edge loaded :: 22->23
+[TRACE] 2026-01-22 03:12:01,091 Edge loaded :: 21->22
+[TRACE] 2026-01-22 03:12:01,093 Edge loaded :: 20->21
+[TRACE] 2026-01-22 03:12:01,095 Edge loaded :: 19->20
+[TRACE] 2026-01-22 03:12:01,097 Edge loaded :: 18->19
+[TRACE] 2026-01-22 03:12:01,099 Edge loaded :: 17->18
+[TRACE] 2026-01-22 03:12:01,103 Edge loaded :: 16->17
+[TRACE] 2026-01-22 03:12:01,105 Edge loaded :: 15->16
+[TRACE] 2026-01-22 03:12:01,107 Edge loaded :: 14->15
+[TRACE] 2026-01-22 03:12:01,109 Edge loaded :: 13->14
+[TRACE] 2026-01-22 03:12:01,112 Edge loaded :: 12->13
+[TRACE] 2026-01-22 03:12:01,114 Edge loaded :: 11->12
+[TRACE] 2026-01-22 03:12:01,118 Edge loaded :: 10->11
+[TRACE] 2026-01-22 03:12:01,120 Edge loaded :: 9->10
+[TRACE] 2026-01-22 03:12:01,125 Edge loaded :: 8->35
+[TRACE] 2026-01-22 03:12:01,127 Edge loaded :: 8->9
+[TRACE] 2026-01-22 03:12:01,128 Edge loaded :: 7->8
+[TRACE] 2026-01-22 03:12:01,131 Edge loaded :: 6->7
+[TRACE] 2026-01-22 03:12:01,133 Edge loaded :: 5->6
+[TRACE] 2026-01-22 03:12:01,134 Edge loaded :: 4->5
+[TRACE] 2026-01-22 03:12:01,136 Edge loaded :: 2->3
+[TRACE] 2026-01-22 03:12:01,138 Edge loaded :: 1->2
+[TRACE] 2026-01-22 03:12:01,140 Location loaded :: 108
+[TRACE] 2026-01-22 03:12:01,140 Location loaded :: 107
+[TRACE] 2026-01-22 03:12:01,140 Location loaded :: 106
+[TRACE] 2026-01-22 03:12:01,140 Location loaded :: 105
+[TRACE] 2026-01-22 03:12:01,140 Location loaded :: 104
+[TRACE] 2026-01-22 03:12:01,140 Location loaded :: 103
+[TRACE] 2026-01-22 03:12:01,141 Location loaded :: 102
+[TRACE] 2026-01-22 03:12:01,141 Location loaded :: 101
+[TRACE] 2026-01-22 03:12:01,141 Location loaded :: 100
+[TRACE] 2026-01-22 03:12:01,141 Location loaded :: 99
+[TRACE] 2026-01-22 03:12:01,141 Location loaded :: 98
+[TRACE] 2026-01-22 03:12:01,141 Location loaded :: 97
+[TRACE] 2026-01-22 03:12:01,141 Location loaded :: 96
+[TRACE] 2026-01-22 03:12:01,141 Location loaded :: 95
+[TRACE] 2026-01-22 03:12:01,141 Location loaded :: 94
+[TRACE] 2026-01-22 03:12:01,141 Location loaded :: 93
+[TRACE] 2026-01-22 03:12:01,141 Location loaded :: 92
+[TRACE] 2026-01-22 03:12:01,141 Location loaded :: 91
+[TRACE] 2026-01-22 03:12:01,141 Location loaded :: 90
+[TRACE] 2026-01-22 03:12:01,141 Location loaded :: 88
+[TRACE] 2026-01-22 03:12:01,141 Location loaded :: 87
+[TRACE] 2026-01-22 03:12:01,141 Location loaded :: 86
+[TRACE] 2026-01-22 03:12:01,141 Location loaded :: 85
+[TRACE] 2026-01-22 03:12:01,141 Location loaded :: 84
+[TRACE] 2026-01-22 03:12:01,141 Location loaded :: 83
+[TRACE] 2026-01-22 03:12:01,141 Location loaded :: 82
+[TRACE] 2026-01-22 03:12:01,141 Location loaded :: 81
+[TRACE] 2026-01-22 03:12:01,141 Location loaded :: 80
+[TRACE] 2026-01-22 03:12:01,141 Location loaded :: 79
+[TRACE] 2026-01-22 03:12:01,141 Location loaded :: 78
+[TRACE] 2026-01-22 03:12:01,142 Location loaded :: 77
+[TRACE] 2026-01-22 03:12:01,142 Location loaded :: 76
+[TRACE] 2026-01-22 03:12:01,142 Location loaded :: 75
+[TRACE] 2026-01-22 03:12:01,142 Location loaded :: 74
+[TRACE] 2026-01-22 03:12:01,142 Location loaded :: 73
+[TRACE] 2026-01-22 03:12:01,142 Location loaded :: 72
+[TRACE] 2026-01-22 03:12:01,142 Location loaded :: 71
+[TRACE] 2026-01-22 03:12:01,142 Location loaded :: 70
+[TRACE] 2026-01-22 03:12:01,142 Location loaded :: 69
+[TRACE] 2026-01-22 03:12:01,142 Location loaded :: 68
+[TRACE] 2026-01-22 03:12:01,142 Location loaded :: 67
+[TRACE] 2026-01-22 03:12:01,142 Location loaded :: 66
+[TRACE] 2026-01-22 03:12:01,142 Location loaded :: 65
+[TRACE] 2026-01-22 03:12:01,142 Location loaded :: 64
+[TRACE] 2026-01-22 03:12:01,142 Location loaded :: 63
+[TRACE] 2026-01-22 03:12:01,142 Location loaded :: 62
+[TRACE] 2026-01-22 03:12:01,142 Location loaded :: 61
+[TRACE] 2026-01-22 03:12:01,142 Location loaded :: 60
+[TRACE] 2026-01-22 03:12:01,142 Location loaded :: 59
+[TRACE] 2026-01-22 03:12:01,142 Location loaded :: 58
+[TRACE] 2026-01-22 03:12:01,142 Location loaded :: 57
+[TRACE] 2026-01-22 03:12:01,142 Location loaded :: 56
+[TRACE] 2026-01-22 03:12:01,143 Location loaded :: 55
+[TRACE] 2026-01-22 03:12:01,143 Location loaded :: 54
+[TRACE] 2026-01-22 03:12:01,143 Location loaded :: 53
+[TRACE] 2026-01-22 03:12:01,143 Location loaded :: 52
+[TRACE] 2026-01-22 03:12:01,143 Location loaded :: 51
+[TRACE] 2026-01-22 03:12:01,143 Location loaded :: 50
+[TRACE] 2026-01-22 03:12:01,143 Location loaded :: 49
+[TRACE] 2026-01-22 03:12:01,143 Location loaded :: 48
+[TRACE] 2026-01-22 03:12:01,144 Location loaded :: 47
+[TRACE] 2026-01-22 03:12:01,144 Location loaded :: 46
+[TRACE] 2026-01-22 03:12:01,144 Location loaded :: 45
+[TRACE] 2026-01-22 03:12:01,144 Location loaded :: 44
+[TRACE] 2026-01-22 03:12:01,144 Location loaded :: 43
+[TRACE] 2026-01-22 03:12:01,144 Location loaded :: 42
+[TRACE] 2026-01-22 03:12:01,144 Location loaded :: 41
+[TRACE] 2026-01-22 03:12:01,144 Location loaded :: 40
+[TRACE] 2026-01-22 03:12:01,144 Location loaded :: 39
+[TRACE] 2026-01-22 03:12:01,144 Location loaded :: 38
+[TRACE] 2026-01-22 03:12:01,144 Location loaded :: 37
+[TRACE] 2026-01-22 03:12:01,144 Location loaded :: 36
+[TRACE] 2026-01-22 03:12:01,144 Location loaded :: 35
+[TRACE] 2026-01-22 03:12:01,144 Location loaded :: 34
+[TRACE] 2026-01-22 03:12:01,144 Location loaded :: 33
+[TRACE] 2026-01-22 03:12:01,144 Location loaded :: 32
+[TRACE] 2026-01-22 03:12:01,145 Location loaded :: 31
+[TRACE] 2026-01-22 03:12:01,145 Location loaded :: 30
+[TRACE] 2026-01-22 03:12:01,145 Location loaded :: 29
+[TRACE] 2026-01-22 03:12:01,145 Location loaded :: 28
+[TRACE] 2026-01-22 03:12:01,145 Location loaded :: 27
+[TRACE] 2026-01-22 03:12:01,145 Location loaded :: 26
+[TRACE] 2026-01-22 03:12:01,145 Location loaded :: 25
+[TRACE] 2026-01-22 03:12:01,145 Location loaded :: 24
+[TRACE] 2026-01-22 03:12:01,145 Location loaded :: 23
+[TRACE] 2026-01-22 03:12:01,145 Location loaded :: 22
+[TRACE] 2026-01-22 03:12:01,145 Location loaded :: 21
+[TRACE] 2026-01-22 03:12:01,145 Location loaded :: 20
+[TRACE] 2026-01-22 03:12:01,145 Location loaded :: 19
+[TRACE] 2026-01-22 03:12:01,145 Location loaded :: 18
+[TRACE] 2026-01-22 03:12:01,145 Location loaded :: 17
+[TRACE] 2026-01-22 03:12:01,145 Location loaded :: 16
+[TRACE] 2026-01-22 03:12:01,145 Location loaded :: 15
+[TRACE] 2026-01-22 03:12:01,145 Location loaded :: 14
+[TRACE] 2026-01-22 03:12:01,145 Location loaded :: 13
+[TRACE] 2026-01-22 03:12:01,146 Location loaded :: 12
+[TRACE] 2026-01-22 03:12:01,146 Location loaded :: 11
+[TRACE] 2026-01-22 03:12:01,146 Location loaded :: 10
+[TRACE] 2026-01-22 03:12:01,146 Location loaded :: 9
+[TRACE] 2026-01-22 03:12:01,146 Location loaded :: 8
+[TRACE] 2026-01-22 03:12:01,146 Location loaded :: 7
+[TRACE] 2026-01-22 03:12:01,146 Location loaded :: 6
+[TRACE] 2026-01-22 03:12:01,146 Location loaded :: 5
+[TRACE] 2026-01-22 03:12:01,146 Location loaded :: 4
+[TRACE] 2026-01-22 03:12:01,146 Location loaded :: 3
+[TRACE] 2026-01-22 03:12:01,146 Location loaded :: 2
+[TRACE] 2026-01-22 03:12:01,146 Location loaded :: 1
+[TRACE] 2026-01-22 03:17:29,428 [TRANSFER][DEFINE] at 44: mrt/mrt-line-2 <-> mrt/mrt-line-5 time=5 :: 44
+[TRACE] 2026-01-22 03:17:29,428 [TRANSFER][DEFINE] at 8: mrt/mrt-line-1 <-> mrt/mrt-line-2 time=5 :: 8
+[INFO] 2026-01-22 03:17:29,428 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 55
+[INFO] 2026-01-22 03:17:29,428 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 56
+[INFO] 2026-01-22 03:17:29,428 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 57
+[INFO] 2026-01-22 03:17:29,428 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 58
+[INFO] 2026-01-22 03:17:29,428 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 59
+[INFO] 2026-01-22 03:17:29,428 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 60
+[INFO] 2026-01-22 03:17:29,428 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 61
+[INFO] 2026-01-22 03:17:29,428 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 62
+[INFO] 2026-01-22 03:17:29,428 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 63
+[INFO] 2026-01-22 03:17:29,428 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 64
+[INFO] 2026-01-22 03:17:29,429 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 65
+[INFO] 2026-01-22 03:17:29,429 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 66
+[INFO] 2026-01-22 03:17:29,430 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 67
+[INFO] 2026-01-22 03:17:29,430 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 68
+[INFO] 2026-01-22 03:17:29,430 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 69
+[INFO] 2026-01-22 03:17:29,430 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 36
+[INFO] 2026-01-22 03:17:29,430 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 70
+[INFO] 2026-01-22 03:17:29,430 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 71
+[INFO] 2026-01-22 03:17:29,430 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 72
+[INFO] 2026-01-22 03:17:29,430 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 73
+[INFO] 2026-01-22 03:17:29,431 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 74
+[INFO] 2026-01-22 03:17:29,431 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 75
+[INFO] 2026-01-22 03:17:29,431 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 76
+[INFO] 2026-01-22 03:17:29,431 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 77
+[INFO] 2026-01-22 03:17:29,431 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 78
+[INFO] 2026-01-22 03:17:29,431 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 79
+[INFO] 2026-01-22 03:17:29,431 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 44
+[INFO] 2026-01-22 03:17:29,431 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 80
+[INFO] 2026-01-22 03:17:29,431 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 81
+[INFO] 2026-01-22 03:17:29,432 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 82
+[INFO] 2026-01-22 03:17:29,432 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 83
+[INFO] 2026-01-22 03:17:29,432 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 84
+[INFO] 2026-01-22 03:17:29,432 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 85
+[INFO] 2026-01-22 03:17:29,432 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 86
+[INFO] 2026-01-22 03:17:29,432 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 87
+[INFO] 2026-01-22 03:17:29,432 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 88
+[INFO] 2026-01-22 03:17:29,432 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 90
+[INFO] 2026-01-22 03:17:29,432 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 91
+[INFO] 2026-01-22 03:17:29,432 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 92
+[INFO] 2026-01-22 03:17:29,432 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 93
+[INFO] 2026-01-22 03:17:29,433 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 94
+[INFO] 2026-01-22 03:17:29,433 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 95
+[INFO] 2026-01-22 03:17:29,433 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 96
+[INFO] 2026-01-22 03:17:29,433 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 97
+[INFO] 2026-01-22 03:17:29,433 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 98
+[INFO] 2026-01-22 03:17:29,433 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 99
+[INFO] 2026-01-22 03:17:29,433 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 100
+[INFO] 2026-01-22 03:17:29,433 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 101
+[INFO] 2026-01-22 03:17:29,433 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 102
+[INFO] 2026-01-22 03:17:29,433 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 103
+[INFO] 2026-01-22 03:17:29,434 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 104
+[INFO] 2026-01-22 03:17:29,434 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 105
+[INFO] 2026-01-22 03:17:29,434 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 106
+[INFO] 2026-01-22 03:17:29,434 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 107
+[INFO] 2026-01-22 03:17:29,434 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 28
+[INFO] 2026-01-22 03:17:29,434 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 29
+[INFO] 2026-01-22 03:17:29,434 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 30
+[INFO] 2026-01-22 03:17:29,434 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 31
+[INFO] 2026-01-22 03:17:29,434 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 32
+[INFO] 2026-01-22 03:17:29,434 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 33
+[INFO] 2026-01-22 03:17:29,434 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 34
+[INFO] 2026-01-22 03:17:29,434 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 35
+[INFO] 2026-01-22 03:17:29,435 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 6
+[INFO] 2026-01-22 03:17:29,435 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 8
+[INFO] 2026-01-22 03:17:29,435 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 36
+[INFO] 2026-01-22 03:17:29,435 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 37
+[INFO] 2026-01-22 03:17:29,435 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 38
+[INFO] 2026-01-22 03:17:29,435 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 39
+[INFO] 2026-01-22 03:17:29,435 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 40
+[INFO] 2026-01-22 03:17:29,435 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 41
+[INFO] 2026-01-22 03:17:29,435 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 42
+[INFO] 2026-01-22 03:17:29,435 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 43
+[INFO] 2026-01-22 03:17:29,435 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 44
+[INFO] 2026-01-22 03:17:29,437 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 45
+[INFO] 2026-01-22 03:17:29,437 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 46
+[INFO] 2026-01-22 03:17:29,437 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 47
+[INFO] 2026-01-22 03:17:29,437 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 48
+[INFO] 2026-01-22 03:17:29,437 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 49
+[INFO] 2026-01-22 03:17:29,437 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 50
+[INFO] 2026-01-22 03:17:29,437 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 51
+[INFO] 2026-01-22 03:17:29,437 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 52
+[INFO] 2026-01-22 03:17:29,438 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 53
+[INFO] 2026-01-22 03:17:29,438 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 54
+[INFO] 2026-01-22 03:17:29,438 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 1
+[INFO] 2026-01-22 03:17:29,438 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 2
+[INFO] 2026-01-22 03:17:29,438 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 3
+[INFO] 2026-01-22 03:17:29,438 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 4
+[INFO] 2026-01-22 03:17:29,438 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 5
+[INFO] 2026-01-22 03:17:29,438 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 6
+[INFO] 2026-01-22 03:17:29,438 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 7
+[INFO] 2026-01-22 03:17:29,438 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 8
+[INFO] 2026-01-22 03:17:29,439 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 9
+[INFO] 2026-01-22 03:17:29,439 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 10
+[INFO] 2026-01-22 03:17:29,439 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 11
+[INFO] 2026-01-22 03:17:29,439 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 12
+[INFO] 2026-01-22 03:17:29,439 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 13
+[INFO] 2026-01-22 03:17:29,439 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 14
+[INFO] 2026-01-22 03:17:29,440 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 15
+[INFO] 2026-01-22 03:17:29,440 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 16
+[INFO] 2026-01-22 03:17:29,440 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 17
+[INFO] 2026-01-22 03:17:29,440 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 18
+[INFO] 2026-01-22 03:17:29,440 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 19
+[INFO] 2026-01-22 03:17:29,440 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 20
+[INFO] 2026-01-22 03:17:29,440 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 21
+[INFO] 2026-01-22 03:17:29,440 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 22
+[INFO] 2026-01-22 03:17:29,440 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 23
+[INFO] 2026-01-22 03:17:29,440 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 24
+[INFO] 2026-01-22 03:17:29,440 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 25
+[INFO] 2026-01-22 03:17:29,440 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 26
+[INFO] 2026-01-22 03:17:29,440 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 27
+[TRACE] 2026-01-22 03:17:29,440 Edge loaded :: 79->80
+[TRACE] 2026-01-22 03:17:29,444 Edge loaded :: 90->91
+[TRACE] 2026-01-22 03:17:29,446 Edge loaded :: 87->88
+[TRACE] 2026-01-22 03:17:29,448 Edge loaded :: 86->87
+[TRACE] 2026-01-22 03:17:29,451 Edge loaded :: 85->86
+[TRACE] 2026-01-22 03:17:29,454 Edge loaded :: 84->85
+[TRACE] 2026-01-22 03:17:29,455 Edge loaded :: 83->84
+[TRACE] 2026-01-22 03:17:29,459 Edge loaded :: 82->83
+[TRACE] 2026-01-22 03:17:29,461 Edge loaded :: 81->82
+[TRACE] 2026-01-22 03:17:29,463 Edge loaded :: 80->81
+[TRACE] 2026-01-22 03:17:29,468 Edge loaded :: 78->79
+[TRACE] 2026-01-22 03:17:29,469 Edge loaded :: 77->78
+[TRACE] 2026-01-22 03:17:29,473 Edge loaded :: 76->77
+[TRACE] 2026-01-22 03:17:29,475 Edge loaded :: 75->76
+[TRACE] 2026-01-22 03:17:29,477 Edge loaded :: 74->75
+[TRACE] 2026-01-22 03:17:29,480 Edge loaded :: 73->74
+[TRACE] 2026-01-22 03:17:29,483 Edge loaded :: 72->73
+[TRACE] 2026-01-22 03:17:29,486 Edge loaded :: 71->72
+[TRACE] 2026-01-22 03:17:29,488 Edge loaded :: 70->71
+[TRACE] 2026-01-22 03:17:29,490 Edge loaded :: 36->70
+[TRACE] 2026-01-22 03:17:29,492 Edge loaded :: 69->36
+[TRACE] 2026-01-22 03:17:29,494 Edge loaded :: 68->69
+[TRACE] 2026-01-22 03:17:29,496 Edge loaded :: 67->68
+[TRACE] 2026-01-22 03:17:29,498 Edge loaded :: 66->67
+[TRACE] 2026-01-22 03:17:29,501 Edge loaded :: 65->66
+[TRACE] 2026-01-22 03:17:29,503 Edge loaded :: 64->65
+[TRACE] 2026-01-22 03:17:29,504 Edge loaded :: 63->64
+[TRACE] 2026-01-22 03:17:29,507 Edge loaded :: 62->63
+[TRACE] 2026-01-22 03:17:29,509 Edge loaded :: 61->62
+[TRACE] 2026-01-22 03:17:29,511 Edge loaded :: 60->61
+[TRACE] 2026-01-22 03:17:29,512 Edge loaded :: 59->60
+[TRACE] 2026-01-22 03:17:29,514 Edge loaded :: 58->59
+[TRACE] 2026-01-22 03:17:29,516 Edge loaded :: 57->58
+[TRACE] 2026-01-22 03:17:29,518 Edge loaded :: 56->57
+[TRACE] 2026-01-22 03:17:29,519 Edge loaded :: 55->56
+[TRACE] 2026-01-22 03:17:29,521 Edge loaded :: 53->54
+[TRACE] 2026-01-22 03:17:29,523 Edge loaded :: 52->53
+[TRACE] 2026-01-22 03:17:29,525 Edge loaded :: 51->52
+[TRACE] 2026-01-22 03:17:29,527 Edge loaded :: 50->51
+[TRACE] 2026-01-22 03:17:29,530 Edge loaded :: 49->50
+[TRACE] 2026-01-22 03:17:29,532 Edge loaded :: 48->49
+[TRACE] 2026-01-22 03:17:29,534 Edge loaded :: 47->48
+[TRACE] 2026-01-22 03:17:29,536 Edge loaded :: 46->47
+[TRACE] 2026-01-22 03:17:29,538 Edge loaded :: 45->46
+[TRACE] 2026-01-22 03:17:29,540 Edge loaded :: 44->45
+[TRACE] 2026-01-22 03:17:29,543 Edge loaded :: 43->44
+[TRACE] 2026-01-22 03:17:29,545 Edge loaded :: 42->43
+[TRACE] 2026-01-22 03:17:29,547 Edge loaded :: 41->42
+[TRACE] 2026-01-22 03:17:29,552 Edge loaded :: 40->41
+[TRACE] 2026-01-22 03:17:29,554 Edge loaded :: 39->40
+[TRACE] 2026-01-22 03:17:29,557 Edge loaded :: 38->39
+[TRACE] 2026-01-22 03:17:29,559 Edge loaded :: 37->38
+[TRACE] 2026-01-22 03:17:29,560 Edge loaded :: 36->37
+[TRACE] 2026-01-22 03:17:29,564 Edge loaded :: 35->36
+[TRACE] 2026-01-22 03:17:29,566 Edge loaded :: 30->31
+[TRACE] 2026-01-22 03:17:29,579 Edge loaded :: 34->6
+[TRACE] 2026-01-22 03:17:29,581 Edge loaded :: 33->34
+[TRACE] 2026-01-22 03:17:29,584 Edge loaded :: 32->33
+[TRACE] 2026-01-22 03:17:29,585 Edge loaded :: 31->32
+[TRACE] 2026-01-22 03:17:29,588 Edge loaded :: 29->30
+[TRACE] 2026-01-22 03:17:29,591 Edge loaded :: 28->29
+[TRACE] 2026-01-22 03:17:29,593 Edge loaded :: 27->28
+[TRACE] 2026-01-22 03:17:29,595 Edge loaded :: 26->27
+[TRACE] 2026-01-22 03:17:29,598 Edge loaded :: 25->26
+[TRACE] 2026-01-22 03:17:29,600 Edge loaded :: 23->24
+[TRACE] 2026-01-22 03:17:29,602 Edge loaded :: 22->23
+[TRACE] 2026-01-22 03:17:29,604 Edge loaded :: 21->22
+[TRACE] 2026-01-22 03:17:29,606 Edge loaded :: 20->21
+[TRACE] 2026-01-22 03:17:29,608 Edge loaded :: 19->20
+[TRACE] 2026-01-22 03:17:29,610 Edge loaded :: 18->19
+[TRACE] 2026-01-22 03:17:29,614 Edge loaded :: 17->18
+[TRACE] 2026-01-22 03:17:29,618 Edge loaded :: 16->17
+[TRACE] 2026-01-22 03:17:29,620 Edge loaded :: 15->16
+[TRACE] 2026-01-22 03:17:29,622 Edge loaded :: 14->15
+[TRACE] 2026-01-22 03:17:29,623 Edge loaded :: 13->14
+[TRACE] 2026-01-22 03:17:29,627 Edge loaded :: 12->13
+[TRACE] 2026-01-22 03:17:29,628 Edge loaded :: 11->12
+[TRACE] 2026-01-22 03:17:29,630 Edge loaded :: 10->11
+[TRACE] 2026-01-22 03:17:29,633 Edge loaded :: 9->10
+[TRACE] 2026-01-22 03:17:29,635 Edge loaded :: 8->35
+[TRACE] 2026-01-22 03:17:29,636 Edge loaded :: 8->9
+[TRACE] 2026-01-22 03:17:29,639 Edge loaded :: 7->8
+[TRACE] 2026-01-22 03:17:29,641 Edge loaded :: 6->7
+[TRACE] 2026-01-22 03:17:29,643 Edge loaded :: 5->6
+[TRACE] 2026-01-22 03:17:29,644 Edge loaded :: 4->5
+[TRACE] 2026-01-22 03:17:29,646 Edge loaded :: 2->3
+[TRACE] 2026-01-22 03:17:29,648 Edge loaded :: 1->2
+[TRACE] 2026-01-22 03:17:29,650 Location loaded :: 108
+[TRACE] 2026-01-22 03:17:29,650 Location loaded :: 107
+[TRACE] 2026-01-22 03:17:29,650 Location loaded :: 106
+[TRACE] 2026-01-22 03:17:29,650 Location loaded :: 105
+[TRACE] 2026-01-22 03:17:29,650 Location loaded :: 104
+[TRACE] 2026-01-22 03:17:29,650 Location loaded :: 103
+[TRACE] 2026-01-22 03:17:29,650 Location loaded :: 102
+[TRACE] 2026-01-22 03:17:29,650 Location loaded :: 101
+[TRACE] 2026-01-22 03:17:29,650 Location loaded :: 100
+[TRACE] 2026-01-22 03:17:29,650 Location loaded :: 99
+[TRACE] 2026-01-22 03:17:29,650 Location loaded :: 98
+[TRACE] 2026-01-22 03:17:29,650 Location loaded :: 97
+[TRACE] 2026-01-22 03:17:29,650 Location loaded :: 96
+[TRACE] 2026-01-22 03:17:29,650 Location loaded :: 95
+[TRACE] 2026-01-22 03:17:29,650 Location loaded :: 94
+[TRACE] 2026-01-22 03:17:29,650 Location loaded :: 93
+[TRACE] 2026-01-22 03:17:29,650 Location loaded :: 92
+[TRACE] 2026-01-22 03:17:29,650 Location loaded :: 91
+[TRACE] 2026-01-22 03:17:29,650 Location loaded :: 90
+[TRACE] 2026-01-22 03:17:29,650 Location loaded :: 88
+[TRACE] 2026-01-22 03:17:29,650 Location loaded :: 87
+[TRACE] 2026-01-22 03:17:29,650 Location loaded :: 86
+[TRACE] 2026-01-22 03:17:29,650 Location loaded :: 85
+[TRACE] 2026-01-22 03:17:29,650 Location loaded :: 84
+[TRACE] 2026-01-22 03:17:29,651 Location loaded :: 83
+[TRACE] 2026-01-22 03:17:29,651 Location loaded :: 82
+[TRACE] 2026-01-22 03:17:29,651 Location loaded :: 81
+[TRACE] 2026-01-22 03:17:29,651 Location loaded :: 80
+[TRACE] 2026-01-22 03:17:29,651 Location loaded :: 79
+[TRACE] 2026-01-22 03:17:29,651 Location loaded :: 78
+[TRACE] 2026-01-22 03:17:29,651 Location loaded :: 77
+[TRACE] 2026-01-22 03:17:29,651 Location loaded :: 76
+[TRACE] 2026-01-22 03:17:29,651 Location loaded :: 75
+[TRACE] 2026-01-22 03:17:29,651 Location loaded :: 74
+[TRACE] 2026-01-22 03:17:29,651 Location loaded :: 73
+[TRACE] 2026-01-22 03:17:29,651 Location loaded :: 72
+[TRACE] 2026-01-22 03:17:29,651 Location loaded :: 71
+[TRACE] 2026-01-22 03:17:29,651 Location loaded :: 70
+[TRACE] 2026-01-22 03:17:29,651 Location loaded :: 69
+[TRACE] 2026-01-22 03:17:29,651 Location loaded :: 68
+[TRACE] 2026-01-22 03:17:29,651 Location loaded :: 67
+[TRACE] 2026-01-22 03:17:29,651 Location loaded :: 66
+[TRACE] 2026-01-22 03:17:29,651 Location loaded :: 65
+[TRACE] 2026-01-22 03:17:29,651 Location loaded :: 64
+[TRACE] 2026-01-22 03:17:29,652 Location loaded :: 63
+[TRACE] 2026-01-22 03:17:29,652 Location loaded :: 62
+[TRACE] 2026-01-22 03:17:29,652 Location loaded :: 61
+[TRACE] 2026-01-22 03:17:29,652 Location loaded :: 60
+[TRACE] 2026-01-22 03:17:29,652 Location loaded :: 59
+[TRACE] 2026-01-22 03:17:29,652 Location loaded :: 58
+[TRACE] 2026-01-22 03:17:29,652 Location loaded :: 57
+[TRACE] 2026-01-22 03:17:29,652 Location loaded :: 56
+[TRACE] 2026-01-22 03:17:29,652 Location loaded :: 55
+[TRACE] 2026-01-22 03:17:29,652 Location loaded :: 54
+[TRACE] 2026-01-22 03:17:29,652 Location loaded :: 53
+[TRACE] 2026-01-22 03:17:29,652 Location loaded :: 52
+[TRACE] 2026-01-22 03:17:29,652 Location loaded :: 51
+[TRACE] 2026-01-22 03:17:29,652 Location loaded :: 50
+[TRACE] 2026-01-22 03:17:29,652 Location loaded :: 49
+[TRACE] 2026-01-22 03:17:29,652 Location loaded :: 48
+[TRACE] 2026-01-22 03:17:29,652 Location loaded :: 47
+[TRACE] 2026-01-22 03:17:29,653 Location loaded :: 46
+[TRACE] 2026-01-22 03:17:29,653 Location loaded :: 45
+[TRACE] 2026-01-22 03:17:29,653 Location loaded :: 44
+[TRACE] 2026-01-22 03:17:29,653 Location loaded :: 43
+[TRACE] 2026-01-22 03:17:29,653 Location loaded :: 42
+[TRACE] 2026-01-22 03:17:29,653 Location loaded :: 41
+[TRACE] 2026-01-22 03:17:29,653 Location loaded :: 40
+[TRACE] 2026-01-22 03:17:29,653 Location loaded :: 39
+[TRACE] 2026-01-22 03:17:29,653 Location loaded :: 38
+[TRACE] 2026-01-22 03:17:29,653 Location loaded :: 37
+[TRACE] 2026-01-22 03:17:29,653 Location loaded :: 36
+[TRACE] 2026-01-22 03:17:29,653 Location loaded :: 35
+[TRACE] 2026-01-22 03:17:29,654 Location loaded :: 34
+[TRACE] 2026-01-22 03:17:29,654 Location loaded :: 33
+[TRACE] 2026-01-22 03:17:29,654 Location loaded :: 32
+[TRACE] 2026-01-22 03:17:29,654 Location loaded :: 31
+[TRACE] 2026-01-22 03:17:29,654 Location loaded :: 30
+[TRACE] 2026-01-22 03:17:29,654 Location loaded :: 29
+[TRACE] 2026-01-22 03:17:29,654 Location loaded :: 28
+[TRACE] 2026-01-22 03:17:29,654 Location loaded :: 27
+[TRACE] 2026-01-22 03:17:29,654 Location loaded :: 26
+[TRACE] 2026-01-22 03:17:29,654 Location loaded :: 25
+[TRACE] 2026-01-22 03:17:29,654 Location loaded :: 24
+[TRACE] 2026-01-22 03:17:29,654 Location loaded :: 23
+[TRACE] 2026-01-22 03:17:29,654 Location loaded :: 22
+[TRACE] 2026-01-22 03:17:29,654 Location loaded :: 21
+[TRACE] 2026-01-22 03:17:29,654 Location loaded :: 20
+[TRACE] 2026-01-22 03:17:29,654 Location loaded :: 19
+[TRACE] 2026-01-22 03:17:29,654 Location loaded :: 18
+[TRACE] 2026-01-22 03:17:29,654 Location loaded :: 17
+[TRACE] 2026-01-22 03:17:29,654 Location loaded :: 16
+[TRACE] 2026-01-22 03:17:29,655 Location loaded :: 15
+[TRACE] 2026-01-22 03:17:29,655 Location loaded :: 14
+[TRACE] 2026-01-22 03:17:29,655 Location loaded :: 13
+[TRACE] 2026-01-22 03:17:29,655 Location loaded :: 12
+[TRACE] 2026-01-22 03:17:29,655 Location loaded :: 11
+[TRACE] 2026-01-22 03:17:29,655 Location loaded :: 10
+[TRACE] 2026-01-22 03:17:29,655 Location loaded :: 9
+[TRACE] 2026-01-22 03:17:29,655 Location loaded :: 8
+[TRACE] 2026-01-22 03:17:29,655 Location loaded :: 7
+[TRACE] 2026-01-22 03:17:29,655 Location loaded :: 6
+[TRACE] 2026-01-22 03:17:29,655 Location loaded :: 5
+[TRACE] 2026-01-22 03:17:29,655 Location loaded :: 4
+[TRACE] 2026-01-22 03:17:29,655 Location loaded :: 3
+[TRACE] 2026-01-22 03:17:29,655 Location loaded :: 2
+[TRACE] 2026-01-22 03:17:29,655 Location loaded :: 1
+[TRACE] 2026-01-22 03:18:13,251 [TRANSFER][DEFINE] at 44: mrt/mrt-line-2 <-> mrt/mrt-line-5 time=5 :: 44
+[TRACE] 2026-01-22 03:18:13,251 [TRANSFER][DEFINE] at 8: mrt/mrt-line-1 <-> mrt/mrt-line-2 time=5 :: 8
+[INFO] 2026-01-22 03:18:13,252 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 55
+[INFO] 2026-01-22 03:18:13,252 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 56
+[INFO] 2026-01-22 03:18:13,252 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 57
+[INFO] 2026-01-22 03:18:13,252 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 58
+[INFO] 2026-01-22 03:18:13,252 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 59
+[INFO] 2026-01-22 03:18:13,252 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 60
+[INFO] 2026-01-22 03:18:13,252 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 61
+[INFO] 2026-01-22 03:18:13,252 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 62
+[INFO] 2026-01-22 03:18:13,252 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 63
+[INFO] 2026-01-22 03:18:13,253 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 64
+[INFO] 2026-01-22 03:18:13,253 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 65
+[INFO] 2026-01-22 03:18:13,253 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 66
+[INFO] 2026-01-22 03:18:13,253 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 67
+[INFO] 2026-01-22 03:18:13,253 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 68
+[INFO] 2026-01-22 03:18:13,254 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 69
+[INFO] 2026-01-22 03:18:13,254 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 36
+[INFO] 2026-01-22 03:18:13,254 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 70
+[INFO] 2026-01-22 03:18:13,254 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 71
+[INFO] 2026-01-22 03:18:13,254 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 72
+[INFO] 2026-01-22 03:18:13,254 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 73
+[INFO] 2026-01-22 03:18:13,254 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 74
+[INFO] 2026-01-22 03:18:13,254 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 75
+[INFO] 2026-01-22 03:18:13,255 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 76
+[INFO] 2026-01-22 03:18:13,255 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 77
+[INFO] 2026-01-22 03:18:13,255 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 78
+[INFO] 2026-01-22 03:18:13,255 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 79
+[INFO] 2026-01-22 03:18:13,255 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 44
+[INFO] 2026-01-22 03:18:13,255 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 80
+[INFO] 2026-01-22 03:18:13,255 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 81
+[INFO] 2026-01-22 03:18:13,255 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 82
+[INFO] 2026-01-22 03:18:13,255 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 83
+[INFO] 2026-01-22 03:18:13,255 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 84
+[INFO] 2026-01-22 03:18:13,255 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 85
+[INFO] 2026-01-22 03:18:13,255 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 86
+[INFO] 2026-01-22 03:18:13,255 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 87
+[INFO] 2026-01-22 03:18:13,255 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 88
+[INFO] 2026-01-22 03:18:13,256 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 90
+[INFO] 2026-01-22 03:18:13,256 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 91
+[INFO] 2026-01-22 03:18:13,256 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 92
+[INFO] 2026-01-22 03:18:13,256 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 93
+[INFO] 2026-01-22 03:18:13,256 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 94
+[INFO] 2026-01-22 03:18:13,256 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 95
+[INFO] 2026-01-22 03:18:13,256 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 96
+[INFO] 2026-01-22 03:18:13,256 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 97
+[INFO] 2026-01-22 03:18:13,256 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 98
+[INFO] 2026-01-22 03:18:13,256 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 99
+[INFO] 2026-01-22 03:18:13,256 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 100
+[INFO] 2026-01-22 03:18:13,256 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 101
+[INFO] 2026-01-22 03:18:13,256 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 102
+[INFO] 2026-01-22 03:18:13,257 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 103
+[INFO] 2026-01-22 03:18:13,257 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 104
+[INFO] 2026-01-22 03:18:13,257 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 105
+[INFO] 2026-01-22 03:18:13,257 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 106
+[INFO] 2026-01-22 03:18:13,257 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 107
+[INFO] 2026-01-22 03:18:13,257 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 28
+[INFO] 2026-01-22 03:18:13,257 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 29
+[INFO] 2026-01-22 03:18:13,257 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 30
+[INFO] 2026-01-22 03:18:13,257 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 31
+[INFO] 2026-01-22 03:18:13,257 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 32
+[INFO] 2026-01-22 03:18:13,257 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 33
+[INFO] 2026-01-22 03:18:13,257 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 34
+[INFO] 2026-01-22 03:18:13,257 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 35
+[INFO] 2026-01-22 03:18:13,257 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 6
+[INFO] 2026-01-22 03:18:13,257 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 8
+[INFO] 2026-01-22 03:18:13,257 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 36
+[INFO] 2026-01-22 03:18:13,258 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 37
+[INFO] 2026-01-22 03:18:13,258 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 38
+[INFO] 2026-01-22 03:18:13,258 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 39
+[INFO] 2026-01-22 03:18:13,258 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 40
+[INFO] 2026-01-22 03:18:13,258 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 41
+[INFO] 2026-01-22 03:18:13,258 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 42
+[INFO] 2026-01-22 03:18:13,258 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 43
+[INFO] 2026-01-22 03:18:13,258 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 44
+[INFO] 2026-01-22 03:18:13,259 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 45
+[INFO] 2026-01-22 03:18:13,259 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 46
+[INFO] 2026-01-22 03:18:13,259 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 47
+[INFO] 2026-01-22 03:18:13,259 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 48
+[INFO] 2026-01-22 03:18:13,259 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 49
+[INFO] 2026-01-22 03:18:13,259 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 50
+[INFO] 2026-01-22 03:18:13,259 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 51
+[INFO] 2026-01-22 03:18:13,259 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 52
+[INFO] 2026-01-22 03:18:13,259 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 53
+[INFO] 2026-01-22 03:18:13,259 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 54
+[INFO] 2026-01-22 03:18:13,259 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 1
+[INFO] 2026-01-22 03:18:13,259 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 2
+[INFO] 2026-01-22 03:18:13,259 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 3
+[INFO] 2026-01-22 03:18:13,260 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 4
+[INFO] 2026-01-22 03:18:13,260 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 5
+[INFO] 2026-01-22 03:18:13,260 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 6
+[INFO] 2026-01-22 03:18:13,260 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 7
+[INFO] 2026-01-22 03:18:13,261 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 8
+[INFO] 2026-01-22 03:18:13,262 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 9
+[INFO] 2026-01-22 03:18:13,262 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 10
+[INFO] 2026-01-22 03:18:13,262 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 11
+[INFO] 2026-01-22 03:18:13,262 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 12
+[INFO] 2026-01-22 03:18:13,262 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 13
+[INFO] 2026-01-22 03:18:13,262 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 14
+[INFO] 2026-01-22 03:18:13,262 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 15
+[INFO] 2026-01-22 03:18:13,262 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 16
+[INFO] 2026-01-22 03:18:13,262 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 17
+[INFO] 2026-01-22 03:18:13,262 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 18
+[INFO] 2026-01-22 03:18:13,262 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 19
+[INFO] 2026-01-22 03:18:13,262 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 20
+[INFO] 2026-01-22 03:18:13,262 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 21
+[INFO] 2026-01-22 03:18:13,263 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 22
+[INFO] 2026-01-22 03:18:13,263 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 23
+[INFO] 2026-01-22 03:18:13,263 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 24
+[INFO] 2026-01-22 03:18:13,263 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 25
+[INFO] 2026-01-22 03:18:13,263 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 26
+[INFO] 2026-01-22 03:18:13,263 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 27
+[TRACE] 2026-01-22 03:18:13,263 Edge loaded :: 79->80
+[TRACE] 2026-01-22 03:18:13,266 Edge loaded :: 90->91
+[TRACE] 2026-01-22 03:18:13,268 Edge loaded :: 87->88
+[TRACE] 2026-01-22 03:18:13,270 Edge loaded :: 86->87
+[TRACE] 2026-01-22 03:18:13,272 Edge loaded :: 85->86
+[TRACE] 2026-01-22 03:18:13,274 Edge loaded :: 84->85
+[TRACE] 2026-01-22 03:18:13,277 Edge loaded :: 83->84
+[TRACE] 2026-01-22 03:18:13,278 Edge loaded :: 82->83
+[TRACE] 2026-01-22 03:18:13,280 Edge loaded :: 81->82
+[TRACE] 2026-01-22 03:18:13,284 Edge loaded :: 80->81
+[TRACE] 2026-01-22 03:18:13,287 Edge loaded :: 78->79
+[TRACE] 2026-01-22 03:18:13,289 Edge loaded :: 77->78
+[TRACE] 2026-01-22 03:18:13,291 Edge loaded :: 76->77
+[TRACE] 2026-01-22 03:18:13,293 Edge loaded :: 75->76
+[TRACE] 2026-01-22 03:18:13,295 Edge loaded :: 74->75
+[TRACE] 2026-01-22 03:18:13,298 Edge loaded :: 73->74
+[TRACE] 2026-01-22 03:18:13,300 Edge loaded :: 72->73
+[TRACE] 2026-01-22 03:18:13,302 Edge loaded :: 71->72
+[TRACE] 2026-01-22 03:18:13,304 Edge loaded :: 70->71
+[TRACE] 2026-01-22 03:18:13,306 Edge loaded :: 36->70
+[TRACE] 2026-01-22 03:18:13,308 Edge loaded :: 69->36
+[TRACE] 2026-01-22 03:18:13,310 Edge loaded :: 68->69
+[TRACE] 2026-01-22 03:18:13,312 Edge loaded :: 67->68
+[TRACE] 2026-01-22 03:18:13,313 Edge loaded :: 66->67
+[TRACE] 2026-01-22 03:18:13,315 Edge loaded :: 65->66
+[TRACE] 2026-01-22 03:18:13,318 Edge loaded :: 64->65
+[TRACE] 2026-01-22 03:18:13,320 Edge loaded :: 63->64
+[TRACE] 2026-01-22 03:18:13,321 Edge loaded :: 62->63
+[TRACE] 2026-01-22 03:18:13,323 Edge loaded :: 61->62
+[TRACE] 2026-01-22 03:18:13,325 Edge loaded :: 60->61
+[TRACE] 2026-01-22 03:18:13,327 Edge loaded :: 59->60
+[TRACE] 2026-01-22 03:18:13,328 Edge loaded :: 58->59
+[TRACE] 2026-01-22 03:18:13,330 Edge loaded :: 57->58
+[TRACE] 2026-01-22 03:18:13,332 Edge loaded :: 56->57
+[TRACE] 2026-01-22 03:18:13,334 Edge loaded :: 55->56
+[TRACE] 2026-01-22 03:18:13,335 Edge loaded :: 53->54
+[TRACE] 2026-01-22 03:18:13,339 Edge loaded :: 52->53
+[TRACE] 2026-01-22 03:18:13,340 Edge loaded :: 51->52
+[TRACE] 2026-01-22 03:18:13,342 Edge loaded :: 50->51
+[TRACE] 2026-01-22 03:18:13,344 Edge loaded :: 49->50
+[TRACE] 2026-01-22 03:18:13,346 Edge loaded :: 48->49
+[TRACE] 2026-01-22 03:18:13,347 Edge loaded :: 47->48
+[TRACE] 2026-01-22 03:18:13,349 Edge loaded :: 46->47
+[TRACE] 2026-01-22 03:18:13,352 Edge loaded :: 45->46
+[TRACE] 2026-01-22 03:18:13,354 Edge loaded :: 44->45
+[TRACE] 2026-01-22 03:18:13,355 Edge loaded :: 43->44
+[TRACE] 2026-01-22 03:18:13,358 Edge loaded :: 42->43
+[TRACE] 2026-01-22 03:18:13,360 Edge loaded :: 41->42
+[TRACE] 2026-01-22 03:18:13,361 Edge loaded :: 40->41
+[TRACE] 2026-01-22 03:18:13,363 Edge loaded :: 39->40
+[TRACE] 2026-01-22 03:18:13,365 Edge loaded :: 38->39
+[TRACE] 2026-01-22 03:18:13,367 Edge loaded :: 37->38
+[TRACE] 2026-01-22 03:18:13,368 Edge loaded :: 36->37
+[TRACE] 2026-01-22 03:18:13,370 Edge loaded :: 35->36
+[TRACE] 2026-01-22 03:18:13,372 Edge loaded :: 30->31
+[TRACE] 2026-01-22 03:18:13,385 Edge loaded :: 34->6
+[TRACE] 2026-01-22 03:18:13,387 Edge loaded :: 33->34
+[TRACE] 2026-01-22 03:18:13,389 Edge loaded :: 32->33
+[TRACE] 2026-01-22 03:18:13,390 Edge loaded :: 31->32
+[TRACE] 2026-01-22 03:18:13,395 Edge loaded :: 29->30
+[TRACE] 2026-01-22 03:18:13,397 Edge loaded :: 28->29
+[TRACE] 2026-01-22 03:18:13,401 Edge loaded :: 27->28
+[TRACE] 2026-01-22 03:18:13,403 Edge loaded :: 26->27
+[TRACE] 2026-01-22 03:18:13,405 Edge loaded :: 25->26
+[TRACE] 2026-01-22 03:18:13,406 Edge loaded :: 23->24
+[TRACE] 2026-01-22 03:18:13,408 Edge loaded :: 22->23
+[TRACE] 2026-01-22 03:18:13,410 Edge loaded :: 21->22
+[TRACE] 2026-01-22 03:18:13,412 Edge loaded :: 20->21
+[TRACE] 2026-01-22 03:18:13,414 Edge loaded :: 19->20
+[TRACE] 2026-01-22 03:18:13,416 Edge loaded :: 18->19
+[TRACE] 2026-01-22 03:18:13,418 Edge loaded :: 17->18
+[TRACE] 2026-01-22 03:18:13,420 Edge loaded :: 16->17
+[TRACE] 2026-01-22 03:18:13,422 Edge loaded :: 15->16
+[TRACE] 2026-01-22 03:18:13,424 Edge loaded :: 14->15
+[TRACE] 2026-01-22 03:18:13,425 Edge loaded :: 13->14
+[TRACE] 2026-01-22 03:18:13,427 Edge loaded :: 12->13
+[TRACE] 2026-01-22 03:18:13,429 Edge loaded :: 11->12
+[TRACE] 2026-01-22 03:18:13,431 Edge loaded :: 10->11
+[TRACE] 2026-01-22 03:18:13,432 Edge loaded :: 9->10
+[TRACE] 2026-01-22 03:18:13,435 Edge loaded :: 8->35
+[TRACE] 2026-01-22 03:18:13,437 Edge loaded :: 8->9
+[TRACE] 2026-01-22 03:18:13,439 Edge loaded :: 7->8
+[TRACE] 2026-01-22 03:18:13,441 Edge loaded :: 6->7
+[TRACE] 2026-01-22 03:18:13,443 Edge loaded :: 5->6
+[TRACE] 2026-01-22 03:18:13,445 Edge loaded :: 4->5
+[TRACE] 2026-01-22 03:18:13,446 Edge loaded :: 2->3
+[TRACE] 2026-01-22 03:18:13,448 Edge loaded :: 1->2
+[TRACE] 2026-01-22 03:18:13,450 Location loaded :: 108
+[TRACE] 2026-01-22 03:18:13,450 Location loaded :: 107
+[TRACE] 2026-01-22 03:18:13,450 Location loaded :: 106
+[TRACE] 2026-01-22 03:18:13,450 Location loaded :: 105
+[TRACE] 2026-01-22 03:18:13,451 Location loaded :: 104
+[TRACE] 2026-01-22 03:18:13,451 Location loaded :: 103
+[TRACE] 2026-01-22 03:18:13,451 Location loaded :: 102
+[TRACE] 2026-01-22 03:18:13,451 Location loaded :: 101
+[TRACE] 2026-01-22 03:18:13,451 Location loaded :: 100
+[TRACE] 2026-01-22 03:18:13,451 Location loaded :: 99
+[TRACE] 2026-01-22 03:18:13,451 Location loaded :: 98
+[TRACE] 2026-01-22 03:18:13,451 Location loaded :: 97
+[TRACE] 2026-01-22 03:18:13,451 Location loaded :: 96
+[TRACE] 2026-01-22 03:18:13,451 Location loaded :: 95
+[TRACE] 2026-01-22 03:18:13,451 Location loaded :: 94
+[TRACE] 2026-01-22 03:18:13,451 Location loaded :: 93
+[TRACE] 2026-01-22 03:18:13,451 Location loaded :: 92
+[TRACE] 2026-01-22 03:18:13,451 Location loaded :: 91
+[TRACE] 2026-01-22 03:18:13,451 Location loaded :: 90
+[TRACE] 2026-01-22 03:18:13,451 Location loaded :: 88
+[TRACE] 2026-01-22 03:18:13,451 Location loaded :: 87
+[TRACE] 2026-01-22 03:18:13,451 Location loaded :: 86
+[TRACE] 2026-01-22 03:18:13,451 Location loaded :: 85
+[TRACE] 2026-01-22 03:18:13,451 Location loaded :: 84
+[TRACE] 2026-01-22 03:18:13,451 Location loaded :: 83
+[TRACE] 2026-01-22 03:18:13,451 Location loaded :: 82
+[TRACE] 2026-01-22 03:18:13,451 Location loaded :: 81
+[TRACE] 2026-01-22 03:18:13,451 Location loaded :: 80
+[TRACE] 2026-01-22 03:18:13,451 Location loaded :: 79
+[TRACE] 2026-01-22 03:18:13,451 Location loaded :: 78
+[TRACE] 2026-01-22 03:18:13,452 Location loaded :: 77
+[TRACE] 2026-01-22 03:18:13,452 Location loaded :: 76
+[TRACE] 2026-01-22 03:18:13,452 Location loaded :: 75
+[TRACE] 2026-01-22 03:18:13,452 Location loaded :: 74
+[TRACE] 2026-01-22 03:18:13,452 Location loaded :: 73
+[TRACE] 2026-01-22 03:18:13,452 Location loaded :: 72
+[TRACE] 2026-01-22 03:18:13,452 Location loaded :: 71
+[TRACE] 2026-01-22 03:18:13,452 Location loaded :: 70
+[TRACE] 2026-01-22 03:18:13,452 Location loaded :: 69
+[TRACE] 2026-01-22 03:18:13,452 Location loaded :: 68
+[TRACE] 2026-01-22 03:18:13,452 Location loaded :: 67
+[TRACE] 2026-01-22 03:18:13,452 Location loaded :: 66
+[TRACE] 2026-01-22 03:18:13,452 Location loaded :: 65
+[TRACE] 2026-01-22 03:18:13,452 Location loaded :: 64
+[TRACE] 2026-01-22 03:18:13,452 Location loaded :: 63
+[TRACE] 2026-01-22 03:18:13,452 Location loaded :: 62
+[TRACE] 2026-01-22 03:18:13,452 Location loaded :: 61
+[TRACE] 2026-01-22 03:18:13,452 Location loaded :: 60
+[TRACE] 2026-01-22 03:18:13,452 Location loaded :: 59
+[TRACE] 2026-01-22 03:18:13,452 Location loaded :: 58
+[TRACE] 2026-01-22 03:18:13,452 Location loaded :: 57
+[TRACE] 2026-01-22 03:18:13,452 Location loaded :: 56
+[TRACE] 2026-01-22 03:18:13,452 Location loaded :: 55
+[TRACE] 2026-01-22 03:18:13,452 Location loaded :: 54
+[TRACE] 2026-01-22 03:18:13,452 Location loaded :: 53
+[TRACE] 2026-01-22 03:18:13,452 Location loaded :: 52
+[TRACE] 2026-01-22 03:18:13,452 Location loaded :: 51
+[TRACE] 2026-01-22 03:18:13,453 Location loaded :: 50
+[TRACE] 2026-01-22 03:18:13,453 Location loaded :: 49
+[TRACE] 2026-01-22 03:18:13,453 Location loaded :: 48
+[TRACE] 2026-01-22 03:18:13,453 Location loaded :: 47
+[TRACE] 2026-01-22 03:18:13,453 Location loaded :: 46
+[TRACE] 2026-01-22 03:18:13,453 Location loaded :: 45
+[TRACE] 2026-01-22 03:18:13,453 Location loaded :: 44
+[TRACE] 2026-01-22 03:18:13,453 Location loaded :: 43
+[TRACE] 2026-01-22 03:18:13,453 Location loaded :: 42
+[TRACE] 2026-01-22 03:18:13,453 Location loaded :: 41
+[TRACE] 2026-01-22 03:18:13,453 Location loaded :: 40
+[TRACE] 2026-01-22 03:18:13,453 Location loaded :: 39
+[TRACE] 2026-01-22 03:18:13,453 Location loaded :: 38
+[TRACE] 2026-01-22 03:18:13,453 Location loaded :: 37
+[TRACE] 2026-01-22 03:18:13,453 Location loaded :: 36
+[TRACE] 2026-01-22 03:18:13,453 Location loaded :: 35
+[TRACE] 2026-01-22 03:18:13,453 Location loaded :: 34
+[TRACE] 2026-01-22 03:18:13,453 Location loaded :: 33
+[TRACE] 2026-01-22 03:18:13,453 Location loaded :: 32
+[TRACE] 2026-01-22 03:18:13,453 Location loaded :: 31
+[TRACE] 2026-01-22 03:18:13,453 Location loaded :: 30
+[TRACE] 2026-01-22 03:18:13,453 Location loaded :: 29
+[TRACE] 2026-01-22 03:18:13,453 Location loaded :: 28
+[TRACE] 2026-01-22 03:18:13,453 Location loaded :: 27
+[TRACE] 2026-01-22 03:18:13,454 Location loaded :: 26
+[TRACE] 2026-01-22 03:18:13,454 Location loaded :: 25
+[TRACE] 2026-01-22 03:18:13,454 Location loaded :: 24
+[TRACE] 2026-01-22 03:18:13,454 Location loaded :: 23
+[TRACE] 2026-01-22 03:18:13,454 Location loaded :: 22
+[TRACE] 2026-01-22 03:18:13,454 Location loaded :: 21
+[TRACE] 2026-01-22 03:18:13,454 Location loaded :: 20
+[TRACE] 2026-01-22 03:18:13,454 Location loaded :: 19
+[TRACE] 2026-01-22 03:18:13,454 Location loaded :: 18
+[TRACE] 2026-01-22 03:18:13,454 Location loaded :: 17
+[TRACE] 2026-01-22 03:18:13,454 Location loaded :: 16
+[TRACE] 2026-01-22 03:18:13,454 Location loaded :: 15
+[TRACE] 2026-01-22 03:18:13,454 Location loaded :: 14
+[TRACE] 2026-01-22 03:18:13,454 Location loaded :: 13
+[TRACE] 2026-01-22 03:18:13,455 Location loaded :: 12
+[TRACE] 2026-01-22 03:18:13,455 Location loaded :: 11
+[TRACE] 2026-01-22 03:18:13,455 Location loaded :: 10
+[TRACE] 2026-01-22 03:18:13,455 Location loaded :: 9
+[TRACE] 2026-01-22 03:18:13,455 Location loaded :: 8
+[TRACE] 2026-01-22 03:18:13,455 Location loaded :: 7
+[TRACE] 2026-01-22 03:18:13,455 Location loaded :: 6
+[TRACE] 2026-01-22 03:18:13,455 Location loaded :: 5
+[TRACE] 2026-01-22 03:18:13,455 Location loaded :: 4
+[TRACE] 2026-01-22 03:18:13,455 Location loaded :: 3
+[TRACE] 2026-01-22 03:18:13,455 Location loaded :: 2
+[TRACE] 2026-01-22 03:18:13,455 Location loaded :: 1
+[TRACE] 2026-01-22 03:19:05,947 [TRANSFER][DEFINE] at 44: mrt/mrt-line-2 <-> mrt/mrt-line-5 time=5 :: 44
+[TRACE] 2026-01-22 03:19:05,947 [TRANSFER][DEFINE] at 8: mrt/mrt-line-1 <-> mrt/mrt-line-2 time=5 :: 8
+[INFO] 2026-01-22 03:19:05,947 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 55
+[INFO] 2026-01-22 03:19:05,947 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 56
+[INFO] 2026-01-22 03:19:05,947 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 57
+[INFO] 2026-01-22 03:19:05,947 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 58
+[INFO] 2026-01-22 03:19:05,948 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 59
+[INFO] 2026-01-22 03:19:05,948 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 60
+[INFO] 2026-01-22 03:19:05,948 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 61
+[INFO] 2026-01-22 03:19:05,948 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 62
+[INFO] 2026-01-22 03:19:05,948 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 63
+[INFO] 2026-01-22 03:19:05,948 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 64
+[INFO] 2026-01-22 03:19:05,948 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 65
+[INFO] 2026-01-22 03:19:05,948 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 66
+[INFO] 2026-01-22 03:19:05,948 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 67
+[INFO] 2026-01-22 03:19:05,948 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 68
+[INFO] 2026-01-22 03:19:05,948 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 69
+[INFO] 2026-01-22 03:19:05,948 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 36
+[INFO] 2026-01-22 03:19:05,948 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 70
+[INFO] 2026-01-22 03:19:05,948 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 71
+[INFO] 2026-01-22 03:19:05,948 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 72
+[INFO] 2026-01-22 03:19:05,948 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 73
+[INFO] 2026-01-22 03:19:05,949 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 74
+[INFO] 2026-01-22 03:19:05,949 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 75
+[INFO] 2026-01-22 03:19:05,949 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 76
+[INFO] 2026-01-22 03:19:05,949 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 77
+[INFO] 2026-01-22 03:19:05,949 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 78
+[INFO] 2026-01-22 03:19:05,949 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 79
+[INFO] 2026-01-22 03:19:05,949 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 44
+[INFO] 2026-01-22 03:19:05,949 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 80
+[INFO] 2026-01-22 03:19:05,949 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 81
+[INFO] 2026-01-22 03:19:05,949 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 82
+[INFO] 2026-01-22 03:19:05,949 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 83
+[INFO] 2026-01-22 03:19:05,949 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 84
+[INFO] 2026-01-22 03:19:05,949 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 85
+[INFO] 2026-01-22 03:19:05,949 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 86
+[INFO] 2026-01-22 03:19:05,949 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 87
+[INFO] 2026-01-22 03:19:05,949 [STATION][SERVICE]  Location id under mrt service mrt-line-5 :: 88
+[INFO] 2026-01-22 03:19:05,950 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 90
+[INFO] 2026-01-22 03:19:05,950 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 91
+[INFO] 2026-01-22 03:19:05,950 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 92
+[INFO] 2026-01-22 03:19:05,950 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 93
+[INFO] 2026-01-22 03:19:05,950 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 94
+[INFO] 2026-01-22 03:19:05,950 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 95
+[INFO] 2026-01-22 03:19:05,950 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 96
+[INFO] 2026-01-22 03:19:05,950 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 97
+[INFO] 2026-01-22 03:19:05,950 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 98
+[INFO] 2026-01-22 03:19:05,950 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 99
+[INFO] 2026-01-22 03:19:05,950 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 100
+[INFO] 2026-01-22 03:19:05,950 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 101
+[INFO] 2026-01-22 03:19:05,950 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 102
+[INFO] 2026-01-22 03:19:05,950 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 103
+[INFO] 2026-01-22 03:19:05,950 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 104
+[INFO] 2026-01-22 03:19:05,950 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 105
+[INFO] 2026-01-22 03:19:05,950 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 106
+[INFO] 2026-01-22 03:19:05,951 [STATION][SERVICE]  Location id under mrt service mrt-line-3 :: 107
+[INFO] 2026-01-22 03:19:05,951 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 28
+[INFO] 2026-01-22 03:19:05,951 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 29
+[INFO] 2026-01-22 03:19:05,951 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 30
+[INFO] 2026-01-22 03:19:05,951 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 31
+[INFO] 2026-01-22 03:19:05,951 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 32
+[INFO] 2026-01-22 03:19:05,951 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 33
+[INFO] 2026-01-22 03:19:05,951 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 34
+[INFO] 2026-01-22 03:19:05,952 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 35
+[INFO] 2026-01-22 03:19:05,952 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 6
+[INFO] 2026-01-22 03:19:05,952 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 8
+[INFO] 2026-01-22 03:19:05,952 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 36
+[INFO] 2026-01-22 03:19:05,952 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 37
+[INFO] 2026-01-22 03:19:05,952 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 38
+[INFO] 2026-01-22 03:19:05,952 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 39
+[INFO] 2026-01-22 03:19:05,952 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 40
+[INFO] 2026-01-22 03:19:05,953 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 41
+[INFO] 2026-01-22 03:19:05,953 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 42
+[INFO] 2026-01-22 03:19:05,953 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 43
+[INFO] 2026-01-22 03:19:05,953 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 44
+[INFO] 2026-01-22 03:19:05,954 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 45
+[INFO] 2026-01-22 03:19:05,954 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 46
+[INFO] 2026-01-22 03:19:05,954 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 47
+[INFO] 2026-01-22 03:19:05,954 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 48
+[INFO] 2026-01-22 03:19:05,954 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 49
+[INFO] 2026-01-22 03:19:05,954 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 50
+[INFO] 2026-01-22 03:19:05,954 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 51
+[INFO] 2026-01-22 03:19:05,955 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 52
+[INFO] 2026-01-22 03:19:05,955 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 53
+[INFO] 2026-01-22 03:19:05,955 [STATION][SERVICE]  Location id under mrt service mrt-line-2 :: 54
+[INFO] 2026-01-22 03:19:05,955 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 1
+[INFO] 2026-01-22 03:19:05,955 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 2
+[INFO] 2026-01-22 03:19:05,955 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 3
+[INFO] 2026-01-22 03:19:05,955 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 4
+[INFO] 2026-01-22 03:19:05,955 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 5
+[INFO] 2026-01-22 03:19:05,955 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 6
+[INFO] 2026-01-22 03:19:05,955 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 7
+[INFO] 2026-01-22 03:19:05,955 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 8
+[INFO] 2026-01-22 03:19:05,956 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 9
+[INFO] 2026-01-22 03:19:05,956 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 10
+[INFO] 2026-01-22 03:19:05,956 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 11
+[INFO] 2026-01-22 03:19:05,956 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 12
+[INFO] 2026-01-22 03:19:05,956 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 13
+[INFO] 2026-01-22 03:19:05,956 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 14
+[INFO] 2026-01-22 03:19:05,956 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 15
+[INFO] 2026-01-22 03:19:05,957 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 16
+[INFO] 2026-01-22 03:19:05,957 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 17
+[INFO] 2026-01-22 03:19:05,957 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 18
+[INFO] 2026-01-22 03:19:05,957 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 19
+[INFO] 2026-01-22 03:19:05,957 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 20
+[INFO] 2026-01-22 03:19:05,957 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 21
+[INFO] 2026-01-22 03:19:05,957 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 22
+[INFO] 2026-01-22 03:19:05,957 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 23
+[INFO] 2026-01-22 03:19:05,957 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 24
+[INFO] 2026-01-22 03:19:05,957 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 25
+[INFO] 2026-01-22 03:19:05,957 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 26
+[INFO] 2026-01-22 03:19:05,957 [STATION][SERVICE]  Location id under mrt service mrt-line-1 :: 27
+[TRACE] 2026-01-22 03:19:05,957 Edge loaded :: 79->80
+[TRACE] 2026-01-22 03:19:05,963 Edge loaded :: 90->91
+[TRACE] 2026-01-22 03:19:05,964 Edge loaded :: 87->88
+[TRACE] 2026-01-22 03:19:05,968 Edge loaded :: 86->87
+[TRACE] 2026-01-22 03:19:05,969 Edge loaded :: 85->86
+[TRACE] 2026-01-22 03:19:05,971 Edge loaded :: 84->85
+[TRACE] 2026-01-22 03:19:05,973 Edge loaded :: 83->84
+[TRACE] 2026-01-22 03:19:05,975 Edge loaded :: 82->83
+[TRACE] 2026-01-22 03:19:05,977 Edge loaded :: 81->82
+[TRACE] 2026-01-22 03:19:05,979 Edge loaded :: 80->81
+[TRACE] 2026-01-22 03:19:05,983 Edge loaded :: 78->79
+[TRACE] 2026-01-22 03:19:05,984 Edge loaded :: 77->78
+[TRACE] 2026-01-22 03:19:05,987 Edge loaded :: 76->77
+[TRACE] 2026-01-22 03:19:05,989 Edge loaded :: 75->76
+[TRACE] 2026-01-22 03:19:05,991 Edge loaded :: 74->75
+[TRACE] 2026-01-22 03:19:05,995 Edge loaded :: 73->74
+[TRACE] 2026-01-22 03:19:05,997 Edge loaded :: 72->73
+[TRACE] 2026-01-22 03:19:05,999 Edge loaded :: 71->72
+[TRACE] 2026-01-22 03:19:06,001 Edge loaded :: 70->71
+[TRACE] 2026-01-22 03:19:06,003 Edge loaded :: 36->70
+[TRACE] 2026-01-22 03:19:06,005 Edge loaded :: 69->36
+[TRACE] 2026-01-22 03:19:06,006 Edge loaded :: 68->69
+[TRACE] 2026-01-22 03:19:06,009 Edge loaded :: 67->68
+[TRACE] 2026-01-22 03:19:06,012 Edge loaded :: 66->67
+[TRACE] 2026-01-22 03:19:06,015 Edge loaded :: 65->66
+[TRACE] 2026-01-22 03:19:06,018 Edge loaded :: 64->65
+[TRACE] 2026-01-22 03:19:06,020 Edge loaded :: 63->64
+[TRACE] 2026-01-22 03:19:06,022 Edge loaded :: 62->63
+[TRACE] 2026-01-22 03:19:06,025 Edge loaded :: 61->62
+[TRACE] 2026-01-22 03:19:06,027 Edge loaded :: 60->61
+[TRACE] 2026-01-22 03:19:06,029 Edge loaded :: 59->60
+[TRACE] 2026-01-22 03:19:06,031 Edge loaded :: 58->59
+[TRACE] 2026-01-22 03:19:06,033 Edge loaded :: 57->58
+[TRACE] 2026-01-22 03:19:06,035 Edge loaded :: 56->57
+[TRACE] 2026-01-22 03:19:06,037 Edge loaded :: 55->56
+[TRACE] 2026-01-22 03:19:06,039 Edge loaded :: 53->54
+[TRACE] 2026-01-22 03:19:06,040 Edge loaded :: 52->53
+[TRACE] 2026-01-22 03:19:06,043 Edge loaded :: 51->52
+[TRACE] 2026-01-22 03:19:06,044 Edge loaded :: 50->51
+[TRACE] 2026-01-22 03:19:06,046 Edge loaded :: 49->50
+[TRACE] 2026-01-22 03:19:06,047 Edge loaded :: 48->49
+[TRACE] 2026-01-22 03:19:06,049 Edge loaded :: 47->48
+[TRACE] 2026-01-22 03:19:06,051 Edge loaded :: 46->47
+[TRACE] 2026-01-22 03:19:06,053 Edge loaded :: 45->46
+[TRACE] 2026-01-22 03:19:06,054 Edge loaded :: 44->45
+[TRACE] 2026-01-22 03:19:06,059 Edge loaded :: 43->44
+[TRACE] 2026-01-22 03:19:06,060 Edge loaded :: 42->43
+[TRACE] 2026-01-22 03:19:06,062 Edge loaded :: 41->42
+[TRACE] 2026-01-22 03:19:06,064 Edge loaded :: 40->41
+[TRACE] 2026-01-22 03:19:06,066 Edge loaded :: 39->40
+[TRACE] 2026-01-22 03:19:06,067 Edge loaded :: 38->39
+[TRACE] 2026-01-22 03:19:06,069 Edge loaded :: 37->38
+[TRACE] 2026-01-22 03:19:06,072 Edge loaded :: 36->37
+[TRACE] 2026-01-22 03:19:06,074 Edge loaded :: 35->36
+[TRACE] 2026-01-22 03:19:06,075 Edge loaded :: 30->31
+[TRACE] 2026-01-22 03:19:06,089 Edge loaded :: 34->6
+[TRACE] 2026-01-22 03:19:06,092 Edge loaded :: 33->34
+[TRACE] 2026-01-22 03:19:06,094 Edge loaded :: 32->33
+[TRACE] 2026-01-22 03:19:06,096 Edge loaded :: 31->32
+[TRACE] 2026-01-22 03:19:06,100 Edge loaded :: 29->30
+[TRACE] 2026-01-22 03:19:06,102 Edge loaded :: 28->29
+[TRACE] 2026-01-22 03:19:06,103 Edge loaded :: 27->28
+[TRACE] 2026-01-22 03:19:06,106 Edge loaded :: 26->27
+[TRACE] 2026-01-22 03:19:06,107 Edge loaded :: 25->26
+[TRACE] 2026-01-22 03:19:06,109 Edge loaded :: 23->24
+[TRACE] 2026-01-22 03:19:06,110 Edge loaded :: 22->23
+[TRACE] 2026-01-22 03:19:06,112 Edge loaded :: 21->22
+[TRACE] 2026-01-22 03:19:06,114 Edge loaded :: 20->21
+[TRACE] 2026-01-22 03:19:06,115 Edge loaded :: 19->20
+[TRACE] 2026-01-22 03:19:06,116 Edge loaded :: 18->19
+[TRACE] 2026-01-22 03:19:06,119 Edge loaded :: 17->18
+[TRACE] 2026-01-22 03:19:06,121 Edge loaded :: 16->17
+[TRACE] 2026-01-22 03:19:06,123 Edge loaded :: 15->16
+[TRACE] 2026-01-22 03:19:06,124 Edge loaded :: 14->15
+[TRACE] 2026-01-22 03:19:06,126 Edge loaded :: 13->14
+[TRACE] 2026-01-22 03:19:06,128 Edge loaded :: 12->13
+[TRACE] 2026-01-22 03:19:06,129 Edge loaded :: 11->12
+[TRACE] 2026-01-22 03:19:06,131 Edge loaded :: 10->11
+[TRACE] 2026-01-22 03:19:06,133 Edge loaded :: 9->10
+[TRACE] 2026-01-22 03:19:06,135 Edge loaded :: 8->35
+[TRACE] 2026-01-22 03:19:06,137 Edge loaded :: 8->9
+[TRACE] 2026-01-22 03:19:06,139 Edge loaded :: 7->8
+[TRACE] 2026-01-22 03:19:06,141 Edge loaded :: 6->7
+[TRACE] 2026-01-22 03:19:06,143 Edge loaded :: 5->6
+[TRACE] 2026-01-22 03:19:06,145 Edge loaded :: 4->5
+[TRACE] 2026-01-22 03:19:06,147 Edge loaded :: 2->3
+[TRACE] 2026-01-22 03:19:06,148 Edge loaded :: 1->2
+[TRACE] 2026-01-22 03:19:06,150 Location loaded :: 108
+[TRACE] 2026-01-22 03:19:06,150 Location loaded :: 107
+[TRACE] 2026-01-22 03:19:06,150 Location loaded :: 106
+[TRACE] 2026-01-22 03:19:06,150 Location loaded :: 105
+[TRACE] 2026-01-22 03:19:06,150 Location loaded :: 104
+[TRACE] 2026-01-22 03:19:06,150 Location loaded :: 103
+[TRACE] 2026-01-22 03:19:06,151 Location loaded :: 102
+[TRACE] 2026-01-22 03:19:06,151 Location loaded :: 101
+[TRACE] 2026-01-22 03:19:06,151 Location loaded :: 100
+[TRACE] 2026-01-22 03:19:06,151 Location loaded :: 99
+[TRACE] 2026-01-22 03:19:06,151 Location loaded :: 98
+[TRACE] 2026-01-22 03:19:06,151 Location loaded :: 97
+[TRACE] 2026-01-22 03:19:06,151 Location loaded :: 96
+[TRACE] 2026-01-22 03:19:06,151 Location loaded :: 95
+[TRACE] 2026-01-22 03:19:06,151 Location loaded :: 94
+[TRACE] 2026-01-22 03:19:06,151 Location loaded :: 93
+[TRACE] 2026-01-22 03:19:06,151 Location loaded :: 92
+[TRACE] 2026-01-22 03:19:06,151 Location loaded :: 91
+[TRACE] 2026-01-22 03:19:06,151 Location loaded :: 90
+[TRACE] 2026-01-22 03:19:06,151 Location loaded :: 88
+[TRACE] 2026-01-22 03:19:06,151 Location loaded :: 87
+[TRACE] 2026-01-22 03:19:06,151 Location loaded :: 86
+[TRACE] 2026-01-22 03:19:06,151 Location loaded :: 85
+[TRACE] 2026-01-22 03:19:06,151 Location loaded :: 84
+[TRACE] 2026-01-22 03:19:06,151 Location loaded :: 83
+[TRACE] 2026-01-22 03:19:06,151 Location loaded :: 82
+[TRACE] 2026-01-22 03:19:06,151 Location loaded :: 81
+[TRACE] 2026-01-22 03:19:06,151 Location loaded :: 80
+[TRACE] 2026-01-22 03:19:06,151 Location loaded :: 79
+[TRACE] 2026-01-22 03:19:06,151 Location loaded :: 78
+[TRACE] 2026-01-22 03:19:06,151 Location loaded :: 77
+[TRACE] 2026-01-22 03:19:06,151 Location loaded :: 76
+[TRACE] 2026-01-22 03:19:06,151 Location loaded :: 75
+[TRACE] 2026-01-22 03:19:06,152 Location loaded :: 74
+[TRACE] 2026-01-22 03:19:06,152 Location loaded :: 73
+[TRACE] 2026-01-22 03:19:06,152 Location loaded :: 72
+[TRACE] 2026-01-22 03:19:06,152 Location loaded :: 71
+[TRACE] 2026-01-22 03:19:06,152 Location loaded :: 70
+[TRACE] 2026-01-22 03:19:06,152 Location loaded :: 69
+[TRACE] 2026-01-22 03:19:06,152 Location loaded :: 68
+[TRACE] 2026-01-22 03:19:06,152 Location loaded :: 67
+[TRACE] 2026-01-22 03:19:06,152 Location loaded :: 66
+[TRACE] 2026-01-22 03:19:06,152 Location loaded :: 65
+[TRACE] 2026-01-22 03:19:06,152 Location loaded :: 64
+[TRACE] 2026-01-22 03:19:06,152 Location loaded :: 63
+[TRACE] 2026-01-22 03:19:06,152 Location loaded :: 62
+[TRACE] 2026-01-22 03:19:06,152 Location loaded :: 61
+[TRACE] 2026-01-22 03:19:06,152 Location loaded :: 60
+[TRACE] 2026-01-22 03:19:06,152 Location loaded :: 59
+[TRACE] 2026-01-22 03:19:06,152 Location loaded :: 58
+[TRACE] 2026-01-22 03:19:06,152 Location loaded :: 57
+[TRACE] 2026-01-22 03:19:06,152 Location loaded :: 56
+[TRACE] 2026-01-22 03:19:06,152 Location loaded :: 55
+[TRACE] 2026-01-22 03:19:06,152 Location loaded :: 54
+[TRACE] 2026-01-22 03:19:06,152 Location loaded :: 53
+[TRACE] 2026-01-22 03:19:06,153 Location loaded :: 52
+[TRACE] 2026-01-22 03:19:06,153 Location loaded :: 51
+[TRACE] 2026-01-22 03:19:06,153 Location loaded :: 50
+[TRACE] 2026-01-22 03:19:06,153 Location loaded :: 49
+[TRACE] 2026-01-22 03:19:06,153 Location loaded :: 48
+[TRACE] 2026-01-22 03:19:06,153 Location loaded :: 47
+[TRACE] 2026-01-22 03:19:06,153 Location loaded :: 46
+[TRACE] 2026-01-22 03:19:06,153 Location loaded :: 45
+[TRACE] 2026-01-22 03:19:06,153 Location loaded :: 44
+[TRACE] 2026-01-22 03:19:06,153 Location loaded :: 43
+[TRACE] 2026-01-22 03:19:06,153 Location loaded :: 42
+[TRACE] 2026-01-22 03:19:06,153 Location loaded :: 41
+[TRACE] 2026-01-22 03:19:06,153 Location loaded :: 40
+[TRACE] 2026-01-22 03:19:06,154 Location loaded :: 39
+[TRACE] 2026-01-22 03:19:06,154 Location loaded :: 38
+[TRACE] 2026-01-22 03:19:06,154 Location loaded :: 37
+[TRACE] 2026-01-22 03:19:06,154 Location loaded :: 36
+[TRACE] 2026-01-22 03:19:06,154 Location loaded :: 35
+[TRACE] 2026-01-22 03:19:06,154 Location loaded :: 34
+[TRACE] 2026-01-22 03:19:06,154 Location loaded :: 33
+[TRACE] 2026-01-22 03:19:06,154 Location loaded :: 32
+[TRACE] 2026-01-22 03:19:06,154 Location loaded :: 31
+[TRACE] 2026-01-22 03:19:06,154 Location loaded :: 30
+[TRACE] 2026-01-22 03:19:06,154 Location loaded :: 29
+[TRACE] 2026-01-22 03:19:06,154 Location loaded :: 28
+[TRACE] 2026-01-22 03:19:06,154 Location loaded :: 27
+[TRACE] 2026-01-22 03:19:06,154 Location loaded :: 26
+[TRACE] 2026-01-22 03:19:06,154 Location loaded :: 25
+[TRACE] 2026-01-22 03:19:06,154 Location loaded :: 24
+[TRACE] 2026-01-22 03:19:06,154 Location loaded :: 23
+[TRACE] 2026-01-22 03:19:06,154 Location loaded :: 22
+[TRACE] 2026-01-22 03:19:06,154 Location loaded :: 21
+[TRACE] 2026-01-22 03:19:06,154 Location loaded :: 20
+[TRACE] 2026-01-22 03:19:06,154 Location loaded :: 19
+[TRACE] 2026-01-22 03:19:06,154 Location loaded :: 18
+[TRACE] 2026-01-22 03:19:06,154 Location loaded :: 17
+[TRACE] 2026-01-22 03:19:06,154 Location loaded :: 16
+[TRACE] 2026-01-22 03:19:06,155 Location loaded :: 15
+[TRACE] 2026-01-22 03:19:06,155 Location loaded :: 14
+[TRACE] 2026-01-22 03:19:06,155 Location loaded :: 13
+[TRACE] 2026-01-22 03:19:06,155 Location loaded :: 12
+[TRACE] 2026-01-22 03:19:06,155 Location loaded :: 11
+[TRACE] 2026-01-22 03:19:06,155 Location loaded :: 10
+[TRACE] 2026-01-22 03:19:06,155 Location loaded :: 9
+[TRACE] 2026-01-22 03:19:06,155 Location loaded :: 8
+[TRACE] 2026-01-22 03:19:06,155 Location loaded :: 7
+[TRACE] 2026-01-22 03:19:06,155 Location loaded :: 6
+[TRACE] 2026-01-22 03:19:06,155 Location loaded :: 5
+[TRACE] 2026-01-22 03:19:06,155 Location loaded :: 4
+[TRACE] 2026-01-22 03:19:06,155 Location loaded :: 3
+[TRACE] 2026-01-22 03:19:06,155 Location loaded :: 2
+[TRACE] 2026-01-22 03:19:06,155 Location loaded :: 1
