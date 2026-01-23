@@ -50,12 +50,12 @@
     (slot peak-hour); yes / no
 )
 
-(deftemplate user
+(deftemplate user-context
     (slot id)
     (slot start-location)
     (slot end-location)
     (slot preference); fastest / cheapest 
-    (slot budget-limit); optional
+    (slot budget); optional
     (multislot avoid); traffic / transfer / night
     (slot flexibility); low / medium / high
 )
