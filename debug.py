@@ -2,6 +2,11 @@ import loader.loader as loader
 from log.logger import setup_logging
 from log.logger import dump_logs
 
+from graph.builder import build_graph
+from graph.search import dijkstra
+from graph.path import Path
+from graph.graph import reachable
+
 
 logger = setup_logging()
 
@@ -25,7 +30,11 @@ dump_logs(env, min_level="DEBUG")
 loader.load_edge
 print("=== RUN CLIPS ===")
 for fact in env.facts():
-    print(fact)
+    if fact.template.name == "route-metric":
+        print("metric exists")
+        print(fact)
+# print(fact)
+
 
 # routes = [
 #     r for r in env.facts()
@@ -34,6 +43,31 @@ for fact in env.facts():
 #
 # for r in routes:
 #     print(r)
+
+graph = build_graph(env)
+
+reach = reachable(graph, 1)
+print("Reachable from start:", reach)
+print("End in reachable?", 6 in reach)
+
+# graph.print_graph()
+
+
+path_edges, cost = dijkstra(
+    graph,
+    start=1,
+    end=2,
+)
+
+if path_edges:
+    path = Path(path_edges)
+    print(path)
+    print("Path Result:")
+    for line in path.explain():
+        print(" -", line)
+else:
+    print("No path found")
+
 
 del env
 

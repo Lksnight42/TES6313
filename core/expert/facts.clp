@@ -51,6 +51,7 @@
 )
 
 ; test fact instances
+
 ;(traffic
 ;  (location-id A)
 ;  (congestion-level high)

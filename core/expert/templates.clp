@@ -94,6 +94,27 @@
   (slot ref-id)       ; optional: location-id / rule-name / etc
 )
 
+(deftemplate route-metric
+  (slot route-id)
+  (slot time-score)
+  (slot cost-score)
+  (slot transfer-score (default 0))
+  (slot risk-score (default 0))
+  (slot estimated-time)
+  (slot estimated-cost)
+)
+
+(deftemplate scoring-policy
+  (slot policy-id)
+  (slot time-weight)
+  (slot cost-weight)
+  (slot transfer-weight)
+  (slot risk-weight)
+)
+
+
+
+
 (deftemplate phase(slot name))
 
 ; uncertainty(optional)

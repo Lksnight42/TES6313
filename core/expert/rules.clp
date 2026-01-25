@@ -53,18 +53,18 @@
             (base-cost (* ?d ?cpk)))))
 
 ; route evaluation
-(defrule evaluate-route-basis
-  (route
-    (id ?rid)
-    (base-time ?t)
-    (base-cost ?c))
-=>
-  (assert (route-evaluation
-            (route-id ?rid)
-            (estimated-time ?t)
-            (estimated-cost ?c)
-            (risk-level low)
-            (score (- 100 (+ ?t ?c))))))
+;(defrule evaluate-route-basis
+;  (route
+;    (id ?rid)
+;    (base-time ?t)
+;    (base-cost ?c))
+;=>
+;  (assert (route-evaluation
+;            (route-id ?rid)
+;            (estimated-time ?t)
+;            (estimated-cost ?c)
+;            (risk-level low)
+;            (score (- 100 (+ ?t ?c))))))
 
 ; traffic congestion
 (defrule traffic-congestion-penalty
@@ -82,7 +82,7 @@
 
 (defrule traffic-accident-high-risk
   ?re <- (route-evaluation
-           (route-id ?rid)
+               (route-id ?rid)
            (score ?s))
   (route (id ?rid) (start-location ?loc))
   (traffic (location-id ?loc) (accident yes))
@@ -151,6 +151,97 @@
       (base-time ?t)
       (base-cost 0))))
 
+; metric
+(defrule init-route-metric
+  (route (id ?rid))
+  (not (route-metric (route-id ?rid)))
+=>
+  (assert
+   (route-metric
+     (route-id ?rid)
+     (time-score 0)
+     (cost-score 0)
+     (transfer-score 0))))
+
+
+(defrule calc-time-metric
+  (route (id ?rid) (base-time ?t))
+  ?m <- (route-metric (route-id ?rid))
+=>
+  (modify ?m
+    (time-score (- 100 ?t))))
+
+(defrule calc-basic-metric
+  (route
+    (id ?rid)
+    (base-time ?t)
+    (base-cost ?c))
+  ?m <- (route-metric (route-id ?rid))
+=>
+  (modify ?m
+    (estimated-time ?t)
+    (estimated-cost ?c)))
+
+
+(defrule calc-cost-metric
+  (route (id ?rid) (base-cost ?c))
+  ?m <- (route-metric (route-id ?rid))
+=>
+  (modify ?m
+    (cost-score (* ?c 10))))
+
+(defrule calc-transfer-metric
+  (transfer (location ?loc))
+  (route (start-location ?loc) (id ?rid))
+  ?m <- (route-metric (route-id ?rid))
+  =>
+  (modify ?m 
+    (transfer-score -20)))
+
+; scoring
+(defrule user-fastest-policy
+  (user-context (preference fastest))
+=>
+  (assert
+    (scoring-policy
+      (policy-id p1)
+      (time-weight 0.5)
+      (cost-weight 0.2)
+      (transfer-weight 0.2)
+      (risk-weight 0.1))))
+
+(defrule user-cheapest-policy
+  (user-context (preference cheapest))
+=>
+  (assert
+    (scoring-policy
+      (policy-id p1)
+      (time-weight 0.2)
+      (cost-weight 0.5)
+      (transfer-weight 0.2)
+      (risk-weight 0.1))))
+
+(defrule calculate-final-score
+  (scoring-policy
+    (time-weight ?tw)
+    (cost-weight ?cw)
+    (transfer-weight ?trw)
+    (risk-weight ?rw))
+  (route-metric
+    (route-id ?rid)
+    (time-score ?ts)
+    (cost-score ?cs)
+    (transfer-score ?trs)
+    (risk-score ?rs))
+=>
+  (assert
+    (route-evaluation
+      (route-id ?rid)
+      (score
+        (+ (* ?tw ?ts)
+           (* ?cw ?cs)
+           (* ?trw ?trs)
+           (* ?rw ?rs))))))
 
 
 

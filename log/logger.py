@@ -51,7 +51,7 @@ def setup_logging():
     init_handler.setLevel(TRACE)
     init_handler.setFormatter(formatter)
     init_handler.addFilter(SourceFilter({
-        "loader", "init", "station-service", "transfer"
+        "loader", "init", "station-service", "transfer", "metric"
     }))
 
     # route logger

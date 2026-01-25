@@ -310,6 +310,62 @@
           ?loc " has no service "
           ?m "/" ?s))
       (ref-id ?loc))))
+; user-context
+
+(defrule user-context-loaded
+  (user-context
+    (id ?uid)
+    (start-location ?s)
+    (end-location ?e))
+=>
+  (assert
+    (delog
+      (level INFO)
+      (source user)
+      (message
+        (str-cat
+          "[USER][CONTEXT] request loaded: "
+          ?s " -> " ?e))
+      (ref-id ?uid))))
+
+
+; metric
+(defrule metric-created
+  (route-metric (route-id ?rid))
+=>
+  (assert
+    (delog
+      (level TRACE)
+      (source metric)
+      (message (str-cat "metric created for route " ?rid))
+      (ref-id ?rid))))
+
+(defrule policy-selected
+  (scoring-policy (policy-id ?pid))
+=>
+  (assert
+    (delog
+      (level INFO)
+      (source policy)
+      (message (str-cat "scoring policy selected: " ?pid))
+      (ref-id ?pid))))
+
+(defrule final-score
+  (route-evaluation
+    (route-id ?rid)
+    (score ?s))
+    (estimated-time ?t)
+    (estimated-cost ?c)
+=>
+  (assert
+    (delog
+      (level INFO)
+      (source scoring)
+      (message
+      (str-cat "Route evaluated: score="
+                ?s ", time=" ?t ", cost=" ?c))
+      (ref-id ?rid))))
+
  
 
 
