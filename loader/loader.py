@@ -21,7 +21,7 @@ def load_location(env):
 
 
 def load_edge(env):
-    with open(BASE / "data" / "map" / "edges_updated.json") as f:
+    with open(BASE / "data" / "map" / "edges_test.json") as f:
         edges = json.load(f)["edges"]
     for edg in edges:
         transports = " ".join(edg["allowed_transport"])
@@ -42,17 +42,29 @@ def load_line(env):
     for line in lines:
         mode = line["mode"]
         service = line["service"]
+        stations = line["stations"]
 
-        stations = " ".join(line["stations"])
+        for i in range(len(stations) - 1):
+            a = stations[i]
+            b = stations[i + 1]
 
-        fact = f'''
-        (line
-            (mode {mode})
-            (service {service})
-            (stations {stations}))
-        '''
+            fact = f'''
+            (line-segment
+              (mode {mode})
+              (service {service})
+              (from {a})
+              (to {b}))
+            '''
+            env.assert_string(fact)
 
-        env.assert_string(fact)
+            fact_rev = f'''
+            (line-segment
+              (mode {mode})
+              (service {service})
+              (from {b})
+              (to {a}))
+            '''
+            env.assert_string(fact_rev)
 
 
 def load_transfer(env):

@@ -69,6 +69,14 @@
     (slot risk-level)
 )
 
+(deftemplate line-segment
+  (slot mode)
+  (slot service)
+  (slot from)
+  (slot to)
+)
+
+
 (deftemplate line
   (slot mode)
   (slot service)

@@ -194,55 +194,13 @@
     },
     {
       "from": "34",
-      "to": "6",
-      "distance": 5,
-      "allowed_transport": ["car", "bus", "motorcycle", "walk", "mrt"]
-    },
-    {
-      "from": "30",
-      "to": "31",
-      "distance": 5,
-      "allowed_transport": ["car", "bus", "motorcycle", "walk", "mrt"]
-    },
-    {
-      "from": "30",
-      "to": "31",
-      "distance": 5,
-      "allowed_transport": ["car", "bus", "motorcycle", "walk", "mrt"]
-    },
-    {
-      "from": "30",
-      "to": "31",
-      "distance": 5,
-      "allowed_transport": ["car", "bus", "motorcycle", "walk", "mrt"]
-    },
-    {
-      "from": "30",
-      "to": "31",
-      "distance": 5,
-      "allowed_transport": ["car", "bus", "motorcycle", "walk", "mrt"]
-    },
-    {
-      "from": "30",
-      "to": "31",
-      "distance": 5,
-      "allowed_transport": ["car", "bus", "motorcycle", "walk", "mrt"]
-    },
-    {
-      "from": "30",
-      "to": "31",
-      "distance": 5,
-      "allowed_transport": ["car", "bus", "motorcycle", "walk", "mrt"]
-    },
-    {
-      "from": "30",
-      "to": "31",
+      "to": "35",
       "distance": 5,
       "allowed_transport": ["car", "bus", "motorcycle", "walk", "mrt"]
     },
     {
       "from": "35",
-      "to": "36",
+      "to": "6",
       "distance": 5,
       "allowed_transport": ["car", "bus", "motorcycle", "walk", "mrt"]
     },

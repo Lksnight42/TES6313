@@ -1,35 +1,43 @@
 import heapq
-import itertools
+import math
 
 
 def dijkstra(graph, start, end):
+    #
+    dist = {start: 0}
+    prev = {}   # node -> (prev_node, edge)
 
-    counter = itertools.count()
-    pq = [(0, start, [])]  # cost, node, path
-    visited = set()
+    pq = [(0, start)]
 
     while pq:
-        cost, node, path = heapq.heappop(pq)
+        cost, node = heapq.heappop(pq)
 
         if node == end:
-            return path, cost
+            break
 
-        if node in visited:
+        if cost > dist.get(node, math.inf):
             continue
-        visited.add(node)
 
         for edge in graph.neighbors(node):
-            heapq.heappush(
-                pq,
-                (
-                    cost + edge["cost"],
-                    next(counter),
-                    edge["to"],
-                    path + [edge],
-                )
-            )
-        return None, float("inf")
+            nxt = edge["to"]
+            new_cost = cost + edge["cost"]
 
+            if new_cost < dist.get(nxt, math.inf):
+                dist[nxt] = new_cost
+                prev[nxt] = (node, edge)
+                heapq.heappush(pq, (new_cost, nxt))
 
+    if end not in prev and start != end:
+        return None, math.inf
+
+    path_edges = []
+    cur = end
+    while cur != start:
+        pnode, edge = prev[cur]
+        path_edges.append(edge)
+        cur = pnode
+
+    path_edges.reverse()
+    return path_edges, dist[end]
 
 

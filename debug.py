@@ -19,7 +19,7 @@ env.reset()
 loader.load_location(env)
 loader.load_edge(env)
 loader.load_line(env)
-loader.load_transfer(env)
+# loader.load_transfer(env)
 
 
 env.run()
@@ -46,25 +46,25 @@ for fact in env.facts():
 
 graph = build_graph(env)
 
-reach = reachable(graph, 1)
-print("Reachable from start:", reach)
-print("End in reachable?", 6 in reach)
+# reach = reachable(graph, 42)
+# print("Reachable from start:", reach)
+# print("End in reachable?", 80 in reach)
 
-# graph.print_graph()
+graph.print_graph()
 
 
 path_edges, cost = dijkstra(
     graph,
-    start=1,
-    end=2,
+    start=88,
+    end=54,
 )
 
 if path_edges:
     path = Path(path_edges)
     print(path)
     print("Path Result:")
-    for line in path.explain():
-        print(" -", line)
+    for line in path.prompt():
+        print(line)
 else:
     print("No path found")
 

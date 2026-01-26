@@ -23,7 +23,9 @@ class Path:
         prompt = []
         for e in self.edges:
             prompt.append(
-                f"{e['route_id']} ({e['service']}) score={e['score']}"
+                f"{e['from']} -> {e['to']} | "
+                f"{e['route_id']} ({e['service']}) "
+                f"cost={fmt(e['cost'])}  score={fmt(e['score'])}"
             )
         return prompt
 
@@ -34,6 +36,9 @@ class Path:
             f"cost={self.total_cost}>"
         )
 
+
+def fmt(x):
+    return f"{float(x):.2f}"
 
 
 

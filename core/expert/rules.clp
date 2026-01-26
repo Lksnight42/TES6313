@@ -8,6 +8,7 @@
 )
 
 ; route
+
 (defrule edge-to-route-by-transport
   (edge 
     (from ?a)
@@ -51,6 +52,33 @@
             (distance ?d)
             (base-time (* (/ ?d ?spd) 60)); km/ (km/h) -> hour -> minutes
             (base-cost (* ?d ?cpk)))))
+
+(defrule bind-route-to-line
+  (route
+    (id ?rid)
+    (start-location ?a)
+    (end-location ?b)
+    (mode ?m)
+    (service none)
+    (distance ?d)
+    (base-time ?t)
+    (base-cost ?c))
+  (line-segment
+    (mode ?m)
+    (service ?s)
+    (from ?a)
+    (to ?b))
+=>
+  (assert
+    (route
+      (id (gensym*))
+      (start-location ?a)
+      (end-location ?b)
+      (mode ?m)
+      (service ?s)
+      (distance ?d)
+      (base-time ?t)
+      (base-cost ?c))))
 
 ; route evaluation
 ;(defrule evaluate-route-basis
