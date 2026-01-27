@@ -21,7 +21,7 @@ def load_location(env):
 
 
 def load_edge(env):
-    with open(BASE / "data" / "map" / "edges_test.json") as f:
+    with open(BASE / "data" / "map" / "edges_updated.json") as f:
         edges = json.load(f)["edges"]
     for edg in edges:
         transports = " ".join(edg["allowed_transport"])

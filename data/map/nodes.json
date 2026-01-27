@@ -474,12 +474,6 @@
       "parent": "Tanjung Malim"
     },
     {
-      "id": "96",
-      "name": "Masjid Jamek",
-      "level": "node",
-      "parent": "Sentul Timur"
-    },
-    {
       "id": "97",
       "name": "Plaza Rakyat",
       "level": "node",
@@ -548,6 +542,90 @@
     {
       "id": "108",
       "name": "Cheras",
+      "level": "node",
+      "parent": "Sentul Timur"
+    },
+    {
+      "id": "109",
+      "name": "Salak Selatan",
+      "level": "node",
+      "parent": "Sentul Timur"
+    },
+    {
+      "id": "110",
+      "name": "Bandar Tun Razak",
+      "level": "node",
+      "parent": "Sentul Timur"
+    },
+    {
+      "id": "111",
+      "name": "Bandar Tasik",
+      "level": "node",
+      "parent": "Sentul Timur"
+    },
+    {
+      "id": "112",
+      "name": "Sungai Besi",
+      "level": "node",
+      "parent": "Sentul Timur"
+    },
+    {
+      "id": "113",
+      "name": "Bukit Jalil",
+      "level": "node",
+      "parent": "Sentul Timur"
+    },
+    {
+      "id": "114",
+      "name": "Sri Petaling",
+      "level": "node",
+      "parent": "Sentul Timur"
+    },
+    {
+      "id": "115",
+      "name": "Awan Besar",
+      "level": "node",
+      "parent": "Sentul Timur"
+    },
+    {
+      "id": "116",
+      "name": "Muhibbah",
+      "level": "node",
+      "parent": "Alam Sutera"
+    },
+    {
+      "id": "117",
+      "name": "Kinrara BK5",
+      "level": "node",
+      "parent": "IOI Puchong Jaya"
+    },
+    {
+      "id": "118",
+      "name": "Pusat Bandar Puchong",
+      "level": "node",
+      "parent": "Sentul Timur"
+    },
+    {
+      "id": "119",
+      "name": "Taman Perindustrian",
+      "level": "node",
+      "parent": "Sentul Timur"
+    },
+    {
+      "id": "120",
+      "name": "Bandar Puteri",
+      "level": "node",
+      "parent": "Sentul Timur"
+    },
+    {
+      "id": "121",
+      "name": "Puchong Perdana",
+      "level": "node",
+      "parent": "Sentul Timur"
+    },
+    {
+      "id": "122",
+      "name": "Puchong Prima",
       "level": "node",
       "parent": "Sentul Timur"
     }
