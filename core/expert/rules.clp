@@ -167,7 +167,8 @@
       (service ?s2)
       (distance 0)
       (base-time ?t)
-      (base-cost 0)))
+      (base-cost 0)
+      (kind transfer)))
   (assert
     (route
       (id (gensym*))
@@ -177,7 +178,8 @@
       (service ?s1)
       (distance 0)
       (base-time ?t)
-      (base-cost 0))))
+      (base-cost 0)
+      (kind transfer))))
 
 ; metric
 (defrule init-route-metric
@@ -219,8 +221,9 @@
     (cost-score (* ?c 10))))
 
 (defrule calc-transfer-metric
-  (transfer (location ?loc))
-  (route (start-location ?loc) (id ?rid))
+  (route 
+    (id ?rid)
+    (kind transfer))
   ?m <- (route-metric (route-id ?rid))
   =>
   (modify ?m 

@@ -26,7 +26,7 @@ class Graph:
                     f"(route={e['route_id']}, "
                     f"service={e['service']}, "
                     f"score={e['score']:.2f}, "
-                    f"cost={e['cost']:.2f})"
+                    f"decision_cost={e['decision_cost']:.2f})"
                 )
 
 

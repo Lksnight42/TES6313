@@ -30,7 +30,8 @@
     (slot service); optional: line / route-id / null
     (slot distance); km
     (slot base-time); minutes
-    (slot base-cost); RM
+    (slot base-cost); RM(slot kind (default travel)) ; travel | transfer
+    (slot kind (default travel)); travel / transfer
 )
 
 

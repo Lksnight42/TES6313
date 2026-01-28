@@ -1,43 +1,66 @@
 import heapq
 import math
+import itertools
 
 
 def dijkstra(graph, start, end):
+    TRANSFER_PENALTY = 5
+
+    counter = itertools.count()
+    start_state = (start, None)
     #
-    dist = {start: 0}
+    dist = {start_state: 0}
     prev = {}   # node -> (prev_node, edge)
 
-    pq = [(0, start)]
+    pq = [(0, next(counter), start_state)]
 
     while pq:
-        cost, node = heapq.heappop(pq)
+        cost, _, (node, cur_service) = heapq.heappop(pq)
 
         if node == end:
             break
 
-        if cost > dist.get(node, math.inf):
+        if cost > dist.get((node, cur_service), math.inf):
             continue
 
         for edge in graph.neighbors(node):
             nxt = edge["to"]
-            new_cost = cost + edge["cost"]
+            next_service = edge["service"]
 
-            if new_cost < dist.get(nxt, math.inf):
-                dist[nxt] = new_cost
-                prev[nxt] = (node, edge)
-                heapq.heappush(pq, (new_cost, nxt))
+            transfer_cost = 0
+            if cur_service is not None and next_service != cur_service and cur_service != "none":
+                transfer_cost = TRANSFER_PENALTY
 
-    if end not in prev and start != end:
+            new_cost = (
+                cost
+                + edge["decision_cost"]
+                + transfer_cost
+            )
+
+            next_state = (nxt, next_service)
+
+            if new_cost < dist.get(next_state, math.inf):
+                dist[next_state] = new_cost
+                prev[next_state] = ((node, cur_service), edge)
+                heapq.heappush(pq, (new_cost, next(counter), next_state))
+
+    end_states = [
+        s for s in dist
+        if s[0] == end
+    ]
+
+    if not end_states:
         return None, math.inf
 
+    best_end_state = min(end_states, key=lambda s: dist[s])
+
     path_edges = []
-    cur = end
-    while cur != start:
-        pnode, edge = prev[cur]
+    cur_state = best_end_state
+    while cur_state in prev:
+        cur_state, edge = prev[cur_state]
         path_edges.append(edge)
-        cur = pnode
 
     path_edges.reverse()
-    return path_edges, dist[end]
+    return path_edges, dist[best_end_state]
 
 

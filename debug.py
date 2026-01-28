@@ -4,9 +4,8 @@ from log.logger import dump_logs
 
 from graph.builder import build_graph
 from graph.search import dijkstra
-from graph.path import Path
-from graph.graph import reachable
-
+from graph.path import evaluate_path, final_score
+from graph.path import build_user_route_result, print_user_route_result, explain_route
 
 logger = setup_logging()
 
@@ -28,11 +27,11 @@ print("=== RUN CLIPS ===")
 dump_logs(env, min_level="DEBUG")
 
 loader.load_edge
-print("=== RUN CLIPS ===")
-for fact in env.facts():
-    if fact.template.name == "route-metric":
-        print("metric exists")
-        print(fact)
+# print("=== RUN CLIPS ===")
+# for fact in env.facts():
+#     if fact.template.name == "route-metric":
+#         print("metric exists")
+#         print(fact)
 # print(fact)
 
 
@@ -50,23 +49,42 @@ graph = build_graph(env)
 # print("Reachable from start:", reach)
 # print("End in reachable?", 80 in reach)
 
-graph.print_graph()
+# graph.print_graph()
 
 
 path_edges, cost = dijkstra(
     graph,
-    start=1,
-    end=90,
+    start=34, #ctx.start_location
+    end=55, #ctx.end_location
 )
 
-if path_edges:
-    path = Path(path_edges)
-    print(path)
-    print("Path Result:")
-    for line in path.prompt():
-        print(line)
-else:
+# if path_edges:
+#     path = Path(path_edges)
+#     print(path)
+#     print("Path Result:")
+#     for line in path.prompt():
+#         print(line)
+# else:
+#     print("No path found")
+
+if not path_edges:
     print("No path found")
+
+metrics = evaluate_path(path_edges)
+score = final_score(metrics, "cheapest")
+
+result = build_user_route_result(
+    path_edges=path_edges,
+    path_metrics=metrics,
+    start="34",
+    end="55",
+    preference="cheapest"
+)
+# print("=== PATH METRICS ===")
+# print(metrics)
+# print("Final score:", score)
+
+print_user_route_result(result)
 
 
 del env

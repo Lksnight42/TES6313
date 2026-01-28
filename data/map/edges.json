@@ -206,7 +206,7 @@
       "allowed_transport": ["mrt"]
     },
     {
-      "from": "8",
+      "from": "9",
       "to": "36",
       "distance": 4.91,
       "allowed_transport": ["mrt"]
@@ -399,12 +399,12 @@
     },
     {
       "from": "68",
-      "to": "8",
+      "to": "9",
       "distance": 1.29,
       "allowed_transport": ["mrt"]
     },
     {
-      "from": "8",
+      "from": "9",
       "to": "69",
       "distance": 1.29,
       "allowed_transport": ["mrt"]

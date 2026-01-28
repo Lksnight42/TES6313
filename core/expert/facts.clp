@@ -29,15 +29,6 @@
     (has-service yes)
   ) 
 
-  (transport
-    (id mrt)
-    (type mrt)
-    (avg-speed 50)
-    (capacity 800)
-    (cost-per-km 0.15)
-    (flexibility medium)
-    (has-service yes)
-  ) 
 
   (transport
     (id walk)
@@ -47,6 +38,15 @@
     (cost-per-km 0)
     (flexibility very-high)
     (has-service no)
+  ) 
+  (transport
+    (id mrt)
+    (type mrt)
+    (avg-speed 50)
+    (capacity 800)
+    (cost-per-km 0.05)
+    (flexibility medium)
+    (has-service yes)
   ) 
 )
 
