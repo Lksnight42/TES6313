@@ -20,6 +20,8 @@
     (slot to)
     (multislot allowed-transport)
     (slot distance)
+    (slot base-time)
+    (slot base-cost)
 )
 
 (deftemplate route

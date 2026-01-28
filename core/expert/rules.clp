@@ -14,7 +14,11 @@
     (from ?a)
     (to ?b)
     (distance ?d)
-    (allowed-transport $?ats))
+    (allowed-transport $?ats)
+    (base-time ?t)
+    (base-cost ?c)
+    )
+
   (transport 
     (id ?mode)
     (avg-speed ?spd)
@@ -28,8 +32,8 @@
             (mode ?mode)
             (service none)
             (distance ?d)
-            (base-time (* (/ ?d ?spd) 60)); km/ (km/h) -> hour -> minutes
-            (base-cost (* ?d ?cpk)))))
+            (base-time ?t); km/ (km/h) -> hour -> minutes
+            (base-cost ?c))))
 
 (defrule edge-to-route-by-transport-reverse
   (edge 
@@ -236,7 +240,7 @@
   (assert
     (scoring-policy
       (policy-id p1)
-      (time-weight 0.5)
+      (time-weight 50)
       (cost-weight 0.2)
       (transfer-weight 0.2)
       (risk-weight 0.1))))
@@ -248,7 +252,7 @@
     (scoring-policy
       (policy-id p1)
       (time-weight 0.2)
-      (cost-weight 0.5)
+      (cost-weight 50)
       (transfer-weight 0.2)
       (risk-weight 0.1))))
 

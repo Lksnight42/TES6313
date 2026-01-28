@@ -3,1035 +3,1295 @@
     {
       "from": "1",
       "to": "2",
-      "distance": 1.36,
+      "distance": 0.95,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 9.55,
+      "base_cost": 0.97
     },
     {
       "from": "2",
       "to": "3",
-      "distance": 2.97,
+      "distance": 2.54,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 2.1,
+      "base_cost": 0.78
     },
     {
       "from": "3",
       "to": "4",
-      "distance": 3.59,
+      "distance": 3.73,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 4.18,
+      "base_cost": 0.98
     },
     {
       "from": "4",
       "to": "5",
-      "distance": 3.29,
+      "distance": 4.68,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 1.71,
+      "base_cost": 0.83
     },
     {
       "from": "5",
       "to": "6",
-      "distance": 3.92,
+      "distance": 4.17,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 8.3,
+      "base_cost": 0.61
     },
     {
       "from": "6",
       "to": "7",
-      "distance": 3.92,
+      "distance": 1.62,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 6.92,
+      "base_cost": 0.38
     },
     {
       "from": "7",
       "to": "8",
-      "distance": 4.39,
+      "distance": 2.6,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 5.77,
+      "base_cost": 0.52
     },
     {
       "from": "8",
       "to": "9",
-      "distance": 3.69,
+      "distance": 1.96,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 1.58,
+      "base_cost": 0.95
     },
     {
       "from": "9",
       "to": "10",
-      "distance": 3.52,
+      "distance": 1.22,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 3.05,
+      "base_cost": 0.24
     },
     {
       "from": "10",
       "to": "11",
-      "distance": 2.25,
+      "distance": 3.77,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 1.28,
+      "base_cost": 0.69
     },
     {
       "from": "11",
       "to": "12",
-      "distance": 0.57,
+      "distance": 2.54,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 7.63,
+      "base_cost": 0.58
     },
     {
       "from": "12",
       "to": "13",
-      "distance": 3.06,
+      "distance": 1.81,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 8.83,
+      "base_cost": 0.26
     },
     {
       "from": "13",
       "to": "14",
-      "distance": 0.79,
+      "distance": 1.9,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 5.22,
+      "base_cost": 0.82
     },
     {
       "from": "14",
       "to": "15",
-      "distance": 1.78,
+      "distance": 4.5,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 9.03,
+      "base_cost": 0.9
     },
     {
       "from": "15",
       "to": "16",
-      "distance": 4.0,
+      "distance": 4.56,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 4.38,
+      "base_cost": 0.58
     },
     {
       "from": "16",
       "to": "17",
-      "distance": 4.89,
+      "distance": 3.0,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 4.34,
+      "base_cost": 0.35
     },
     {
       "from": "17",
       "to": "18",
-      "distance": 4.28,
+      "distance": 4.32,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 9.84,
+      "base_cost": 0.64
     },
     {
       "from": "18",
       "to": "19",
-      "distance": 4.56,
+      "distance": 1.83,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 2.8,
+      "base_cost": 0.85
     },
     {
       "from": "19",
       "to": "20",
-      "distance": 4.35,
+      "distance": 2.67,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 9.38,
+      "base_cost": 0.95
     },
     {
       "from": "20",
       "to": "21",
-      "distance": 1.59,
+      "distance": 1.93,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 2.5,
+      "base_cost": 0.9
     },
     {
       "from": "21",
       "to": "22",
-      "distance": 1.54,
+      "distance": 2.69,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 8.27,
+      "base_cost": 0.52
     },
     {
       "from": "22",
       "to": "23",
-      "distance": 1.79,
+      "distance": 1.46,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 4.0,
+      "base_cost": 0.46
     },
     {
       "from": "23",
       "to": "24",
-      "distance": 2.44,
+      "distance": 3.19,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 2.23,
+      "base_cost": 0.12
     },
     {
       "from": "25",
       "to": "26",
-      "distance": 4.51,
+      "distance": 0.33,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 1.62,
+      "base_cost": 0.19
     },
     {
       "from": "26",
       "to": "27",
-      "distance": 3.52,
+      "distance": 1.97,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 9.68,
+      "base_cost": 0.55
     },
     {
       "from": "27",
       "to": "28",
-      "distance": 3.48,
+      "distance": 1.76,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 2.93,
+      "base_cost": 0.13
     },
     {
       "from": "28",
       "to": "29",
-      "distance": 3.94,
+      "distance": 0.43,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 8.72,
+      "base_cost": 0.54
     },
     {
       "from": "29",
       "to": "30",
-      "distance": 0.75,
+      "distance": 1.82,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 1.31,
+      "base_cost": 0.61
     },
     {
       "from": "30",
       "to": "31",
-      "distance": 0.76,
+      "distance": 4.37,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 2.55,
+      "base_cost": 0.46
     },
     {
       "from": "31",
       "to": "32",
-      "distance": 4.14,
+      "distance": 1.95,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 9.73,
+      "base_cost": 0.62
     },
     {
       "from": "32",
       "to": "33",
-      "distance": 0.53,
+      "distance": 2.77,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 9.52,
+      "base_cost": 0.4
     },
     {
       "from": "33",
       "to": "34",
-      "distance": 4.7,
+      "distance": 1.72,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 7.38,
+      "base_cost": 0.33
     },
     {
       "from": "34",
       "to": "35",
-      "distance": 4.25,
+      "distance": 1.28,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 2.85,
+      "base_cost": 0.62
     },
     {
       "from": "35",
       "to": "6",
-      "distance": 3.03,
+      "distance": 0.27,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 6.8,
+      "base_cost": 0.99
     },
     {
       "from": "9",
       "to": "36",
-      "distance": 3.05,
+      "distance": 1.74,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 5.96,
+      "base_cost": 0.59
     },
     {
       "from": "36",
       "to": "37",
-      "distance": 0.98,
+      "distance": 1.82,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 3.03,
+      "base_cost": 0.5
     },
     {
       "from": "37",
       "to": "38",
-      "distance": 4.6,
+      "distance": 3.46,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 4.58,
+      "base_cost": 0.61
     },
     {
       "from": "38",
       "to": "39",
-      "distance": 0.46,
+      "distance": 3.09,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 4.85,
+      "base_cost": 0.27
     },
     {
       "from": "39",
       "to": "40",
-      "distance": 4.54,
+      "distance": 2.55,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 2.09,
+      "base_cost": 0.16
     },
     {
       "from": "40",
       "to": "41",
-      "distance": 1.16,
+      "distance": 4.87,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 1.4,
+      "base_cost": 0.6
     },
     {
       "from": "41",
       "to": "42",
-      "distance": 4.23,
+      "distance": 4.37,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 7.37,
+      "base_cost": 0.65
     },
     {
       "from": "42",
       "to": "43",
-      "distance": 2.53,
+      "distance": 2.93,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 6.74,
+      "base_cost": 0.7
     },
     {
       "from": "43",
       "to": "44",
-      "distance": 2.19,
+      "distance": 3.98,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 8.08,
+      "base_cost": 0.2
     },
     {
       "from": "44",
       "to": "45",
-      "distance": 2.3,
+      "distance": 2.48,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 1.81,
+      "base_cost": 0.65
     },
     {
       "from": "45",
       "to": "46",
-      "distance": 0.44,
+      "distance": 1.63,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 6.74,
+      "base_cost": 0.19
     },
     {
       "from": "46",
       "to": "47",
-      "distance": 2.05,
+      "distance": 4.5,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 3.24,
+      "base_cost": 0.16
     },
     {
       "from": "47",
       "to": "48",
-      "distance": 1.54,
+      "distance": 0.86,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 6.23,
+      "base_cost": 0.37
     },
     {
       "from": "48",
       "to": "49",
-      "distance": 2.39,
+      "distance": 2.6,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 8.68,
+      "base_cost": 0.28
     },
     {
       "from": "49",
       "to": "50",
-      "distance": 2.82,
+      "distance": 4.66,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 5.35,
+      "base_cost": 0.64
     },
     {
       "from": "50",
       "to": "51",
-      "distance": 1.83,
+      "distance": 2.96,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 5.76,
+      "base_cost": 0.46
     },
     {
       "from": "51",
       "to": "52",
-      "distance": 3.96,
+      "distance": 2.71,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 8.75,
+      "base_cost": 0.94
     },
     {
       "from": "52",
       "to": "53",
-      "distance": 0.39,
+      "distance": 4.38,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 6.24,
+      "base_cost": 0.94
     },
     {
       "from": "53",
       "to": "54",
-      "distance": 4.95,
+      "distance": 2.88,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 7.43,
+      "base_cost": 0.96
     },
     {
       "from": "55",
       "to": "56",
-      "distance": 1.39,
+      "distance": 4.57,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 4.46,
+      "base_cost": 0.22
     },
     {
       "from": "56",
       "to": "57",
-      "distance": 0.25,
+      "distance": 2.09,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 5.14,
+      "base_cost": 0.6
     },
     {
       "from": "57",
       "to": "58",
-      "distance": 1.15,
+      "distance": 0.76,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 3.0,
+      "base_cost": 0.86
     },
     {
       "from": "58",
       "to": "59",
-      "distance": 2.65,
+      "distance": 2.61,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 4.81,
+      "base_cost": 0.52
     },
     {
       "from": "59",
       "to": "60",
-      "distance": 3.18,
+      "distance": 4.9,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 5.89,
+      "base_cost": 0.8
     },
     {
       "from": "60",
       "to": "61",
-      "distance": 3.47,
+      "distance": 4.9,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 5.57,
+      "base_cost": 0.4
     },
     {
       "from": "61",
       "to": "62",
-      "distance": 2.09,
+      "distance": 4.54,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 4.41,
+      "base_cost": 0.22
     },
     {
       "from": "62",
       "to": "63",
-      "distance": 3.93,
+      "distance": 4.37,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 1.39,
+      "base_cost": 0.34
     },
     {
       "from": "63",
       "to": "64",
-      "distance": 4.35,
+      "distance": 3.15,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 6.81,
+      "base_cost": 0.36
     },
     {
       "from": "64",
       "to": "65",
-      "distance": 1.01,
+      "distance": 3.96,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 9.12,
+      "base_cost": 0.42
     },
     {
       "from": "65",
       "to": "66",
-      "distance": 4.31,
+      "distance": 1.59,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 9.29,
+      "base_cost": 0.82
     },
     {
       "from": "66",
       "to": "67",
-      "distance": 2.13,
+      "distance": 0.61,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 2.14,
+      "base_cost": 0.78
     },
     {
       "from": "67",
       "to": "68",
-      "distance": 3.88,
+      "distance": 3.5,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 3.17,
+      "base_cost": 0.54
     },
     {
       "from": "68",
       "to": "9",
-      "distance": 0.8,
+      "distance": 1.87,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 9.74,
+      "base_cost": 0.35
     },
     {
       "from": "9",
       "to": "69",
-      "distance": 1.2,
+      "distance": 3.98,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 6.4,
+      "base_cost": 0.77
     },
     {
       "from": "69",
       "to": "36",
-      "distance": 4.24,
+      "distance": 1.5,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 5.57,
+      "base_cost": 0.44
     },
     {
       "from": "36",
       "to": "70",
-      "distance": 4.32,
+      "distance": 4.61,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 9.91,
+      "base_cost": 0.8
     },
     {
       "from": "70",
       "to": "71",
-      "distance": 0.38,
+      "distance": 1.67,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 6.77,
+      "base_cost": 0.3
     },
     {
       "from": "71",
       "to": "72",
-      "distance": 3.4,
+      "distance": 1.26,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 6.83,
+      "base_cost": 0.66
     },
     {
       "from": "72",
       "to": "73",
-      "distance": 4.77,
+      "distance": 2.43,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 9.99,
+      "base_cost": 0.76
     },
     {
       "from": "73",
       "to": "74",
-      "distance": 0.22,
+      "distance": 2.98,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 1.37,
+      "base_cost": 0.77
     },
     {
       "from": "74",
       "to": "75",
-      "distance": 4.39,
+      "distance": 0.65,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 4.49,
+      "base_cost": 0.55
     },
     {
       "from": "75",
       "to": "76",
-      "distance": 0.22,
+      "distance": 4.73,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 9.6,
+      "base_cost": 0.92
     },
     {
       "from": "76",
       "to": "77",
-      "distance": 1.5,
+      "distance": 3.94,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 3.39,
+      "base_cost": 0.42
     },
     {
       "from": "77",
       "to": "78",
-      "distance": 2.61,
+      "distance": 0.69,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 4.01,
+      "base_cost": 0.9
     },
     {
       "from": "78",
       "to": "79",
-      "distance": 4.19,
+      "distance": 0.78,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 4.12,
+      "base_cost": 0.77
     },
     {
       "from": "79",
       "to": "44",
-      "distance": 0.76,
+      "distance": 1.26,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 9.93,
+      "base_cost": 0.33
     },
     {
       "from": "44",
       "to": "80",
-      "distance": 4.56,
+      "distance": 3.61,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 8.66,
+      "base_cost": 0.19
     },
     {
       "from": "80",
       "to": "81",
-      "distance": 3.96,
+      "distance": 3.26,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 9.41,
+      "base_cost": 0.96
     },
     {
       "from": "81",
       "to": "82",
-      "distance": 4.61,
+      "distance": 4.49,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 5.75,
+      "base_cost": 0.49
     },
     {
       "from": "82",
       "to": "83",
-      "distance": 1.32,
+      "distance": 0.98,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 6.71,
+      "base_cost": 0.31
     },
     {
       "from": "83",
       "to": "84",
-      "distance": 3.66,
+      "distance": 3.16,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 9.81,
+      "base_cost": 0.98
     },
     {
       "from": "84",
       "to": "85",
-      "distance": 0.37,
+      "distance": 4.48,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 8.71,
+      "base_cost": 0.91
     },
     {
       "from": "85",
       "to": "86",
-      "distance": 3.2,
+      "distance": 3.92,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 5.36,
+      "base_cost": 0.33
     },
     {
       "from": "86",
       "to": "87",
-      "distance": 3.29,
+      "distance": 3.97,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 9.64,
+      "base_cost": 0.52
     },
     {
       "from": "87",
       "to": "88",
-      "distance": 4.03,
+      "distance": 1.93,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 3.36,
+      "base_cost": 0.34
     },
     {
       "from": "90",
       "to": "91",
-      "distance": 4.61,
+      "distance": 4.02,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 3.17,
+      "base_cost": 0.9
     },
     {
       "from": "91",
       "to": "92",
-      "distance": 4.94,
+      "distance": 2.46,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 7.0,
+      "base_cost": 0.63
     },
     {
       "from": "92",
       "to": "93",
-      "distance": 3.09,
+      "distance": 2.97,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 3.73,
+      "base_cost": 0.98
     },
     {
       "from": "93",
       "to": "94",
-      "distance": 3.44,
+      "distance": 0.5,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 4.83,
+      "base_cost": 0.12
     },
     {
       "from": "94",
       "to": "95",
-      "distance": 0.31,
+      "distance": 1.09,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 1.98,
+      "base_cost": 0.62
     },
     {
       "from": "95",
       "to": "96",
-      "distance": 3.39,
+      "distance": 0.35,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 6.53,
+      "base_cost": 0.37
     },
     {
       "from": "95",
       "to": "67",
-      "distance": 1.32,
+      "distance": 0.54,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 7.68,
+      "base_cost": 0.44
     },
     {
       "from": "67",
       "to": "97",
-      "distance": 0.41,
+      "distance": 3.2,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 9.85,
+      "base_cost": 0.58
     },
     {
       "from": "97",
       "to": "98",
-      "distance": 2.47,
+      "distance": 2.12,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 6.99,
+      "base_cost": 0.65
     },
     {
       "from": "98",
       "to": "99",
-      "distance": 1.07,
+      "distance": 4.69,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 8.42,
+      "base_cost": 0.52
     },
     {
       "from": "99",
       "to": "100",
-      "distance": 3.76,
+      "distance": 3.8,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 2.74,
+      "base_cost": 0.66
     },
     {
       "from": "100",
       "to": "101",
-      "distance": 4.47,
+      "distance": 2.97,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 8.46,
+      "base_cost": 0.97
     },
     {
       "from": "101",
       "to": "102",
-      "distance": 0.71,
+      "distance": 2.17,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 9.62,
+      "base_cost": 0.51
     },
     {
       "from": "102",
       "to": "103",
-      "distance": 2.5,
+      "distance": 3.47,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 4.9,
+      "base_cost": 0.18
     },
     {
       "from": "103",
       "to": "104",
-      "distance": 2.47,
+      "distance": 1.52,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 5.65,
+      "base_cost": 0.83
     },
     {
       "from": "104",
       "to": "105",
-      "distance": 3.9,
+      "distance": 2.7,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 9.52,
+      "base_cost": 0.62
     },
     {
       "from": "105",
       "to": "106",
-      "distance": 3.55,
+      "distance": 3.54,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 2.64,
+      "base_cost": 0.53
     },
     {
       "from": "106",
       "to": "107",
-      "distance": 3.01,
+      "distance": 0.46,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 4.15,
+      "base_cost": 0.25
     },
     {
       "__comment__": "mrt-line-4",
       "from": "100",
       "to": "108",
-      "distance": 2.5,
+      "distance": 3.32,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 1.98,
+      "base_cost": 0.81
     },
     {
       "from": "108",
       "to": "109",
-      "distance": 1.82,
+      "distance": 1.87,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 2.89,
+      "base_cost": 0.66
     },
     {
       "from": "109",
       "to": "110",
-      "distance": 1.59,
+      "distance": 1.9,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 6.95,
+      "base_cost": 0.78
     },
     {
       "from": "110",
       "to": "111",
-      "distance": 3.43,
+      "distance": 3.85,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 3.92,
+      "base_cost": 0.39
     },
     {
       "from": "111",
       "to": "112",
-      "distance": 2.79,
+      "distance": 0.83,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 5.15,
+      "base_cost": 0.77
     },
     {
       "from": "112",
       "to": "113",
-      "distance": 2.79,
+      "distance": 3.8,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 3.01,
+      "base_cost": 0.62
     },
     {
       "from": "113",
       "to": "114",
-      "distance": 4.93,
+      "distance": 2.79,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 7.43,
+      "base_cost": 0.98
     },
     {
       "from": "114",
       "to": "115",
-      "distance": 4.64,
+      "distance": 0.99,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 1.45,
+      "base_cost": 0.55
     },
     {
       "from": "115",
       "to": "116",
-      "distance": 0.8,
+      "distance": 2.14,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 3.32,
+      "base_cost": 0.43
     },
     {
       "from": "116",
       "to": "117",
-      "distance": 0.82,
+      "distance": 3.45,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 8.17,
+      "base_cost": 0.88
     },
     {
       "from": "117",
       "to": "118",
-      "distance": 0.2,
+      "distance": 2.92,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 7.47,
+      "base_cost": 0.83
     },
     {
       "from": "118",
       "to": "119",
-      "distance": 2.02,
+      "distance": 2.85,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 2.24,
+      "base_cost": 0.45
     },
     {
       "from": "119",
       "to": "120",
-      "distance": 1.35,
+      "distance": 2.09,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 4.25,
+      "base_cost": 0.33
     },
     {
       "from": "120",
       "to": "121",
-      "distance": 4.15,
+      "distance": 0.37,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 7.98,
+      "base_cost": 0.32
     },
     {
       "from": "121",
       "to": "122",
-      "distance": 4.82,
+      "distance": 4.1,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 9.51,
+      "base_cost": 0.85
     },
     {
       "from": "122",
       "to": "123",
-      "distance": 3.04,
+      "distance": 4.87,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 1.86,
+      "base_cost": 0.13
     },
     {
       "from": "123",
       "to": "124",
-      "distance": 3.79,
+      "distance": 2.64,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 9.75,
+      "base_cost": 0.39
     },
     {
       "from": "124",
       "to": "125",
-      "distance": 0.48,
+      "distance": 3.83,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 6.59,
+      "base_cost": 0.93
     },
     {
       "from": "125",
       "to": "126",
-      "distance": 3.45,
+      "distance": 0.27,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 4.59,
+      "base_cost": 0.89
     },
     {
       "from": "126",
       "to": "127",
-      "distance": 4.17,
+      "distance": 3.13,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 4.4,
+      "base_cost": 0.18
     },
     {
       "from": "127",
       "to": "128",
-      "distance": 4.67,
+      "distance": 2.78,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 7.74,
+      "base_cost": 0.24
     },
     {
       "from": "128",
       "to": "88",
-      "distance": 2.1,
+      "distance": 2.67,
       "allowed_transport": [
         "mrt"
-      ]
+      ],
+      "base_time": 5.4,
+      "base_cost": 0.53
     }
-  ]
+  ],
+  "base_time": 0,
+  "base_cost": 0
 }

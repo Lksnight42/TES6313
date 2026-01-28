@@ -31,6 +31,8 @@ def load_edge(env):
             (to {edg["to"]})
             (allowed-transport {transports})
             (distance {edg["distance"]})
+            (base-time {edg["base_time"]})
+            (base-cost {edg["base_cost"]})
         )
         '''
         env.assert_string(fact)

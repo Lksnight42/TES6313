@@ -54,8 +54,8 @@ graph = build_graph(env)
 
 path_edges, cost = dijkstra(
     graph,
-    start=34, #ctx.start_location
-    end=55, #ctx.end_location
+    start=79, #ctx.start_location
+    end=9, #ctx.end_location
 )
 
 # if path_edges:
@@ -76,8 +76,8 @@ score = final_score(metrics, "cheapest")
 result = build_user_route_result(
     path_edges=path_edges,
     path_metrics=metrics,
-    start="34",
-    end="55",
+    start="79",
+    end="9",
     preference="cheapest"
 )
 # print("=== PATH METRICS ===")
