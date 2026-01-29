@@ -3,11 +3,12 @@ from pathlib import Path
 
 BASE = Path(__file__).resolve().parent.parent
 
-LOCATION_FILE = BASE /  "map" / "nodes.json"
+LOCATION_FILE = BASE / "map" / "nodes.json"
 
 NAME_TO_ID = {}
 ID_TO_NAME = {}
 VALID_LOCATION_IDS = set()
+
 
 def load_locations():
     global NAME_TO_ID, ID_TO_NAME, VALID_LOCATION_IDS

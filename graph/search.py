@@ -1,6 +1,8 @@
 import heapq
 import math
 import itertools
+import copy
+from graph.path import evaluate_path, final_score
 
 
 def dijkstra(graph, start, end):
@@ -62,5 +64,35 @@ def dijkstra(graph, start, end):
 
     path_edges.reverse()
     return path_edges, dist[best_end_state]
+
+
+def find_top_k_path(graph, start, end, k, preference):
+    paths = []
+    penalties = {}
+
+    for i in range(k):
+        g = graph.clone()
+
+        for (frm, to, service), p in penalties.items():
+            g.penalize_edge(frm, to, service, p)
+
+        edges, _ = dijkstra(g, start, end)
+        if not edges:
+            break
+
+        metrics = evaluate_path(edges)
+        score = final_score(metrics, preference)
+
+        paths.append({
+            "edges": edges,
+            "metrics": metrics,
+            "final_score": score
+        })
+
+        for e in edges:
+            key = (e["from"], e["to"], e["service"])
+            penalties[key] = penalties.get(key, 0) + 100
+
+    return paths
 
 

@@ -1,4 +1,4 @@
-
+import copy
 from collections import defaultdict
 
 
@@ -11,6 +11,18 @@ class Graph:
 
     def neighbors(self, node):
         return self.adj.get(node, [])
+
+    def clone(self):
+        g = Graph()
+        for frm, edges in self.adj.items():
+            for e in edges:
+                g.add_edge(frm, copy.deepcopy(e))
+        return g
+
+    def penalize_edge(self, frm, to, service, penalty):
+        for e in self.adj.get(frm, []):
+            if e["to"] == to and e["service"] == service:
+                e["decision_cost"] += penalty
 
     def __repr(self):
         return f"<Graph nodes={len(self.adj)}"

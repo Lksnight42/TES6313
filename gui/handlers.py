@@ -1,7 +1,8 @@
 from data.map.index import NAME_TO_ID, VALID_LOCATION_IDS
 from core.context.model import UserContext
-from core.context.validator import validate_user_context, ValidationError
+from core.context.validator import validate_user_context
 from core.service import find_route
+
 
 def find_route_handler(src_name: str, dst_name: str, pref: str):
 
@@ -10,7 +11,7 @@ def find_route_handler(src_name: str, dst_name: str, pref: str):
 
     if src_name == dst_name:
         raise ValueError("Source and destination cannot be the same")
-    
+
     ctx = UserContext(
         user_id="gui_user",
         start_location=NAME_TO_ID[src_name],

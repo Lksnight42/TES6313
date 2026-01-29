@@ -1,4 +1,5 @@
 from typing import List, Dict, Any
+from data.map.index import ID_TO_NAME
 
 
 class Path:
@@ -142,8 +143,11 @@ def build_user_route_result(
         steps.append(step)
         prev_service = edge.get("service")
 
+
     return {
         "summary": {
+            "start_name": ID_TO_NAME[int(start)],
+            "end_name": ID_TO_NAME[int(end)],
             "start": start,
             "end": end,
             "total_time_min": round(path_metrics["total_time"], 2),
@@ -158,26 +162,34 @@ def build_user_route_result(
 def print_user_route_result(result: Dict[str, Any]):
 
     s = result["summary"]
+    steps = result["steps"]
 
-    print("\n=== ROUTE SUMMARY ===")
-    print(
-        f"From        : {s['start']}\n"
-        f"To          : {s['end']}\n"
-        f"Preference  : {s['preference']}\n"
-        f"Total time  : {s['total_time_min']:.2f} min\n"
-        f"Total cost  : RM {s['total_cost_rm']:.2f}\n"
-        f"Transfers   : {s['transfers']}"
-    )
+    print("=" * 50)
+    print("🚏 ROUTE RECOMMENDATION")
+    print("=" * 50)
 
-    print("\n=== ROUTE STEPS ===")
-    for idx, step in enumerate(result["steps"], 1):
+    print(f"From        : {s['start_name']}")
+    print(f"To          : {s['end_name']}")
+    print(f"Preference  : {s['preference']}")
+    print()
+    print(f"⏱  Total time   : {s['total_time_min']:.2f} min")
+    print(f"💰 Total cost   : RM {s['total_cost_rm']:.2f}")
+    print(f"🔁 Transfers    : {s['transfers']}")
+    print()
+
+    print("-" * 50)
+    print("🧭 ROUTE STEPS")
+    print("-" * 50)
+
+    for i, step in enumerate(steps, 1):
         print(
-            f"{idx:02d}. "
-            f"{step['from']} → {step['to']} | "
-            f"{step['action']} | "
-            f"{step['time_min']:.2f} min | "
-            f"RM {step['cost_rm']:.2f}"
+            f"{i:>2}. {step['from']} → {step['to']} | "
+            f"{step['action']:<15} | "
+            f"{step['time_min']:>5.2f} min | "
+            f"RM {step['cost_rm']:>4.2f}"
         )
+
+    print("=" * 50)
 
 
 def explain_route(result, all_paths_metrics=None):
@@ -207,7 +219,77 @@ def explain_route(result, all_paths_metrics=None):
     }
 
 
+def build_user_advise_result(path_rank, path, start, end, preference):
+
+    edges = path["edges"]
+    metrics = path["metrics"]
+
+    return {
+        "rank": path_rank,
+        "summary": {
+            "from": start,
+            "to": end,
+            "preference": preference,
+            "total_time_min": round(metrics["total_time"], 2),
+            "total_cost_rm": round(metrics["total_cost"], 2),
+            "transfers": metrics["transfers"],
+            "final_score": round(path["final_score"], 2)
+        },
+        "steps": [
+            {
+                "from": e["from"],
+                "to": e["to"],
+                "service": e["service"],
+                "kind": e["kind"],
+                "time": round(e.get("base_time", 0), 2),
+                "cost": round(e.get("base_cost", 0), 2),
+            }
+            for e in edges
+        ]
+    }
 
 
+def explain_top_k(results):
+    explanations = []
+
+    best = results[0]["summary"]
+
+    for r in results:
+        s = r["summary"]
+        reasons = []
+
+        if s["total_time_min"] == best["total_time_min"]:
+            reasons.append("Fastest travel time among alternatives")
+        elif s["total_time_min"] > best["total_time_min"]:
+            reasons.append(
+                f"{s['total_time_min'] - best['total_time_min']:.2f} minutes slower than fastest"
+            )
+
+        if s["transfers"] < best["transfers"]:
+            reasons.append("Fewer transfers than other options")
+        elif s["transfers"] > best["transfers"]:
+            reasons.append(f"Requires {s['transfers']} transfers")
+
+        reasons.append(
+            f"Estimated cost RM {s['total_cost_rm']:.2f}"
+        )
+
+        explanations.append({
+            "rank": r["rank"],
+            "why": reasons
+        })
+
+    return explanations
+
+
+def print_top_k_explanations(explanations):
+    print("\n🏆 TOP RECOMMENDATIONS")
+    print("=" * 50)
+
+    for e in explanations:
+        print(f"#{e['rank']}")
+        for reason in e["why"]:
+            print(f"  • {reason}")
+        print("-" * 30)
 
 

@@ -3,11 +3,20 @@ from log.logger import setup_logging
 from log.logger import dump_logs
 
 from graph.builder import build_graph
-from graph.search import dijkstra
+from graph.search import dijkstra, find_top_k_path
 from graph.path import evaluate_path, final_score
+from data.map.index import load_locations
 
-from graph.path import build_user_route_result, print_user_route_result, explain_route
+
+from graph.path import (
+    build_user_route_result,
+    print_user_route_result,
+    print_top_k_explanations,
+    explain_top_k,
+    build_user_advise_result,
+)
 logger = setup_logging()
+load_locations()
 
 
 env = loader.load_env()
@@ -17,7 +26,7 @@ env.reset()
 
 loader.load_location(env)
 loader.load_edge(env)
-loader.load_line(env)   
+loader.load_line(env)
 
 loader.load_transfer(env)
 
@@ -67,8 +76,8 @@ path_edges, cost = dijkstra(
 # else:
 #     print("No path found")
 
-if not path_edges:
-    print("No path found")
+# if not path_edges:
+#     print("No path found")
 
 metrics = evaluate_path(path_edges)
 score = final_score(metrics, "cheapest")
@@ -85,6 +94,31 @@ result = build_user_route_result(
 # print("Final score:", score)
 
 print_user_route_result(result)
+
+paths = find_top_k_path(
+    graph,
+    79,
+    9,
+    3,
+    "cheapest"
+)
+
+results = [
+    build_user_advise_result(
+        i + 1,
+        p,
+        79,
+        9,
+        "cheapest"
+    )
+    for i, p in enumerate(paths)
+
+]
+
+explainations = explain_top_k(results)
+print_top_k_explanations(explainations)
+
+
 
 
 del env

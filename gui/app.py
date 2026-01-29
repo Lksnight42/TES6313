@@ -28,7 +28,7 @@ tk.Label(root, text="Destination Station:").grid(row=1, column=0, padx=10, pady=
 
 ttk.Combobox(root, textvariable=dest_var, values=stations, state="readonly").grid(row=1, column=1, padx=10, pady=10)
 
-tk.Label(root, text="Preference:").grid(row=2, column=0, padx=255,sticky="w")
+tk.Label(root, text="Preference:").grid(row=2, column=0, padx=180,sticky="w")
 
 pref_frame = tk.Frame(root)
 pref_frame.grid(row=2, column=1, padx=10, pady=10, sticky="w")
@@ -47,8 +47,15 @@ tk.Radiobutton(
     value="fastest"
 ).pack(side="left", padx=5)
 
-output_text = tk.Text(root, height=30, width=100)
-output_text.grid(row=45, column=0, columnspan=2, padx=10, pady=10)
+root.rowconfigure(45, weight=1)
+root.columnconfigure(0, weight=1)
+root.columnconfigure(1, weight=1)
+
+output_text = tk.Text(root, height=30, width=70)
+output_text.grid(row=45, column=0, sticky="sw", padx=(10, 0), pady=10)
+
+output_text2 = tk.Text(root, height=30, width=70)
+output_text2.grid(row=45, column=1, sticky="se", padx=(0, 10), pady=10)
 
 
 def on_find_route():
@@ -66,33 +73,41 @@ def on_find_route():
 
 def render_result(result):
     s = result["summary"]
+    steps = result["steps"]
 
-    output_text.insert(
-        tk.END,
-        f"Route from {ID_TO_NAME[s['start']]}"
-        f"to {ID_TO_NAME[s['end']]}\n\n"
-    )
+    def w(text=""):
+        output_text.insert(tk.END, text + "\n")
 
-    output_text.insert(
-        tk.END,
-        f"Total time: {s['total_time_min']:.2f} minutes\n"
-        f"Total cost: RM {s['total_cost_rm']:.2f}\n"
-        f"Transfer : {s['transfers']}\n\n"
-    )
+    w("=" * 40)
+    w("🚏 Route Recommendation")
+    w("=" * 40)
 
-    output_text.insert(tk.END, "Steps:\n")
+    w(f"From       : {ID_TO_NAME[s['start']]}")
+    w(f"To         : {ID_TO_NAME[s['end']]}")
+    w(f"Preference : {s['preference'].capitalize()}")
+    w("")
 
-    for i, step in enumerate(result["steps"], 1):
+    w(f"⏱ Total Time : {s['total_time_min']:.2f} min")
+    w(f"💰 Total Cost : RM {s['total_cost_rm']:.2f}")
+    w(f"🔁 Transfers  : {s['transfers']}")
+    w("")
+
+    w("-" * 40)
+    w("🧭 Steps")
+    w("-" * 40)
+
+    for i, step in enumerate(steps, 1):
         frm = ID_TO_NAME[step["from"]]
         to = ID_TO_NAME[step["to"]]
 
-        output_text.insert(
-            tk.END,
-            f"{i}. {frm} -> {to} \n"
-            f"   {step['action']} |"
-            f"{step['time_min']:.2f} min |"
-            f"RM {step['cost_rm']:.2f}\n\n"
+        w(f"{i:>2}. {frm} → {to}")
+        w(
+            f"    🚆 {step['action']} | "
+            f"{step['time_min']:.2f} min | "
+            f"RM {step['cost_rm']:.2f}"
         )
+        w("")
+
 
 
 tk.Button(root, text="Find Route", command=on_find_route).grid(row=3, column=0, columnspan=2, pady=10)
