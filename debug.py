@@ -5,8 +5,8 @@ from log.logger import dump_logs
 from graph.builder import build_graph
 from graph.search import dijkstra
 from graph.path import evaluate_path, final_score
-from graph.path import build_user_route_result, print_user_route_result, explain_route
 
+from graph.path import build_user_route_result, print_user_route_result, explain_route
 logger = setup_logging()
 
 
@@ -17,9 +17,9 @@ env.reset()
 
 loader.load_location(env)
 loader.load_edge(env)
-loader.load_line(env)
-loader.load_transfer(env)
+loader.load_line(env)   
 
+loader.load_transfer(env)
 
 env.run()
 

@@ -23,8 +23,8 @@ def build_graph(env) -> Graph:
     for fact in env.facts():
         if fact.template.name == "route":
             routes[fact["id"]] = {
-                "from": fact["start-location"],
-                "to": fact["end-location"],
+                "from": int(fact["start-location"]),
+                "to": int(fact["end-location"]),
                 "service": fact["service"],
                 "base-time": fact["base-time"],
                 "base-cost": fact["base-cost"],

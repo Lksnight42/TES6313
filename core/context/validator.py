@@ -1,7 +1,7 @@
 from typing import Set
-from core.contxt.model import UserContext
+from core.context.model import UserContext
 
-ALLOWED_PREFERENCES = {"fastest", "cheatpest", "balanced"}
+ALLOWED_PREFERENCES = {"fastest", "cheapest", "balanced"}
 ALLOWED_AVOID = {"traffic", "transfer", "night"}
 ALLOWED_FLEXIBILITY = {"low", "medium", "high", "very high"}
 
@@ -39,7 +39,7 @@ def validate_user_context(
                 f"invalid flexibility: {ctx.flexiblity}"
             )
 
-        if ctx.budget_limit is not None and ctx.budget_limit < 0:
+        if ctx.budget is not None and ctx.budget < 0:
             raise ValidationError(
                 "budget must be >=0"
             )
