@@ -66,9 +66,16 @@ def dijkstra(graph, start, end):
     return path_edges, dist[best_end_state]
 
 
+def path_signature(edges):
+    return tuple(
+        (e["from"], e["to"], e["service"])
+        for e in edges
+    )
+
 def find_top_k_path(graph, start, end, k, preference):
     paths = []
     penalties = {}
+    seen_signatures = set()
 
     for i in range(k):
         g = graph.clone()
@@ -79,6 +86,12 @@ def find_top_k_path(graph, start, end, k, preference):
         edges, _ = dijkstra(g, start, end)
         if not edges:
             break
+
+        sig = path_signature(edges)
+        if sig in seen_signatures:
+            break
+
+        seen_signatures.add(sig)
 
         metrics = evaluate_path(edges)
         score = final_score(metrics, preference)

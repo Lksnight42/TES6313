@@ -1,12 +1,12 @@
 import tkinter as tk
 from tkinter import ttk
 
-from data.map.index import load_locations, NAME_TO_ID, ID_TO_NAME, VALID_LOCATION_IDS
+from data.map.index import load_locations, NAME_TO_ID, ID_TO_NAME
 from gui.handlers import find_route_handler
 
 
 import loader.loader as loader
-from graph.path import print_user_route_result
+from graph.path import explain_top_k
 
 
 root = tk.Tk()
@@ -60,6 +60,7 @@ output_text2.grid(row=45, column=1, sticky="se", padx=(0, 10), pady=10)
 
 def on_find_route():
     output_text.delete(1.0, tk.END)
+    output_text2.delete(1.0, tk.END)
 
     src = source_var.get()
     dst = dest_var.get()
@@ -67,13 +68,16 @@ def on_find_route():
 
     try:
         result = find_route_handler(src,dst,pref)
-        render_result(result)
+        render_best_route(result)
+        render_top_k_explanations(result["alternatives"])
+
     except Exception as e:
         output_text.insert(tk.END, f"Error: {e}")
 
-def render_result(result):
-    s = result["summary"]
-    steps = result["steps"]
+def render_best_route(result):
+    best = result["best"]
+    s = best["summary"]
+    steps = best["steps"]
 
     def w(text=""):
         output_text.insert(tk.END, text + "\n")
@@ -108,6 +112,19 @@ def render_result(result):
         )
         w("")
 
+def render_top_k_explanations(explanations):
+    def w(text=""):
+        output_text2.insert(tk.END, text + "\n")
+
+    w("=" * 40)
+    w("📊 Alternative Routes (Top-K)")
+    w("=" * 40)
+
+    for exp in explanations:
+        w(f"Option #{exp['rank']}")
+        for reason in exp["why"]:
+            w(f"  • {reason}")
+        w("")
 
 
 tk.Button(root, text="Find Route", command=on_find_route).grid(row=3, column=0, columnspan=2, pady=10)

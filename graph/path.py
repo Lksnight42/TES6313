@@ -250,6 +250,13 @@ def build_user_advise_result(path_rank, path, start, end, preference):
 
 
 def explain_top_k(results):
+    if len(results) == 1:
+        return[{
+            "rank":1,
+            "why": [
+                "This is the only feasible route between the selected"
+            ]
+        }]
     explanations = []
 
     best = results[0]["summary"]

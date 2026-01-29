@@ -4,11 +4,12 @@ from log.logger import dump_logs
 
 from graph.builder import build_graph
 from graph.search import dijkstra, find_top_k_path
-from graph.path import evaluate_path, final_score
 from data.map.index import load_locations
 
 
 from graph.path import (
+    evaluate_path, 
+    final_score,
     build_user_route_result,
     print_user_route_result,
     print_top_k_explanations,
