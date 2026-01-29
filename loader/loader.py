@@ -93,6 +93,6 @@ def load_env():
     env.load(str(BASE / "core" / "expert" / "facts.clp"))
     env.load(str(BASE / "core" / "expert" / "log.clp"))
     env.load(str(BASE / "core" / "expert" / "rules.clp"))
-    env.load(str(BASE / "core" / "expert" / "test-scenarios.clp"))
+    # env.load(str(BASE / "core" / "expert" / "test-scenarios.clp"))
 
     return env

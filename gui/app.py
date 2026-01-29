@@ -17,25 +17,49 @@ stations = list(NAME_TO_ID.keys())
 
 source_var = tk.StringVar()
 dest_var = tk.StringVar()
+preference_var = tk.StringVar(value="cheapest")
+
 
 tk.Label(root, text="Source Station:").grid(row=0, column=0, padx=10, pady=10)
-tk.Label(root, text="Destination Station:").grid(row=1, column=0, padx=10, pady=10)
 
 ttk.Combobox(root, textvariable=source_var, values=stations, state="readonly").grid(row=0, column=1, padx=20, pady=20)
 
+tk.Label(root, text="Destination Station:").grid(row=1, column=0, padx=10, pady=10)
+
 ttk.Combobox(root, textvariable=dest_var, values=stations, state="readonly").grid(row=1, column=1, padx=10, pady=10)
 
+tk.Label(root, text="Preference:").grid(row=2, column=0, padx=255,sticky="w")
+
+pref_frame = tk.Frame(root)
+pref_frame.grid(row=2, column=1, padx=10, pady=10, sticky="w")
+
+tk.Radiobutton(
+    pref_frame,
+    text="Cheapest",
+    variable=preference_var,
+    value="cheapest"
+).pack(side="left", padx=(15, 10))
+
+tk.Radiobutton(
+    pref_frame,
+    text="Fastest",
+    variable=preference_var,
+    value="fastest"
+).pack(side="left", padx=5)
+
 output_text = tk.Text(root, height=30, width=100)
-output_text.grid(row=3, column=0, columnspan=2, padx=10, pady=10)
+output_text.grid(row=45, column=0, columnspan=2, padx=10, pady=10)
+
 
 def on_find_route():
     output_text.delete(1.0, tk.END)
 
     src = source_var.get()
     dst = dest_var.get()
+    pref = preference_var.get()
 
     try:
-        result = find_route_handler(src,dst)
+        result = find_route_handler(src,dst,pref)
         render_result(result)
     except Exception as e:
         output_text.insert(tk.END, f"Error: {e}")
@@ -71,6 +95,6 @@ def render_result(result):
         )
 
 
-tk.Button(root, text="Find Route", command=on_find_route).grid(row=2, column=0, columnspan=2, pady=10)
+tk.Button(root, text="Find Route", command=on_find_route).grid(row=3, column=0, columnspan=2, pady=10)
 
 root.mainloop()

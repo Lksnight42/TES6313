@@ -3,7 +3,7 @@ from core.context.model import UserContext
 from core.context.validator import validate_user_context, ValidationError
 from core.service import find_route
 
-def find_route_handler(src_name: str, dst_name: str):
+def find_route_handler(src_name: str, dst_name: str, pref: str):
 
     if not src_name or not dst_name:
         raise ValueError("Source and destination required")
@@ -15,7 +15,7 @@ def find_route_handler(src_name: str, dst_name: str):
         user_id="gui_user",
         start_location=NAME_TO_ID[src_name],
         end_location=NAME_TO_ID[dst_name],
-        preference="cheapest",
+        preference=pref,
         avoid=[],
         flexibility="medium",
     )

@@ -11,7 +11,7 @@
     (id u2)
     (start-location 42)
     (end-location 80)
-    (preference fastest)
+    (preference cheapest)
     (flexibility high))
 )
 
